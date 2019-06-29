@@ -1,6 +1,6 @@
 # Awesome Go
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-06-30 02:19:28(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-06-30 02:40:40(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -307,7 +307,7 @@
 
 ## 数据结构
 
-*通用的数据结构和算法在围棋。*
+*通用的数据结构和算法在 Go 。*
 * [algorithms](https://github.com/shady831213/algorithms) - **Star : 227** **最近提交 : 2019-04-03**  算法和数据结构。clr的研究。
 * [binpacker](https://github.com/zhuangsirui/binpacker) - **Star : 119** **最近提交 : 2018-06-17**  二进制封隔器和解包器帮助用户构建自定义二进制流。
 * [bit](https://github.com/yourbasic/bit) - **Star : 50** **最近提交 : 2018-03-13**   Go 集数据结构与奖金比特玩弄功能。
@@ -319,7 +319,7 @@
 * [conjungo](https://github.com/InVisionApp/conjungo) - **Star : 74** **最近提交 : 2019-05-22**  一个小型、强大和灵活的合并库。
 * [count-min-log](https://github.com/seiflotfy/count-min-log) - **Star : 41** **最近提交 : 2017-02-12**  Go实现Count-Min- log sketch:使用近似计数器进行近似计数(类似Count-Min sketch，但使用更少内存)。
 * [crunch](https://github.com/superwhiskers/crunch) - **Star : 18** **最近提交 : 2019-06-20**  打包实现缓冲区，以便轻松处理各种数据类型。
-* [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - **Star : 492** **最近提交 : 2019-03-03**  布谷鸟过滤器:一个很好的替代计数布卢姆过滤器实现在围棋。
+* [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - **Star : 492** **最近提交 : 2019-03-03**  布谷鸟过滤器:一个很好的替代计数布卢姆过滤器实现在 Go 。
 * [deque](https://github.com/edwingeng/deque) - **Star : 3** **最近提交 : 2019-02-13**  高度优化的双端队列。
 * [deque](https://github.com/gammazero/deque) - **Star : 58** **最近提交 : 2019-05-21**  快速环缓冲区deque(双端队列)。
 * [dict](https://github.com/srfrog/dict) - **Star : 6** **最近提交 : 2019-06-17**  类python字典(dict)。
@@ -512,12 +512,12 @@
 
 *用于处理日期和时间的库。*
 
-* [carbon](https://github.com/uniplaces/carbon) - **Star : 330** **最近提交 : 2019-01-16**  简单的时间扩展与许多util方法，从PHP碳库移植。
+* [carbon](https://github.com/uniplaces/carbon) - **Star : 330** **最近提交 : 2019-01-16**  简单的时间扩展与许多util方法，从PHP库移植。
 * [date](https://github.com/rickb777/date) - **Star : 27** **最近提交 : 2019-06-17**  增加处理日期、日期范围、时间跨度、时间段和一天中的时间的时间。
 * [dateparse](https://github.com/araddon/dateparse) - **Star : 875** **最近提交 : 2019-06-23**  在不知道格式的情况下解析日期。
 * [durafmt](https://github.com/hako/durafmt) - **Star : 234** **最近提交 : 2019-06-13**  时间长度格式化库。
 * [feiertage](https://github.com/wlbr/feiertage) - **Star : 21** **最近提交 : 2019-05-26**  组函数计算公众假期在德国,德国各州及专业化(Bundeslander)。复活节,五旬节,感恩节…
-* [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - **Star : 58** **最近提交 : 2019-03-16**  波斯历法(太阳历)在戈琅的实施。
+* [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - **Star : 58** **最近提交 : 2019-03-16**  波斯历法(太阳历)在 golang 的实施。
 * [go-sunrise](https://github.com/nathan-osman/go-sunrise) - **Star : 13** **最近提交 : 2017-11-22**  计算给定位置的日出和日落时间。
 * [goweek](https://github.com/grsmv/goweek) - **Star : 18** **最近提交 : 2017-01-04**  用于与golang中的week实体一起工作的库。
 * [iso8601](https://github.com/relvacode/iso8601) - **Star : 67** **最近提交 : 2018-12-21**  有效地解析没有正则表达式的ISO8601日期时间。
@@ -539,7 +539,7 @@
 * [digota](https://github.com/digota/digota) - **Star : 296** **最近提交 : 2018-10-15**  grpc电子商务microservice。
 * [dot](https://github.com/dotchain/dot/) - 使用操作转换/OT的分布式同步。
 * [doublejump](https://github.com/edwingeng/doublejump) - **Star : 37** **最近提交 : 2019-01-02**  修改了谷歌的跳转一致散列。
-* [dragonboat](https://github.com/lni/dragonboat) - **Star : 2432** **最近提交 : 2019-06-28**  一个功能齐全，高性能的多组筏库在围棋。
+* [dragonboat](https://github.com/lni/dragonboat) - **Star : 2432** **最近提交 : 2019-06-28**  一个功能齐全，高性能的多组筏库在 Go 。
 * [drmaa](https://github.com/dgruber/drmaa) - **Star : 24** **最近提交 : 2018-05-14**  基于DRMAA标准的集群调度程序作业提交库。
 * [dynamolock](https://cirello.io/dynamolock) - 支持dynamodb的分布式锁定实现。
 * [dynatomic](https://github.com/tylfin/dynatomic) - **Star : 8** **最近提交 : 2019-02-21**  使用DynamoDB作为原子计数器的库。
@@ -593,12 +593,12 @@
 
 *在go代码中嵌入其他语言。*
 
-* [agora](https://github.com/PuerkitoBio/agora) - **Star : 322** **最近提交 : 2015-01-26**  动态类型，可嵌入的编程语言在围棋。
+* [agora](https://github.com/PuerkitoBio/agora) - **Star : 322** **最近提交 : 2015-01-26**  动态类型，可嵌入的编程语言在 Go 。
 * [anko](https://github.com/mattn/anko) - **Star : 900** **最近提交 : 2019-06-28**  用Go编写的可编写脚本的解释器。
 * [binder](https://github.com/alexeyco/binder) - **Star : 28** **最近提交 : 2018-07-30**  转到基于[gopher-lua]的Lua绑定库(https://github.com/yuin/gopher-lua)。
 * [expr](https://github.com/antonmedv/expr) - **Star : 554** **最近提交 : 2019-06-27**  一个可以计算表达式的引擎。
 * [gentee](https://github.com/gentee/gentee) - **Star : 24** **最近提交 : 2019-06-28**  嵌入式脚本编程语言。
-* [gisp](https://github.com/jcla1/gisp) - **Star : 427** **最近提交 : 2017-08-25**  简单的LISP在围棋。
+* [gisp](https://github.com/jcla1/gisp) - **Star : 427** **最近提交 : 2017-08-25**  简单的LISP在 Go 。
 * [go-duktape](https://github.com/olebedev/go-duktape) - **Star : 647** **最近提交 : 2019-03-17**  Duktape JavaScript引擎绑定。
 * [go-lua](https://github.com/Shopify/go-lua) - **Star : 1633** **最近提交 : 2019-05-17**  端口的Lua 5.2 VM到纯Go。
 * [go-php](https://github.com/deuill/go-php) - **Star : 667** **最近提交 : 2018-10-07**  用于Go的PHP绑定。
@@ -675,7 +675,7 @@
 *在Go中支持函数式编程的包。*
 
 * [fpGo](https://github.com/TeaEntityLab/fpGo) - **Star : 98** **最近提交 : 2018-07-19**  Monad，为Golang提供函数式编程功能。
-* [fuego](https://github.com/seborama/fuego) - **Star : 33** **最近提交 : 2019-05-03**  在围棋中进行功能实验。
+* [fuego](https://github.com/seborama/fuego) - **Star : 33** **最近提交 : 2019-05-03**  在 Go 中进行功能实验。
 * [go-underscore](https://github.com/tobyhede/go-underscore) - **Star : 1057** **最近提交 : 2019-02-15**  有用的集合功能齐全的Go集合实用工具。
 
 ## 游戏开发
@@ -683,7 +683,7 @@
 *很棒的游戏开发库。*
 
 * [Azul3D](https://github.com/azul3d/engine) - **Star : 421** **最近提交 : 2018-06-25**  用Go编写的3D游戏引擎。
-* [Ebiten](https://github.com/hajimehoshi/ebiten) - **Star : 1770** **最近提交 : 2019-06-27**  死简单的2D游戏库在围棋。
+* [Ebiten](https://github.com/hajimehoshi/ebiten) - **Star : 1770** **最近提交 : 2019-06-27**  死简单的2D游戏库在 Go 。
 * [engo](https://github.com/EngoEngine/engo) - **Star : 1071** **最近提交 : 2019-04-09**  Engo是一个用Go编写的开源2D游戏引擎。它遵循实体-组件-系统范式。
 * [g3n](https://github.com/g3n/engine) - **Star : 721** **最近提交 : 2019-06-13**   Go 3D游戏引擎。
 * [GarageEngine](https://github.com/vova616/GarageEngine) - **Star : 308** **最近提交 : 2013-09-03**  用OpenGL编写的2d游戏引擎。
@@ -696,11 +696,11 @@
 * [goworld](https://github.com/xiaonanln/goworld) - **Star : 1131** **最近提交 : 2019-05-27**  可伸缩的游戏服务器引擎，具有空间实体框架和热交换功能。
 * [Leaf](https://github.com/name5566/leaf) - **Star : 2985** **最近提交 : 2018-12-28**  轻量级游戏服务器框架。
 * [nano](https://github.com/lonng/nano) - **Star : 956** **最近提交 : 2019-06-16**  轻量级、方便、高性能的基于golang的游戏服务器框架。
-* [Oak](https://github.com/oakmound/oak) - **Star : 620** **最近提交 : 2019-06-23**  纯围棋游戏引擎。
+* [Oak](https://github.com/oakmound/oak) - **Star : 620** **最近提交 : 2019-06-23**  纯 Go 游戏引擎。
 * [Pitaya](https://github.com/topfreegames/pitaya) - **Star : 281** **最近提交 : 2019-06-21**  可伸缩的游戏服务器框架，支持集群和客户端库的iOS, Android, Unity等通过C SDK。
-* [Pixel](https://github.com/faiface/pixel) - **Star : 2364** **最近提交 : 2019-06-23**  手工制作的2D游戏库在围棋。
+* [Pixel](https://github.com/faiface/pixel) - **Star : 2364** **最近提交 : 2019-06-23**  手工制作的2D游戏库在 Go 。
 * [raylib-go](https://github.com/gen2brain/raylib-go) - **Star : 377** **最近提交 : 2018-11-18**  Go bindings for [raylib](http://www.raylib.com/)，一个简单易用的库，用于学习视频游戏编程。
-* [termloop](https://github.com/JoelOtter/termloop) - **Star : 1017** **最近提交 : 2019-06-10**  基于终端的围棋游戏引擎，建立在Termbox之上。
+* [termloop](https://github.com/JoelOtter/termloop) - **Star : 1017** **最近提交 : 2019-06-10**  基于终端的 Go 游戏引擎，建立在Termbox之上。
 
 ## 代码生成与泛型
 
@@ -727,7 +727,7 @@
 * [gismanager](https://github.com/hishamkaram/gismanager) - **Star : 17** **最近提交 : 2018-10-30**  将GIS数据(矢量数据)发布到PostGIS和Geoserver。
 * [osm](https://github.com/paulmach/osm) - **Star : 58** **最近提交 : 2018-12-15**  用于读取、编写和处理OpenStreetMap数据和api的库。
 * [pbf](https://github.com/maguro/pbf) - **Star : 15** **最近提交 : 2018-10-15**  OpenStreetMap PBF golang编码器/解码器。
-* [S2 geometry](https://github.com/golang/geo) - **Star : 869** **最近提交 : 2019-05-08**  S2几何库在围棋。
+* [S2 geometry](https://github.com/golang/geo) - **Star : 869** **最近提交 : 2019-05-08**  S2几何库在 Go 。
 * [Tile38](https://github.com/tidwall/tile38) - **Star : 6259** **最近提交 : 2019-06-29**  具有空间索引和实时地理定位功能的地理定位数据库。
 
 ## Go 编译器
@@ -779,7 +779,7 @@
 *工具包*
 
 * [app](https://github.com/murlokswarm/app) - **Star : 2910** **最近提交 : 2019-06-16**  包创建应用程序与GO, HTML和CSS。支持:MacOS, Windows正在开发中。
-* [fyne](https://github.com/fyne-io/fyne) - **Star : 5996** **最近提交 : 2019-06-28**  跨平台的本地gui是为围棋而设计的，使用EFL呈现。支持:Linux, macOS, Windows。
+* [fyne](https://github.com/fyne-io/fyne) - **Star : 5996** **最近提交 : 2019-06-28**  跨平台的本地gui是为 Go 而设计的，使用EFL呈现。支持:Linux, macOS, Windows。
 * [go-astilectron](https://github.com/asticode/go-astilectron) - **Star : 2587** **最近提交 : 2019-06-26**  使用GO和HTML/JS/CSS(电子驱动)构建跨平台GUI应用程序。
 * [go-gtk](http://mattn.github.io/go-gtk/) - GTK的Go绑定。
 * [go-sciter](https://github.com/sciter-sdk/go-sciter) - **Star : 1415** **最近提交 : 2019-05-23**  Sciter的Go绑定:用于现代桌面UI开发的可嵌入HTML/CSS/脚本引擎。交叉平台。
@@ -814,9 +814,9 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 * [bild](https://github.com/anthonynsimon/bild) - **Star : 2016** **最近提交 : 2019-06-24**  集合了纯Go中的图像处理算法。
 * [bimg](https://github.com/h2non/bimg) - **Star : 767** **最近提交 : 2019-03-21**  使用libvips快速有效地处理图像的小程序包。
-* [cameron](https://github.com/aofei/cameron) - **Star : 30** **最近提交 : 2019-05-05**  一个围棋的化身生成器。
+* [cameron](https://github.com/aofei/cameron) - **Star : 30** **最近提交 : 2019-05-05**  一个 Go 的化身生成器。
 * [geopattern](https://github.com/pravj/geopattern) - **Star : 1008** **最近提交 : 2019-01-09**  从一个字符串创建美丽的生成图像模式。
-* [gg](https://github.com/fogleman/gg) - **Star : 1863** **最近提交 : 2019-06-12**  纯粹的围棋2D渲染。
+* [gg](https://github.com/fogleman/gg) - **Star : 1863** **最近提交 : 2019-06-12**  纯粹的 Go 2D渲染。
 * [gift](https://github.com/disintegration/gift) - **Star : 1202** **最近提交 : 2019-03-23**  图像处理滤波器包。
 * [gltf](https://github.com/qmuntal/gltf) - **Star : 34** **最近提交 : 2019-06-06**  高效、健壮的glTF 2.0阅读器、编写器和验证器。
 * [go-cairo](https://github.com/ungerik/go-cairo) - **Star : 85** **最近提交 : 2018-09-10**   Go 绑定cairo图形库。
@@ -833,7 +833,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [imaginary](https://github.com/h2non/imaginary) - **Star : 2538** **最近提交 : 2019-06-29**  快速和简单的HTTP微服务，用于图像大小调整。
 * [imaging](https://github.com/disintegration/imaging) - **Star : 2453** **最近提交 : 2019-06-11**  简单的 Go 图像处理软件包。
 * [img](https://github.com/hawx/img) - **Star : 128** **最近提交 : 2015-05-01**  图像处理工具的选择。
-* [ln](https://github.com/fogleman/ln) - **Star : 2437** **最近提交 : 2018-02-24**  3D线艺术渲染在围棋。
+* [ln](https://github.com/fogleman/ln) - **Star : 2437** **最近提交 : 2018-02-24**  3D线艺术渲染在 Go 。
 * [mergi](https://github.com/noelyahan/mergi) - **Star : 68** **最近提交 : 2019-05-14**  用于图像处理的工具和Go库(合并、裁剪、调整大小、水印、动画)。
 * [mort](https://github.com/aldor007/mort) - **Star : 362** **最近提交 : 2019-04-22**  存储和图像处理服务器写在Go。
 * [mpo](https://github.com/donatj/mpo) - **Star : 6** **最近提交 : 2019-01-26**  为MPO三维照片解码器和转换工具。
@@ -868,7 +868,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 *用于调度作业的库。*
 
 * [clockwerk](http://github.com/onatm/clockwerk) - Go package使用简单、流畅的语法安排周期性的作业。
-* [clockwork](https://github.com/whiteShtef/clockwork) - **Star : 74** **最近提交 : 2019-04-17**  简单直观的作业调度库在围棋。
+* [clockwork](https://github.com/whiteShtef/clockwork) - **Star : 74** **最近提交 : 2019-04-17**  简单直观的作业调度库在 Go 。
 * [go-cron](https://github.com/rk/go-cron) - **Star : 177** **最近提交 : 2015-05-15**  用于go的简单Cron库，可以在不同的时间间隔执行闭包或函数，从每秒一次到每年在特定的日期和时间执行一次。主要用于web应用程序和长时间运行的守护进程。
 * [gron](https://github.com/roylee0704/gron) - **Star : 620** **最近提交 : 2019-02-24**  定义基于时间的任务使用一个简单的API, Gron相应的调度程序将运行它们。
 * [JobRunner](https://github.com/bamzi/jobrunner) - **Star : 559** **最近提交 : 2016-10-19**  智能和功能丰富的cron作业调度程序与作业排队和实时监控内置。
@@ -907,7 +907,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-log](https://github.com/subchen/go-log) - **Star : 10** **最近提交 : 2018-05-19**  简单且可配置的登录Go，带有level、格式化程序和编写器。
 * [go-log](https://github.com/siddontang/go-log) - **Star : 23** **最近提交 : 2019-02-21**  日志库支持级别和多处理程序。
 * [go-log](https://github.com/ian-kent/go-log) - **Star : 34** **最近提交 : 2018-03-31**  在Go中实现Log4j。
-* [go-logger](https://github.com/apsdehal/go-logger) - **Star : 229** **最近提交 : 2019-05-16**  简单的日志程序的围棋程序，与级别处理程序。
+* [go-logger](https://github.com/apsdehal/go-logger) - **Star : 229** **最近提交 : 2019-05-16**  简单的日志程序的 Go 程序，与级别处理程序。
 * [gologger](https://github.com/sadlil/gologger) - **Star : 40** **最近提交 : 2018-01-31**  简单易用的日志库，日志在彩色控制台，简单控制台，文件或弹性搜索。
 * [gomol](https://github.com/aphistic/gomol) - **Star : 16** **最近提交 : 2019-03-14**  具有可扩展日志输出的多输出、结构化日志记录。
 * [gone/log](https://github.com/One-com/gone/tree/master/log) - 快速、可扩展、功能齐全、std-lib源代码兼容的日志库。
@@ -951,29 +951,29 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [evoli](https://github.com/khezen/evoli) - **Star : 7** **最近提交 : 2019-05-26**  遗传算法和粒子群优化库。
 * [fonet](https://github.com/Fontinalis/fonet) - **Star : 30** **最近提交 : 2018-04-10**  一个用Go编写的深度神经网络库。
 * [go-cluster](https://github.com/e-XpertSolutions/go-cluster) - **Star : 20** **最近提交 : 2018-08-06**  Go实现了k模式和k原型聚类算法。
-* [go-deep](https://github.com/patrikeh/go-deep) - **Star : 212** **最近提交 : 2018-09-14**  一个功能丰富的神经网络库在围棋。
+* [go-deep](https://github.com/patrikeh/go-deep) - **Star : 212** **最近提交 : 2018-09-14**  一个功能丰富的神经网络库在 Go 。
 * [go-fann](https://github.com/white-pony/go-fann) - **Star : 98** **最近提交 : 2015-02-04**  快速人工神经网络(FANN)库的Go绑定。
 * [go-galib](https://github.com/thoj/go-galib) - **Star : 169** **最近提交 : 2015-12-29**  用Go / golang编写的遗传算法库。
 * [go-pr](https://github.com/daviddengcn/go-pr) - **Star : 56** **最近提交 : 2013-06-08**  模式识别包在Go lang。
-* [gobrain](https://github.com/goml/gobrain) - **Star : 363** **最近提交 : 2019-04-19**  用围棋编写的神经网络。
+* [gobrain](https://github.com/goml/gobrain) - **Star : 363** **最近提交 : 2019-04-19**  用 Go 编写的神经网络。
 * [godist](https://github.com/e-dard/godist) - **Star : 23** **最近提交 : 2015-05-11**  各种概率分布，以及相关的方法。
 * [goga](https://github.com/tomcraven/goga) - **Star : 78** **最近提交 : 2017-01-16**  Go的遗传算法库。
 * [GoLearn](https://github.com/sjwhitworth/golearn) - **Star : 6586** **最近提交 : 2019-06-20**  通用机器学习库。
-* [golinear](https://github.com/danieldk/golinear) - **Star : 38** **最近提交 : 2018-08-29**  围棋的线性绑定。
-* [GoMind](https://github.com/surenderthakran/gomind) - **Star : 5** **最近提交 : 2018-07-31**  一个简单的神经网络库在围棋。
-* [goml](https://github.com/cdipaolo/goml) - **Star : 999** **最近提交 : 2019-04-13**  在线机器学习在围棋。
+* [golinear](https://github.com/danieldk/golinear) - **Star : 38** **最近提交 : 2018-08-29**   Go 的线性绑定。
+* [GoMind](https://github.com/surenderthakran/gomind) - **Star : 5** **最近提交 : 2018-07-31**  一个简单的神经网络库在 Go 。
+* [goml](https://github.com/cdipaolo/goml) - **Star : 999** **最近提交 : 2019-04-13**  在线机器学习在 Go 。
 * [goRecommend](https://github.com/timkaye11/goRecommend) - **Star : 140** **最近提交 : 2014-07-29**  推荐算法库用Go编写。
 * [gorgonia](https://github.com/chewxy/gorgonia) - **Star : 2637** **最近提交 : 2019-06-29**  基于图形的计算库，如Theano for Go，它为构建各种机器学习和神经网络算法提供了基本框架。
 * [gorse](https://github.com/zhenghaoz/gorse) - **Star : 507** **最近提交 : 2019-06-14**  基于协同过滤的Go高性能推荐系统包。
 * [goscore](https://github.com/asafschers/goscore) - **Star : 33** **最近提交 : 2019-05-04**   Go 为PMML评分API。
 * [gosseract](https://github.com/otiai10/gosseract) - **Star : 839** **最近提交 : 2019-05-30**  使用Tesseract c++库为OCR(光学字符识别)打包。
 * [libsvm](https://github.com/datastream/libsvm) - **Star : 62** **最近提交 : 2016-05-09**  基于libsvm的golang版本派生工作。
-* [mlgo](https://github.com/NullHypothesis/mlgo) - **Star : 4** **最近提交 : 2015-12-08**  这个项目的目的是在围棋中提供最小化的机器学习算法。
+* [mlgo](https://github.com/NullHypothesis/mlgo) - **Star : 4** **最近提交 : 2015-12-08**  这个项目的目的是在 Go 中提供最小化的机器学习算法。
 * [neat](https://github.com/jinyeom/neat) - **Star : 55** **最近提交 : 2018-07-05**  即插即用的并行Go框架，用于增强拓扑的神经进化(整洁)。
 * [neural-go](https://github.com/schuyler/neural-go) - **Star : 60** **最近提交 : 2014-04-02**  多层感知器网络在Go中实现，通过反向传播进行训练。
 * [ocrserver](https://github.com/otiai10/ocrserver) - **Star : 215** **最近提交 : 2019-03-21**  一个简单的OCR API服务器，非常容易被Docker和Heroku部署。
 * [onnx-go](https://github.com/owulveryck/onnx-go) - **Star : 136** **最近提交 : 2019-06-28**  Go接口打开神经网络交换(ONNX)。
-* [probab](https://github.com/ThePaw/probab) - **Star : 9** **最近提交 : 2015-09-14**  概率分布函数。贝叶斯推理。用纯围棋写的。
+* [probab](https://github.com/ThePaw/probab) - **Star : 9** **最近提交 : 2015-09-14**  概率分布函数。贝叶斯推理。用纯 Go 写的。
 * [regommend](https://github.com/muesli/regommend) - **Star : 242** **最近提交 : 2019-04-24**  推荐&协同过滤引擎。
 * [shield](https://github.com/eaigner/shield) - **Star : 122** **最近提交 : 2016-03-16**  贝叶斯文本分类器，具有灵活的令牌器和存储后端。
 * [tfgo](https://github.com/galeone/tfgo) - **Star : 1154** **最近提交 : 2019-05-27**  易于使用的Tensorflow绑定:简化了官方Tensorflow Go绑定的使用。在Go中定义计算图形，加载和执行Python中训练的模型。
@@ -1034,7 +1034,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-excel](https://github.com/szyhf/go-excel) - **Star : 46** **最近提交 : 2018-12-22**  一个简单而轻便的阅读器，可以将类似于关系数据库的excel作为表来读取。
 * [goxlsxwriter](https://github.com/fterrag/goxlsxwriter) - **Star : 12** **最近提交 : 2018-08-01**  用于编写XLSX (Microsoft Excel)文件的libxlsxwriter的Golang绑定。
 * [xlsx](https://github.com/tealeg/xlsx) - **Star : 3267** **最近提交 : 2019-06-05**  库，以简化在Go程序中读取Microsoft Excel最新版本使用的XML格式。
-* [xlsx](https://github.com/plandem/xlsx) - **Star : 58** **最近提交 : 2019-05-16**  快速和安全的方式读取/更新您现有的Microsoft Excel文件在围棋程序。
+* [xlsx](https://github.com/plandem/xlsx) - **Star : 58** **最近提交 : 2019-05-16**  快速和安全的方式读取/更新您现有的Microsoft Excel文件在 Go 程序。
 
 ## 杂项
 
@@ -1099,7 +1099,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [morse](https://github.com/alwindoss/morse) - **Star : 48** **最近提交 : 2019-02-23**  转换成莫尔斯电码和从莫尔斯电码转换成莫尔斯电码的程序库。
 * [numa](https://github.com/lrita/numa) - **Star : 2** **最近提交 : 2019-05-08**  NUMA是一个用go编写的实用程序库。它帮助我们编写一些NUMA-AWARED代码。
 * [pdfgen](https://github.com/hyperboloide/pdfgen) - **Star : 32** **最近提交 : 2018-02-19**  HTTP服务从Json请求生成PDF。
-* [persian](https://github.com/mavihq/persian) - **Star : 33** **最近提交 : 2018-08-05**  一些实用的波斯语在围棋。
+* [persian](https://github.com/mavihq/persian) - **Star : 33** **最近提交 : 2018-08-05**  一些实用的波斯语在 Go 。
 * [sandid](https://github.com/aofei/sandid) - **Star : 12** **最近提交 : 2019-05-05**  地球上的每一粒沙子都有自己的身份。
 * [shellwords](https://github.com/Wing924/shellwords) - **Star : 7** **最近提交 : 2017-10-03**  一个Golang库，根据UNIX Bourne shell的单词解析规则操纵字符串。
 * [shortid](https://github.com/teris-io/shortid) - **Star : 442** **最近提交 : 2017-10-29**  分布式生成超短、唯一、非顺序、URL友好的id。
@@ -1131,7 +1131,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [icu](https://github.com/goodsign/icu) - **Star : 19** **最近提交 : 2017-03-30**  Cgo绑定用于icu4c C库的检测和转换功能。保证与版本50.1兼容。
 * [kagome](https://github.com/ikawaha/kagome) - **Star : 411** **最近提交 : 2019-06-05**  JP形态学分析仪编写的纯Go。
 * [libtextcat](https://github.com/goodsign/libtextcat) - **Star : 10** **最近提交 : 2012-12-28**  用于libtextcat C库的Cgo绑定。保证与版本2.2兼容。
-* [MMSEGO](https://github.com/awsong/MMSEGO) - **Star : 59** **最近提交 : 2012-04-18**  这是一个围棋实现的[MMSEG](http://technology.chtsai.org/mmseg/)，这是一个中文分词算法。
+* [MMSEGO](https://github.com/awsong/MMSEGO) - **Star : 59** **最近提交 : 2012-04-18**  这是一个 Go 实现的[MMSEG](http://technology.chtsai.org/mmseg/)，这是一个中文分词算法。
 * [nlp](https://github.com/Shixzie/nlp) - **Star : 354** **最近提交 : 2017-09-18**  从字符串中提取值并用nlp填充结构。
 * [nlp](https://github.com/james-bowman/nlp) - **Star : 211** **最近提交 : 2019-04-08**  支持LSA(潜在语义分析)的Go自然语言处理库。
 * [paicehusk](https://github.com/rookii/paicehusk) - **Star : 25** **最近提交 : 2013-12-16**  Golang实现了Paice/外壳阻塞算法。
@@ -1143,7 +1143,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [segment](https://github.com/blevesearch/segment) - **Star : 47** **最近提交 : 2016-09-16**  如[Unicode标准附件#29]所述，执行Unicode文本分割的Go库(http://www.unicode.org/reports/tr29/)
 * [sentences](https://github.com/neurosnap/sentences) - **Star : 261** **最近提交 : 2019-04-17**  句子标记器:将文本转换为句子列表。
 * [shamoji](https://github.com/osamingo/shamoji) - **Star : 10** **最近提交 : 2019-04-30**  shamoji是用Go编写的word过滤包。
-* [snowball](https://github.com/goodsign/snowball) - **Star : 24** **最近提交 : 2017-06-27**  滚雪球柄端口(cgo包装)为围棋。提供词干提取功能[Snowball native](http://snowball.tartarus.org/)。
+* [snowball](https://github.com/goodsign/snowball) - **Star : 24** **最近提交 : 2017-06-27**  滚雪球柄端口(cgo包装)为 Go 。提供词干提取功能[Snowball native](http://snowball.tartarus.org/)。
 * [stemmer](https://github.com/dchest/stemmer) - **Star : 47** **最近提交 : 2016-12-07**  用于Go编程语言的Stemmer包。包括英语和德语词根。
 * [textcat](https://github.com/pebbe/textcat) - **Star : 60** **最近提交 : 2018-07-28**  Go package支持基于n-gram的文本分类，支持utf-8和原始文本。
 * [whatlanggo](https://github.com/abadojack/whatlanggo) - **Star : 342** **最近提交 : 2019-03-06**  Go的自然语言检测包。支持84种语言和24种脚本(书写系统，如拉丁语、西里尔语等)。
@@ -1156,7 +1156,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [arp](https://github.com/mdlayher/arp) - **Star : 191** **最近提交 : 2019-03-14**  包arp实现了arp协议，如RFC 826中所述。
 * [buffstreams](https://github.com/stabbycutyou/buffstreams) - **Star : 229** **最近提交 : 2017-06-02**  通过TCP传输协议缓冲区数据变得很容易。
 * [canopus](https://github.com/zubairhamed/canopus) - **Star : 134** **最近提交 : 2018-03-26**  CoAP客户机/服务器实现(RFC 7252)。
-* [cidranger](https://github.com/yl2chen/cidranger) - **Star : 374** **最近提交 : 2019-01-19**  快速IP到CIDR查找围棋。
+* [cidranger](https://github.com/yl2chen/cidranger) - **Star : 374** **最近提交 : 2019-01-19**  快速IP到CIDR查找 Go 。
 * [dhcp6](https://github.com/mdlayher/dhcp6) - **Star : 60** **最近提交 : 2019-03-12**  包dhcp6实现了一个DHCPv6服务器，如RFC 3315所述。
 * [dns](https://github.com/miekg/dns) - **Star : 3705** **最近提交 : 2019-06-28**  使用DNS的库。
 * [ether](https://github.com/songgao/ether) - **Star : 61** **最近提交 : 2016-04-05**  用于发送和接收以太网帧的跨平台Go包。
@@ -1168,7 +1168,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gNxI](https://github.com/google/gnxi) - **Star : 99** **最近提交 : 2019-06-19**  一组使用gNMI和gNOI协议的网络管理工具。
 * [go-getter](https://github.com/hashicorp/go-getter) - **Star : 684** **最近提交 : 2019-06-28**   Go 图书馆下载文件或目录从各种来源使用一个URL。
 * [go-stun](https://github.com/ccding/go-stun) - **Star : 321** **最近提交 : 2018-07-26**  Go实现了STUN客户机(RFC 3489和RFC 5389)。
-* [gobgp](https://github.com/osrg/gobgp) - **Star : 1645** **最近提交 : 2019-06-26**  用围棋编程语言实现的BGP。
+* [gobgp](https://github.com/osrg/gobgp) - **Star : 1645** **最近提交 : 2019-06-26**  用 Go 编程语言实现的BGP。
 * [golibwireshark](https://github.com/sunwxg/golibwireshark) - **Star : 14** **最近提交 : 2017-10-24**  golibwireshark包使用libwireshark库解码pcap文件并分析解剖数据。
 * [gopacket](https://github.com/google/gopacket) - **Star : 2771** **最近提交 : 2019-06-26**  使用libpcap绑定访问包处理库。
 * [gopcap](https://github.com/akrennmair/gopcap) - **Star : 347** **最近提交 : 2017-01-25**   Go 包装libpcap。
@@ -1315,7 +1315,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-dsp](https://github.com/mjibson/go-dsp) - **Star : 623** **最近提交 : 2018-05-08**  Go数字信号处理。
 * [go-fn](https://github.com/ematvey/go-fn) - **Star : 11** **最近提交 : 2015-04-28**  用Go语言编写的数学函数，不包括在math pkg中。
 * [go-gt](https://github.com/ThePaw/go-gt) - **Star : 5** **最近提交 : 2015-09-14**  用“Go”语言编写的图论算法。
-* [gocomplex](https://github.com/varver/gocomplex) - **Star : 5** **最近提交 : 2015-06-25**  用于围棋编程语言的复数库。
+* [gocomplex](https://github.com/varver/gocomplex) - **Star : 5** **最近提交 : 2015-06-25**  用于 Go 编程语言的复数库。
 * [goent](https://github.com/kzahedi/goent) - **Star : 13** **最近提交 : 2019-04-03**   Go 实现熵度量。
 * [gohistogram](https://github.com/VividCortex/gohistogram) - **Star : 126** **最近提交 : 2018-03-27**  数据流的近似直方图。
 * [gonum](https://github.com/gonum/gonum) - **Star : 2837** **最近提交 : 2019-06-29**  Gonum是一组用于Go编程语言的数字库。它包含用于矩阵、统计、优化等的库。
@@ -1451,13 +1451,13 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [goblin](https://github.com/franela/goblin) - **Star : 613** **最近提交 : 2019-03-31**  摩卡喜欢测试框架fo Go。
     * [gocheck](http://labix.org/gocheck) - 更先进的测试框架替代gotest。
     * [GoConvey](https://github.com/smartystreets/goconvey/) - bdd风格的框架与web UI和实时重载。
-    * [gocrest](https://github.com/corbym/gocrest) - **Star : 8** **最近提交 : 2018-02-04**  用于围棋断言的可组合的类仓鼠匹配器。
+    * [gocrest](https://github.com/corbym/gocrest) - **Star : 8** **最近提交 : 2018-02-04**  用于 Go 断言的可组合的类仓鼠匹配器。
     * [godog](https://github.com/DATA-DOG/godog) - **Star : 702** **最近提交 : 2019-05-29**  Cucumber或Behat类似于Go的BDD框架。
     * [gofight](https://github.com/appleboy/gofight) - **Star : 252** **最近提交 : 2019-06-11**  用于Golang路由器框架的API处理程序测试。
     * [gogiven](https://github.com/corbym/gogiven) - **Star : 7** **最近提交 : 2018-03-01**  类似于yatspec的Go BDD测试框架。
     * [gomatch](https://github.com/jfilipczyk/gomatch) - **Star : 29** **最近提交 : 2019-01-28**  为针对模式测试JSON而创建的库。
     * [gomega](http://onsi.github.io/gomega/) - Rspec类似于匹配器/断言库。
-    * [GoSpec](https://github.com/orfjackal/gospec) - **Star : 111** **最近提交 : 2014-08-01**  用于围棋编程语言的bdd风格的测试框架。
+    * [GoSpec](https://github.com/orfjackal/gospec) - **Star : 111** **最近提交 : 2014-08-01**  用于 Go 编程语言的bdd风格的测试框架。
     * [gospecify](https://github.com/stesla/gospecify) - **Star : 51** **最近提交 : 2011-10-18**  这为测试Go代码提供了一个BDD语法。任何使用过rspec之类库的人都应该熟悉它。
     * [gosuite](https://github.com/pavlo/gosuite) - **Star : 9** **最近提交 : 2016-10-19**  通过利用Go1.7的子测试，为“测试”带来带有设置/拆卸功能的轻量级测试套件。
     * [gotest.tools](https://github.com/gotestyourself/gotest.tools) - **Star : 108** **最近提交 : 2019-06-27**  一组包，用于增强go测试包并支持公共模式。
@@ -1507,7 +1507,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [align](https://github.com/Guitarbum722/align) - **Star : 57** **最近提交 : 2017-09-10**  对文本进行对齐的通用应用程序。
     * [allot](https://github.com/sbstjn/allot) - **Star : 33** **最近提交 : 2019-05-26**  用于CLI工具和机器人的占位符和通配符文本解析。
     * [bbConvert](https://github.com/CalebQ42/bbConvert) - **Star : 5** **最近提交 : 2016-09-14**  将bbCode转换为HTML，使您可以添加对自定义bbCode标记的支持。
-    * [blackfriday](https://github.com/russross/blackfriday) - **Star : 3792** **最近提交 : 2019-06-17**  降价处理器在围棋。
+    * [blackfriday](https://github.com/russross/blackfriday) - **Star : 3792** **最近提交 : 2019-06-17**  降价处理器在 Go 。
     * [bluemonday](https://github.com/microcosm-cc/bluemonday) - **Star : 1211** **最近提交 : 2019-03-15**  HTML洗手液。
     * [codetree](https://github.com/aerogo/codetree) - **Star : 6** **最近提交 : 2019-06-09**  解析缩进代码(python、pixy、scarlet等)并返回树结构。
     * [colly](https://github.com/asciimoo/colly) - **Star : 8038** **最近提交 : 2019-06-22**  快速和优雅的刮地框架为地鼠。
@@ -1676,7 +1676,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-health](https://github.com/Talento90/go-health) - **Star : 63** **最近提交 : 2018-06-14**  健康包简化了向服务中添加健康检查的方式。
 * [go-httpheader](https://github.com/mozillazg/go-httpheader) - **Star : 14** **最近提交 : 2018-11-03**   Go 库中编码结构到头字段。
 * [go-problemdetails](https://github.com/mvmaasakkers/go-problemdetails) - **Star : 2** **最近提交 : 2019-05-16**  打包处理问题细节。
-* [go-rate](https://github.com/beefsack/go-rate) - **Star : 292** **最近提交 : 2018-04-09**  围棋限速器。
+* [go-rate](https://github.com/beefsack/go-rate) - **Star : 292** **最近提交 : 2018-04-09**   Go 限速器。
 * [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - **Star : 103** **最近提交 : 2019-06-04**  用Go编写的XML站点地图生成器。
 * [go-torch](https://github.com/uber/go-torch) - **Star : 3623** **最近提交 : 2018-11-07**  用于Go程序的随机火焰图分析器。
 * [go-trigger](https://github.com/sadlil/go-trigger) - **Star : 180** **最近提交 : 2017-03-29**  Go-lang全局事件触发器，使用id注册事件并从项目的任何位置触发事件。
@@ -1816,7 +1816,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Aero](https://github.com/aerogo/aero) - **Star : 152** **最近提交 : 2019-06-17**  高性能的Go web框架，在Lighthouse中达到最高分。
 * [Air](https://github.com/aofei/air) - **Star : 512** **最近提交 : 2019-06-19**  一个理想的精细化的Go web框架。
 * [Banjo](https://github.com/nsheremet/banjo) - **Star : 7** **最近提交 : 2018-02-01**  非常简单和快速的网络框架 Go 。
-* [Beego](https://github.com/astaxie/beego) - **Star : 20986** **最近提交 : 2019-06-28**  beego是一种用于围棋编程语言的开源高性能web框架。
+* [Beego](https://github.com/astaxie/beego) - **Star : 20986** **最近提交 : 2019-06-28**  beego是一种用于 Go 编程语言的开源高性能web框架。
 * [Buffalo](http://gobuffalo.io) - 提高Rails的生产力!
 * [Echo](https://github.com/labstack/echo) - **Star : 14308** **最近提交 : 2019-06-28**  高性能、极简的Go web框架。
 * [Fireball](https://github.com/zpatrick/fireball) - **Star : 48** **最近提交 : 2018-10-04**  更“自然”的感觉web框架。
@@ -1827,7 +1827,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-rest](https://github.com/ungerik/go-rest) - **Star : 115** **最近提交 : 2017-01-20**  小而恶的休息框架为 Go 。
 * [Goa](https://github.com/goadesign/goa) - **Star : 3456** **最近提交 : 2019-06-28**  Goa为在Go中开发远程api和微服务提供了一种全面的方法。
 * [Golax](https://github.com/fulldump/golax) - **Star : 71** **最近提交 : 2018-06-04**  一个非Sinatra快速HTTP框架，支持谷歌自定义方法、深度拦截器、递归等。
-* [Golf](https://github.com/dinever/golf) - **Star : 235** **最近提交 : 2017-02-25**  高尔夫是一个快速、简单、轻量级的围棋微web框架。它具有强大的功能，除了Go标准库之外没有其他依赖项。
+* [Golf](https://github.com/dinever/golf) - **Star : 235** **最近提交 : 2017-02-25**  高尔夫是一个快速、简单、轻量级的 Go 微web框架。它具有强大的功能，除了Go标准库之外没有其他依赖项。
 * [Gondola](https://github.com/rainycape/gondola) - **Star : 315** **最近提交 : 2019-02-19**  web框架写的网站越快越好。
 * [gongular](https://github.com/mustafaakin/gongular) - **Star : 415** **最近提交 : 2019-02-19**  带有输入映射/验证和(DI)依赖注入的快速web框架。
 * [hiboot](https://github.com/hidevopsio/hiboot) - **Star : 80** **最近提交 : 2019-04-30**  hiboot是一个高性能的web应用程序框架，支持自动配置和依赖注入。
@@ -1986,7 +1986,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 * [colorgo](https://github.com/songgao/colorgo) - **Star : 95** **最近提交 : 2016-10-28**  将“go”命令包装成彩色的“go build”输出。
 * [depth](https://github.com/KyleBanks/depth) - **Star : 368** **最近提交 : 2019-03-03**  通过分析导入，可视化任何包的依赖关系树。
-* [gb](https://getgb.io/) - 一个易于使用的基于项目的构建工具的围棋编程语言。
+* [gb](https://getgb.io/) - 一个易于使用的基于项目的构建工具的 Go 编程语言。
 * [generator-go-lang](https://github.com/axelspringer/generator-go-lang) - **Star : 13** **最近提交 : 2019-06-21**  一个[Yeoman](http://yeoman.io)生成器，用于启动新的Go项目。
 * [gilbert](https://go-gilbert.github.io) - 为Go项目构建系统和任务运行器。
 * [go-callvis](https://github.com/TrueFurby/go-callvis) - **Star : 1916** **最近提交 : 2019-01-15**  使用点格式可视化Go程序的调用图。
@@ -2059,7 +2059,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ### 其他软件
 * [borg](https://github.com/crufter/borg) - **Star : 1415** **最近提交 : 2018-02-08**  基于终端的bash代码段搜索引擎。
 * [boxed](https://github.com/tejo/boxed) - **Star : 72** **最近提交 : 2018-08-10**  基于Dropbox的博客引擎。
-* [Cherry](https://github.com/rafael-santiago/cherry) - **Star : 192** **最近提交 : 2017-06-24**  微型网络聊天服务器在围棋。
+* [Cherry](https://github.com/rafael-santiago/cherry) - **Star : 192** **最近提交 : 2017-06-24**  微型网络聊天服务器在 Go 。
 * [Circuit](https://github.com/gocircuit/circuit) - **Star : 1775** **最近提交 : 2019-05-17**  电路是一个可编程平台即服务(PaaS)和/或基础设施即服务(IaaS)，用于管理、发现、同步和编排包含云应用程序的服务和主机。
 * [Comcast](https://github.com/tylertreat/Comcast) - **Star : 6123** **最近提交 : 2018-10-21**  模拟坏的网络连接。
 * [confd](https://github.com/kelseyhightower/confd) - **Star : 6306** **最近提交 : 2019-06-14**  使用etcd或领事中的模板和数据管理本地应用程序配置文件。
@@ -2071,7 +2071,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gfile](https://github.com/Antonito/gfile) - **Star : 486** **最近提交 : 2019-04-13**  通过WebRTC在两台计算机之间安全地传输文件，不需要任何第三方。
 * [Go Package Store](https://github.com/shurcooL/Go-Package-Store) - **Star : 879** **最近提交 : 2018-12-17**  应用程序，显示更新的Go包在您的GOPATH。
 * [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) - **Star : 373** **最近提交 : 2019-02-23**  视频流torrent客户端。
-* [GoBoy](https://github.com/Humpheh/goboy) - **Star : 2090** **最近提交 : 2019-06-11**  任天堂Game Boy彩色模拟器编写在围棋。
+* [GoBoy](https://github.com/Humpheh/goboy) - **Star : 2090** **最近提交 : 2019-06-11**  任天堂Game Boy彩色模拟器编写在 Go 。
 * [gocc](https://github.com/goccmack/gocc) - **Star : 334** **最近提交 : 2019-06-24**  Gocc是一个用Go编写的编译器工具包。
 * [GoDNS](https://github.com/timothyye/godns) - **Star : 417** **最近提交 : 2019-05-24**  一个动态DNS客户端工具，支持DNSPod & HE.net，用Go编写。
 * [GoDocTooltip](https://github.com/diankong/GoDocTooltip) - **Star : 12** **最近提交 : 2016-01-30**  Chrome扩展的Go Doc网站，其中显示的功能描述作为工具提示在功能列表。
@@ -2083,13 +2083,13 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [joincap](https://github.com/assafmo/joincap) - **Star : 121** **最近提交 : 2019-05-06**  用于合并多个pcap文件的命令行实用程序。
 * [Juju](https://jujucharms.com/) - 与云无关的服务部署和编制——支持EC2、Azure、Openstack、MAAS等。
 * [Leaps](https://github.com/jeffail/leaps) - **Star : 640** **最近提交 : 2019-03-03**  使用操作转换的成对编程服务。
-* [lgo](https://github.com/yunabe/lgo) - **Star : 1762** **最近提交 : 2019-03-22**  与木星互动围棋编程。它支持代码完成、代码检查和100% Go兼容性。
+* [lgo](https://github.com/yunabe/lgo) - **Star : 1762** **最近提交 : 2019-03-22**  与木星互动 Go 编程。它支持代码完成、代码检查和100% Go兼容性。
 * [limetext](http://limetext.org/) - Lime Text是一个强大而优雅的文本编辑器，最初是在Go中开发的，它的目标是成为卓越文本的免费和开源软件的继承者。
 * [LiteIDE](https://github.com/visualfc/liteide) - **Star : 5400** **最近提交 : 2019-06-23**  LiteIDE是一个简单的、开源的、跨平台的Go IDE。
 * [mockingjay](https://github.com/quii/mockingjay-server) - **Star : 406** **最近提交 : 2019-06-18**  从一个配置文件中伪造HTTP服务器和消费者驱动的契约。您还可以使服务器随机失常，以帮助进行更实际的性能测试。
 * [myLG](https://github.com/mehrdadrad/mylg) - **Star : 2181** **最近提交 : 2018-10-29**  用Go编写的命令行网络诊断工具。
 * [naclpipe](https://github.com/unix4fun/naclpipe) - **Star : 20** **最近提交 : 2018-11-18**  简单的NaCL EC25519基于加密管工具编写的Go。
-* [nes](https://github.com/fogleman/nes) - **Star : 4096** **最近提交 : 2019-06-17**  任天堂娱乐系统(NES)模拟器用围棋编写。
+* [nes](https://github.com/fogleman/nes) - **Star : 4096** **最近提交 : 2019-06-17**  任天堂娱乐系统(NES)模拟器用 Go 编写。
 * [orange-cat](https://github.com/noraesae/orange-cat) - **Star : 178** **最近提交 : 2019-01-14**  用Go编写的Markdown预览器。
 * [Orbit](https://github.com/gulien/orbit) - **Star : 128** **最近提交 : 2018-06-17**  一个运行命令和从模板生成文件的简单工具。
 * [peg](https://github.com/pointlander/peg) - **Star : 587** **最近提交 : 2019-06-21**  Peg，解析表达式语法，是Packrat解析器生成器的实现。
@@ -2127,7 +2127,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gospeed](https://github.com/feyeleanor/GoSpeed) - **Star : 93** **最近提交 : 2018-09-24**  使用微基准测试来计算语言结构的速度。
 * [kvbench](https://github.com/jimrobinson/kvbench) - **Star : 14** **最近提交 : 2014-04-20**  键/值数据库基准。
 * [skynet](https://github.com/atemerev/skynet) - **Star : 907** **最近提交 : 2019-05-12**  天网1M线程微基准测试。
-* [speedtest-resize](https://github.com/fawick/speedtest-resize) - **Star : 172** **最近提交 : 2017-03-14**  比较各种图像大小调整算法的围棋语言。
+* [speedtest-resize](https://github.com/fawick/speedtest-resize) - **Star : 172** **最近提交 : 2017-03-14**  比较各种图像大小调整算法的 Go 语言。
 
 ## 会议
 
@@ -2149,16 +2149,16 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [GothamGo](http://gothamgo.com/) - 美国纽约市。
 * [GoWayFest](https://goway.io/) - 白俄罗斯明斯克。
 
-## 电子书
+## E-Books
 
 * [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 * [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
-* [Go 101](https://go101.org) - 一本关注围棋语法/语义和各种细节的书。
+* [Go 101](https://go101.org) - 一本关注 Go 语法/语义和各种细节的书。
 * [Go Bootcamp](http://golangbootcamp.com)
-* [Go Succinctly](https://github.com/thedevsir/gosuccinctly) - **Star : 10** **最近提交 : 2018-10-03**  在波斯。
-* [GoBooks](https://github.com/dariubs/GoBooks) - **Star : 6663** **最近提交 : 2019-05-30**  一份精选的围棋书籍清单。
+* [Go Succinctly](https://github.com/thedevsir/gosuccinctly) - **Star : 10** **最近提交 : 2018-10-03**  in Persian.
+* [GoBooks](https://github.com/dariubs/GoBooks) - **Star : 6663** **最近提交 : 2019-05-30**  一份精选的 Go 书籍清单。
 * [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 * [Network Programming With Go](https://jan.newmarch.name/go/)
 * [The Go Programming Language](http://www.gopl.io/)
@@ -2169,15 +2169,15 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## Gophers
 
-* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) - **Star : 1457** **最近提交 : 2019-06-14**  Gopher图形包由玛丽亚莱塔与插图和情感字符在矢量和光栅。
-* [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) - **Star : 32** **最近提交 : 2018-03-04**   Go 地鼠媒介数据[。ai . svg)。
-* [gopher-logos](https://github.com/GolangUA/gopher-logos) - **Star : 62** **最近提交 : 2018-06-27**  可爱的小田鼠标识。
+* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) - **Star : 1457** **最近提交 : 2019-06-14**  由 Maria Letta 提供的与 Gopher 有关的图片包，其中包含了插图,表情文字。
+* [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) - **Star : 32** **最近提交 : 2018-03-04**  与 Go gopher 相关的媒介数据[。ai . svg)。
+* [gopher-logos](https://github.com/GolangUA/gopher-logos) - **Star : 62** **最近提交 : 2018-06-27**  可爱的 gopher 标识。
 * [gopher-stickers](https://github.com/tenntenn/gopher-stickers)
 * [gopher-vector](https://github.com/golang-samples/gopher-vector)
 * [gophericons](https://github.com/shalakhin/gophericons)
 * [gopherize.me](https://github.com/matryer/gopherize.me) - **Star : 312** **最近提交 : 2018-10-21**  Gopherize自己。
 * [gophers](https://github.com/ashleymcnamara/gophers) - **Star : 1809** **最近提交 : 2019-04-13**  阿什莉·麦克纳马拉的歌斐艺术品。
-* [gophers](https://github.com/egonelbre/gophers) - **Star : 1545** **最近提交 : 2019-03-18**  免费打地鼠。
+* [gophers](https://github.com/egonelbre/gophers) - **Star : 1545** **最近提交 : 2019-03-18**  Free gophers.
 * [gophers](https://github.com/rogeralsing/gophers) - **Star : 49** **最近提交 : 2017-03-19**  随机gopher图形。
 * [gophers](https://github.com/sillecelik/go-gopher) - **Star : 41** **最近提交 : 2019-03-21**  Gopher amigurumi玩具图案。
 
