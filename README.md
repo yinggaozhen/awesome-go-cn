@@ -1,6 +1,14 @@
 # Awesome Go
 
+[Gold]: ./docs/gold.svg "金牌"
+[Silver]: ./docs/silver.svg "银牌"
+[Bronze]: ./docs/bronze.svg "铜牌"
+
 **此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-02 15:51:45(每隔1天同步一次)**
+
+[![金牌][Gold]]
+[![银牌][Silver]]
+[![铜牌][Bronze]]
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
