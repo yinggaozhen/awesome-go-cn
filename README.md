@@ -1,6 +1,6 @@
 # Awesome Go
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-02 15:34:07(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-02 15:51:45(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -124,7 +124,7 @@
 * [mix](https://github.com/go-mix/mix) - **Star : 95** **最近提交 : 2017-06-25**  基于序列的 Go 原生音乐混音器。
 * [mp3](https://github.com/tcolgate/mp3) - **Star : 89** **最近提交 : 2017-04-27**  原生 Go MP3解码器。
 * [music-theory](https://github.com/go-music-theory/music-theory) - **Star : 250** **最近提交 : 2018-06-13**  基于 Go 的音乐理论模型。
-* [Oto](https://github.com/hajimehoshi/oto) - **Star : 382** **最近提交 : 2019-06-27**  多平台的 low-level 声音播放库。
+* [Oto](https://github.com/hajimehoshi/oto) - **Star : 383** **最近提交 : 2019-06-27**  多平台的 low-level 声音播放库。
 * [PortAudio](https://github.com/gordonklaus/portaudio) - **Star : 295** **最近提交 : 2018-08-20**  基于 Go 的PortAudio audio I/O库。
 * [portmidi](https://github.com/rakyll/portmidi) - **Star : 203** **最近提交 : 2017-07-16**  PortMidi的 Go 语言实现接口。。
 * [taglib](https://github.com/wtolson/go-taglib) - **Star : 66** **最近提交 : 2018-07-18**  taglib 的 Go 语言实现接口。。
@@ -135,11 +135,11 @@
 
 *用于实现验证方案的库。*
 
-* [authboss](https://github.com/volatiletech/authboss) - **Star : 1891** **最近提交 : 2019-06-29**  web模块化认证系统。它试图删除尽可能多的模板文件和硬编码，以便每次新建一个新的web项目时，您都可以插入、配置并开始构建您的应用程序，而不必每次都构建一个身份验证系统。
+* [authboss](https://github.com/volatiletech/authboss) - **Star : 1892** **最近提交 : 2019-06-29**  web模块化认证系统。它试图删除尽可能多的模板文件和硬编码，以便每次新建一个新的web项目时，您都可以插入、配置并开始构建您的应用程序，而不必每次都构建一个身份验证系统。
 * [branca](https://github.com/hako/branca) - **Star : 67** **最近提交 : 2018-08-08**  基于 Go 实现Branca令牌。
 * [casbin](https://github.com/hsluoyz/casbin) - **Star : 4653** **最近提交 : 2019-07-01**  支持ACL、RBAC、ABAC等访问控制模型的授权库。
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) - **Star : 2** **最近提交 : 2017-10-09**  提供cookie .txt文件格式的解析器。
-* [go-jose](https://github.com/square/go-jose) - **Star : 1087** **最近提交 : 2019-06-27**  相当完整地实现了JOSE工作组的JSON Web令牌、JSON Web签名和JSON Web加密规范。
+* [go-jose](https://github.com/square/go-jose) - **Star : 1088** **最近提交 : 2019-06-27**  相当完整地实现了JOSE工作组的JSON Web令牌、JSON Web签名和JSON Web加密规范。
 * [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - **Star : 1247** **最近提交 : 2019-06-21**  用 Golang 编写的独立且符合规范的OAuth2服务器。
 * [gologin](https://github.com/dghubble/gologin) - **Star : 1028** **最近提交 : 2019-03-05**  用于使用OAuth1和OAuth2身份验证提供者登录的可链处理程序。
 * [gorbac](https://github.com/mikespook/gorbac) - **Star : 896** **最近提交 : 2019-03-21**  轻量级的基于角色的访问控制(RBAC)实现。
@@ -148,9 +148,9 @@
 * [jwt](https://github.com/robbert229/jwt) - **Star : 68** **最近提交 : 2018-11-09**  简单易用的JSON Web令牌实现(JWT)。
 * [jwt](https://github.com/pascaldekloe/jwt) - **Star : 76** **最近提交 : 2019-07-01**  轻量级JSON Web令牌库。
 * [jwt-auth](https://github.com/adam-hanna/jwt-auth) - **Star : 151** **最近提交 : 2019-01-30**  JWT中间件，可用于Golang http服务器，提供了许多配置选项。
-* [jwt-go](https://github.com/dgrijalva/jwt-go) - **Star : 5706** **最近提交 : 2019-06-25**  JSON Web令牌(JWT)。
+* [jwt-go](https://github.com/dgrijalva/jwt-go) - **Star : 5709** **最近提交 : 2019-06-25**  JSON Web令牌(JWT)。
 * [loginsrv](https://github.com/tarent/loginsrv) - **Star : 793** **最近提交 : 2019-06-03**  JWT登录微服务带有可插拔的后端服务，如OAuth2 (Github)、htpasswd、osiam。
-* [oauth2](https://github.com/golang/oauth2) - **Star : 2324** **最近提交 : 2019-06-18**  goauth2的继任者。通用OAuth 2.0包，附带JWT、谷歌api、计算引擎和应用程序引擎支持。
+* [oauth2](https://github.com/golang/oauth2) - **Star : 2325** **最近提交 : 2019-06-18**  goauth2的继任者。通用OAuth 2.0包，附带JWT、谷歌api、计算引擎和应用程序引擎支持。
 * [osin](https://github.com/openshift/osin) - **Star : 1535** **最近提交 : 2019-05-14**  OAuth2服务器库。
 * [paseto](https://github.com/o1egl/paseto) - **Star : 220** **最近提交 : 2019-05-06**  平台无关的安全令牌(PASETO)。
 * [permissions2](https://github.com/xyproto/permissions2) - **Star : 346** **最近提交 : 2019-06-13**  用于跟踪用户、登录状态和权限的库。依赖于cookie安全和bcrypt。
@@ -195,7 +195,7 @@
 * [cli-init](https://github.com/tcnksm/gcli) - **Star : 867** **最近提交 : 2017-11-20**  一个简单就可开启构建Golang命令行的应用程序。
 * [climax](http://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
 * [cmdr](https://github.com/hedzr/cmdr) - **Star : 7** **最近提交 : 2019-06-24**  一个POSIX/GNU风格的、类似getopt的命令行UI Go库。
-* [cobra](https://github.com/spf13/cobra) - **Star : 12554** **最近提交 : 2019-06-29**  现代Go CLI命令行交互工具。
+* [cobra](https://github.com/spf13/cobra) - **Star : 12559** **最近提交 : 2019-06-29**  现代Go CLI命令行交互工具。
 * [commandeer](https://github.com/jaffee/commandeer) - **Star : 78** **最近提交 : 2019-06-29**  开发友好的CLI应用程序。
 * [complete](https://github.com/posener/complete) - **Star : 607** **最近提交 : 2019-07-01**  使用 Go 语言编写的 bash 命令补全工具以及 Go 命令补全工具.
 * [docopt.go](https://github.com/docopt/docopt.go) - **Star : 1133** **最近提交 : 2018-09-25**  会让你满意的命令行参数解析器。
@@ -206,7 +206,7 @@
 * [go-arg](https://github.com/alexflint/go-arg) - **Star : 641** **最近提交 : 2019-05-04**  基于结构的参数解析。
 * [go-commander](https://github.com/yitsushi/go-commander) - **Star : 14** **最近提交 : 2019-05-16**  用于简化CLI工作流的 Go 库。
 * [go-flags](https://github.com/jessevdk/go-flags) - **Star : 1488** **最近提交 : 2019-06-17**   Go 命令行选项解析器。
-* [go-getoptions](https://github.com/DavidGamba/go-getoptions) - **Star : 5** **最近提交 : 2019-06-29**   Go 选择解析器，借鉴于Perl灵活性的GetOpt::Long。
+* [go-getoptions](https://github.com/DavidGamba/go-getoptions) - **Star : 5** **最近提交 : 2019-07-02**   Go 选择解析器，借鉴于Perl灵活性的GetOpt::Long。
 * [gocmd](https://github.com/devfacet/gocmd) - **Star : 33** **最近提交 : 2018-09-05**  用于构建命令行应用程序。
 * [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - 具有自动配置和依赖注入的cli应用程序框架。
 * [job](https://github.com/liujianping/job) - **Star : 41** **最近提交 : 2019-05-23**  工作，把你的短期指令当作长期任务。
@@ -220,7 +220,7 @@
 * [sflags](https://github.com/octago/sflags) - **Star : 84** **最近提交 : 2019-02-03**  基于结构的flag生成器，用于flag、urfave/cli、pflag、cobra、kingpin和其他库。
 * [strumt](https://github.com/antham/strumt) - **Star : 27** **最近提交 : 2019-03-02**  用于创建提示链。
 * [ukautz/clif](https://github.com/ukautz/clif) - **Star : 98** **最近提交 : 2019-02-18**  简小的命令行接口框架。
-* [urfave/cli](https://github.com/urfave/cli) - **Star : 11061** **最近提交 : 2019-06-28**  可让你简单、快速和愉快的构建命令行应用(之前是codegangsta/cli)。
+* [urfave/cli](https://github.com/urfave/cli) - **Star : 11063** **最近提交 : 2019-06-28**  可让你简单、快速和愉快的构建命令行应用(之前是codegangsta/cli)。
 * [wlog](https://github.com/dixonwille/wlog) - **Star : 33** **最近提交 : 2017-07-21**  支持跨平台和并发的简单日志记录接口。
 * [wmenu](https://github.com/dixonwille/wmenu) - **Star : 80** **最近提交 : 2019-05-08**  为cli程序提供了简单上手的菜单，可提示用户作出选择。
 
@@ -2088,7 +2088,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [GoDNS](https://github.com/timothyye/godns) - **Star : 417** **最近提交 : 2019-05-24**  一个动态DNS客户端工具，支持DNSPod & HE.net。
 * [GoDocTooltip](https://github.com/diankong/GoDocTooltip) - **Star : 12** **最近提交 : 2016-01-30**  包含了 Go 使用手册文档的 Chrome 扩展。
 * [GoLand](https://jetbrains.com/go) - 功能齐全的跨平台 Go IDE。
-* [Gor](https://github.com/buger/gor) - **Star : 11189** **最近提交 : 2019-07-01**  Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。
+* [Gor](https://github.com/buger/gor) - **Star : 11190** **最近提交 : 2019-07-01**  Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。
 * [hugo](http://gohugo.io/) - 快速、现代的静态网站引擎。
 * [ide](https://github.com/thestrukture/ide) - **Star : 249** **最近提交 : 2019-05-27**  基于浏览器的IDE
 * [ipe](https://github.com/dimiro1/ipe) - **Star : 274** **最近提交 : 2018-12-19**  Open source Pusher server implementation compatible with Pusher client libraries written in GO.
