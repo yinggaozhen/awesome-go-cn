@@ -1,6 +1,6 @@
 # Awesome Go
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-02 12:05:12(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-02 15:34:07(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -155,6 +155,7 @@
 * [paseto](https://github.com/o1egl/paseto) - **Star : 220** **最近提交 : 2019-05-06**  平台无关的安全令牌(PASETO)。
 * [permissions2](https://github.com/xyproto/permissions2) - **Star : 346** **最近提交 : 2019-06-13**  用于跟踪用户、登录状态和权限的库。依赖于cookie安全和bcrypt。
 * [rbac](https://github.com/zpatrick/rbac) - **Star : 25** **最近提交 : 2018-08-30**  最小的RBAC包。
+* [scs](https://github.com/alexedwards/scs) - **Star : 515** **最近提交 : 2019-06-21**  HTTP服务器的会话管理器。
 * [securecookie](https://github.com/chmike/securecookie) - **Star : 31** **最近提交 : 2018-08-31**  高效安全的cookie编码/解码。
 * [session](https://github.com/icza/session) - **Star : 87** **最近提交 : 2019-06-29**  web服务器会话管理(包括支持谷歌应用程序引擎- GAE)。
 * [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) - **Star : 8** **最近提交 : 2018-11-10**  使用SessionGate Redis模块进行会话管理。
@@ -175,6 +176,7 @@
 * [margelet](https://github.com/zhulik/margelet) - **Star : 57** **最近提交 : 2016-09-18**  构建电报机器人的框架。
 * [micha](https://github.com/onrik/micha) - **Star : 10** **最近提交 : 2018-02-15**  基于 GO 实现的Telegram 机器人API库。
 * [slacker](https://github.com/shomali11/slacker) - **Star : 298** **最近提交 : 2019-06-08**  可简单创建Slack机器人的框架。
+* [slackscot](https://github.com/alexandre-normand/slackscot) - **Star : 10** **最近提交 : 2019-07-02**  另一个构建Slack机器人的框架。
 * [tbot](https://github.com/yanzay/tbot) - **Star : 212** **最近提交 : 2019-06-15**  带有类似于net/http API的Telegram bot服务器。
 * [telebot](https://github.com/tucnak/telebot) - **Star : 923** **最近提交 : 2019-05-20**  用Go编写的Telegram bot框架。
 * [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - **Star : 1556** **最近提交 : 2019-06-19**  简单轻量级的Telegram bot客户端。
@@ -275,11 +277,13 @@
 * [gofigure](https://github.com/ian-kent/gofigure) - **Star : 57** **最近提交 : 2017-05-03**  让程序配置变得简单。
 * [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) - 模块化的JSON配置。保持配置结构及其配置的代码，并将解析委托给子模块，而不牺牲配置的完整序列化。
 * [gookit/config](https://github.com/gookit/config) - **Star : 71** **最近提交 : 2019-07-01**  程序配置管理(load,get,set)。支持JSON, YAML, TOML, INI, HCL。支持多文件加载，数据覆盖合并。
+* [harvester](https://github.com/beatlabs/harvester) - **Star : 19** **最近提交 : 2019-06-26**  收割机，一个易于使用的静态和动态配置包支持tig播种，env vars和领事集成。
 * [hjson](https://github.com/hjson/hjson-go) - **Star : 171** **最近提交 : 2019-02-09**  更加人性化的JSON配置。轻松的语法，更少的错误，更多的注释。
 * [ingo](https://github.com/schachmat/ingo) - **Star : 23** **最近提交 : 2017-04-03**  flag保存在类ini的配置文件中。
 * [ini](https://github.com/go-ini/ini) - **Star : 1516** **最近提交 : 2019-05-23**   读和写INI文件。
 * [joshbetz/config](https://github.com/joshbetz/config) - **Star : 195** **最近提交 : 2017-08-11**  一个可解析环境变量、JSON文件小巧的配置库，在SIGHUP时会自动重新加载。
 * [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - **Star : 2338** **最近提交 : 2019-06-17**  管理来自环境变量的配置数据。
+* [koanf](https://github.com/knadh/koanf) - **Star : 67** **最近提交 : 2019-06-27**  轻量级可扩展库，用于读取Go应用程序中的配置。内置支持JSON, TOML, YAML, env，命令行。
 * [konfig](https://github.com/lalamove/konfig) - **Star : 507** **最近提交 : 2019-06-18**  可组合、可观察和高性能的分布式配置管理。
 * [mini](https://github.com/sasbury/mini) - **Star : 19** **最近提交 : 2018-12-27**  用于解析ini类型的配置文件。
 * [sprbox](https://github.com/oblq/sprbox) - **Star : 3** **最近提交 : 2018-10-31**  支持构建环境的工具箱工厂和其他不确定的配置解析器(如YAML、TOML、JSON和环境vars)。
@@ -308,6 +312,7 @@
 ## 数据结构
 
 *用 Go 实现的通用的数据结构和算法。*
+
 * [algorithms](https://github.com/shady831213/algorithms) - **Star : 228** **最近提交 : 2019-04-03**  算法和数据结构。来源于CLRS。
 * [binpacker](https://github.com/zhuangsirui/binpacker) - **Star : 120** **最近提交 : 2018-06-17**  帮助用户构建自定义二进制流的二进制封装器和解包器
 * [bit](https://github.com/yourbasic/bit) - **Star : 51** **最近提交 : 2018-03-13**  Go 语言集合数据结构。提供了额外的位操作功能。
@@ -487,9 +492,9 @@
     * [neo4j](https://github.com/cihangir/neo4j) - **Star : 24** **最近提交 : 2015-04-03**  Neo4j Rest API实现。
     * [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) - **Star : 72** **最近提交 : 2018-06-20**  Neo4j REST 客户端。
     * [neoism](https://github.com/jmcvetta/neoism) - **Star : 355** **最近提交 : 2019-02-19**  Golang 的 Neo4j 客户端。
+    * [redeo](https://github.com/bsm/redeo) - **Star : 257** **最近提交 : 2018-11-29**  与 redis 协议兼容的 TCP 服务器/服务。
     * [redigo](https://github.com/gomodule/redigo) - **Star : 6111** **最近提交 : 2019-06-21**  Redigo 是基于 Go 的Redis 客户端。
     * [redis](https://github.com/go-redis/redis) - **Star : 6154** **最近提交 : 2019-07-01**  基于 Go 的 Redis 客户端。
-    * [redis](https://github.com/bsm/redeo) - **Star : 257** **最近提交 : 2018-11-29**  与 redis 协议兼容的 TCP 服务器/服务。
     * [xredis](https://github.com/shomali11/xredis) - **Star : 9** **最近提交 : 2019-06-08**  类型安全，可定制，清晰和易用的Redis客户端。
 
 * Search and Analytic Databases.
@@ -747,7 +752,7 @@
 * [ants](https://github.com/panjf2000/ants) - **Star : 1740** **最近提交 : 2019-06-27**  一个高性能的协程池。
 * [artifex](https://github.com/borderstech/artifex) - **Star : 12** **最近提交 : 2018-11-03**  简单的内存作业队列。
 * [async](https://github.com/studiosol/async) - **Star : 18** **最近提交 : 2018-09-18**  一种异步执行函数的安全方法，在出现 panic 时恢复它们。
-* [breaker](https://github.com/kamilsk/breaker) - **Star : 24** **最近提交 : 2019-06-28**  🚧 Flexible mechanism to make your code breakable.
+* [breaker](https://github.com/kamilsk/breaker) - **Star : 24** **最近提交 : 2019-06-28**  灵活的机制，使执行流可中断。
 * [cyclicbarrier](https://github.com/marusama/cyclicbarrier) - **Star : 27** **最近提交 : 2018-10-27**  基于 Go 的 CyclicBarrier 实现。
 * [go-floc](https://github.com/workanator/go-floc) - **Star : 167** **最近提交 : 2018-01-26**  轻松编排 goroutines。
 * [go-flow](https://github.com/kamildrazkiewicz/go-flow) - **Star : 103** **最近提交 : 2019-05-14**  控制 goroutines 的执行顺序。
@@ -1028,6 +1033,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ## 微软办公软件
 
 ### Microsoft Excel
+
 *用于使用Microsoft Excel的库。*
 
 * [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - **Star : 4249** **最近提交 : 2019-07-01**  Golang库读写Microsoft Excel™(XLSX)文件。
@@ -1039,6 +1045,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ## 杂项
 
 ### 依赖注入
+
 *用于处理依赖项注入的库。*
 
 * [alice](https://github.com/magic003/alice) - **Star : 34** **最近提交 : 2017-04-26**  Golang的添加依赖注入容器。
@@ -1057,7 +1064,9 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [scaffold](https://github.com/catchplay/scaffold) - **Star : 21** **最近提交 : 2019-01-10**  脚手架生成starter Go项目布局。让您专注于已实现的业务逻辑。
 
 ### 字符串
+
 *处理字符串的库。*
+
 * [strutil](https://github.com/ozgio/strutil) - **Star : 61** **最近提交 : 2018-09-06**  字符串工具。
 * [xstrings](https://github.com/huandu/xstrings) - **Star : 605** **最近提交 : 2018-09-06**  从其他语言移植的有用字符串函数的集合。
 
@@ -1752,6 +1761,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [structs](https://github.com/PumpkinSeed/structs) - **Star : 12** **最近提交 : 2017-10-23**  简单来讲就是 "Make" 的替代品。
 * [Task](https://github.com/go-task/task) - **Star : 1856** **最近提交 : 2019-06-29**  简单的“Go”的选择。
 * [toolbox](https://github.com/viant/toolbox) - **Star : 86** **最近提交 : 2019-06-28**  切片, map, multimap, 结构体, 函数,数据转换工具。服务路由，宏求值和标记器。
+* [tracer](https://github.com/kamilsk/tracer) - **Star : 2** **最近提交 : 2019-06-28**  简单、轻量级的跟踪。
 * [ugo](https://github.com/alxrm/ugo) - **Star : 20** **最近提交 : 2016-07-01**  uGo 是一个切片工具箱，有着和 Go 语言一致的语法法。
 * [UNIS](https://github.com/esemplastic/unis) - **Star : 70** **最近提交 : 2017-05-10**  Go 语言字符串处理函数的通用架构 。
 * [usql](https://github.com/knq/usql) - **Star : 4649** **最近提交 : 2019-04-28**  usql 是一个通用的命令行接口，用于操作 sql 数据库。
@@ -1836,6 +1846,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Microservice](https://github.com/claygod/microservice) - **Star : 56** **最近提交 : 2019-06-03**  创建微服务的框架，用Golang编写。
 * [neo](https://github.com/ivpusic/neo) - **Star : 392** **最近提交 : 2017-12-30**  Neo是一个非常简单且快速的Web框架API。
 * [nio](https://github.com/go-nio/nio) - **Star : 21** **最近提交 : 2019-02-23**  现代的、最小的和高效的Go HTTP框架。
+* [patron](https://github.com/beatlabs/patron) - **Star : 20** **最近提交 : 2019-07-01**  Patron是一个遵循最佳云实践的微服务框架，专注于生产力。
 * [Resoursea](https://github.com/resoursea/api) - **Star : 29** **最近提交 : 2015-02-02**  用于快速编写基于资源的服务的REST框架。
 * [REST Layer](http://rest-layer.io) - 框架，用于在数据库之上构建REST/GraphQL API，主要是通过代码进行配置。
 * [Revel](https://github.com/revel/revel) - **Star : 11167** **最近提交 : 2019-05-19**  用于Go语言的高效web框架。
@@ -2057,6 +2068,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [winrm-cli](https://github.com/masterzen/winrm-cli) - **Star : 64** **最近提交 : 2019-04-30**  在Windows机器上远程执行命令的Cli工具。
 
 ### 其他软件
+
 * [borg](https://github.com/crufter/borg) - **Star : 1416** **最近提交 : 2018-02-08**  基于终端的bash代码段搜索引擎。
 * [boxed](https://github.com/tejo/boxed) - **Star : 72** **最近提交 : 2018-08-10**  基于Dropbox的博客引擎。
 * [Cherry](https://github.com/rafael-santiago/cherry) - **Star : 192** **最近提交 : 2017-06-24**  微型网络聊天服务器。
@@ -2139,6 +2151,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [GolangUK](http://golanguk.com/) - 伦敦,英国。
 * [GopherChina](http://gopherchina.org) - 上海,中国。
 * [GopherCon](http://www.gophercon.com/) - 美国丹佛。
+* [GopherCon Australia](https://gophercon.com.au/) - 澳大利亚悉尼。
 * [GopherCon Brazil](https://gopherconbr.org) - 弗洛,BR。
 * [GopherCon Europe](https://gophercon.is/) - 雷克雅未克,冰岛。
 * [GopherCon India](https://www.gophercon.in/) - 印度浦那。
