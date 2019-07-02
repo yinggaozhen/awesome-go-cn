@@ -1,8 +1,8 @@
 # Awesome Go
 
-[Gold]: ./docs/gold.svg "金牌"
-[Silver]: ./docs/silver.svg "银牌"
-[Bronze]: ./docs/bronze.svg "铜牌"
+[Gold]: ./docs/Gold.svg "金牌"
+[Silver]: ./docs/Silver.svg "银牌"
+[Bronze]: ./docs/Bronze.svg "铜牌"
 
 **此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-02 15:51:45(每隔1天同步一次)**
 
