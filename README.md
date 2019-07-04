@@ -6,7 +6,7 @@
 [Green]: ./docs/Green.svg "最近一周有更新"
 [Yellow]: ./docs/Yellow.svg "最近一年没有更新"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-03 21:25:11(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-04 09:13:09(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -142,7 +142,7 @@
 * [mix](https://github.com/go-mix/mix) - **star:96** 基于序列的 Go 原生音乐混音器。![最近一年没有更新][Yellow]
 * [mp3](https://github.com/tcolgate/mp3) - **star:89** 原生 Go MP3解码器。![最近一年没有更新][Yellow]
 * [music-theory](https://github.com/go-music-theory/music-theory) - **star:251** 基于 Go 的音乐理论模型。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-* [Oto](https://github.com/hajimehoshi/oto) - **star:386** 多平台的 low-level 声音播放库。![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [Oto](https://github.com/hajimehoshi/oto) - **star:386** 多平台的 low-level 声音播放库。![star > 100][Bronze]   
 * [PortAudio](https://github.com/gordonklaus/portaudio) - **star:295** 基于 Go 的PortAudio audio I/O库。![star > 100][Bronze]   
 * [portmidi](https://github.com/rakyll/portmidi) - **star:203** PortMidi的 Go 语言实现接口。。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [taglib](https://github.com/wtolson/go-taglib) - **star:66** taglib 的 Go 语言实现接口。。
@@ -157,7 +157,7 @@
 * [branca](https://github.com/hako/branca) - **star:67** 基于 Go 实现Branca令牌。
 * [casbin](https://github.com/hsluoyz/casbin) - **star:4669** 支持ACL、RBAC、ABAC等访问控制模型的授权库。![star > 1000][Silver]   ![最近一个周有更新][Green]
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) - **star:2** 提供cookie .txt文件格式的解析器。![最近一年没有更新][Yellow]
-* [go-jose](https://github.com/square/go-jose) - **star:1087** 相当完整地实现了JOSE工作组的JSON Web令牌、JSON Web签名和JSON Web加密规范。![star > 1000][Silver]   ![最近一个周有更新][Green]
+* [go-jose](https://github.com/square/go-jose) - **star:1087** 相当完整地实现了JOSE工作组的JSON Web令牌、JSON Web签名和JSON Web加密规范。![star > 1000][Silver]   
 * [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - **star:1249** 用 Golang 编写的独立且符合规范的OAuth2服务器。![star > 1000][Silver]   
 * [gologin](https://github.com/dghubble/gologin) - **star:1029** 用于使用OAuth1和OAuth2身份验证提供者登录的可链处理程序。![star > 1000][Silver]   
 * [gorbac](https://github.com/mikespook/gorbac) - **star:897** 轻量级的基于角色的访问控制(RBAC)实现。![star > 100][Bronze]   
@@ -302,7 +302,7 @@
 * [ini](https://github.com/go-ini/ini) - **star:1520**  读和写INI文件。![star > 1000][Silver]   
 * [joshbetz/config](https://github.com/joshbetz/config) - **star:195** 一个可解析环境变量、JSON文件小巧的配置库，在SIGHUP时会自动重新加载。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - **star:2345** 管理来自环境变量的配置数据。![star > 1000][Silver]   ![最近一个周有更新][Green]
-* [koanf](https://github.com/knadh/koanf) - **star:69** 轻量级可扩展库，用于读取Go应用程序中的配置。内置支持JSON, TOML, YAML, env，命令行。![最近一个周有更新][Green]
+* [koanf](https://github.com/knadh/koanf) - **star:69** 轻量级可扩展库，用于读取Go应用程序中的配置。内置支持JSON, TOML, YAML, env，命令行。
 * [konfig](https://github.com/lalamove/konfig) - **star:507** 可组合、可观察和高性能的分布式配置管理。![star > 100][Bronze]   
 * [mini](https://github.com/sasbury/mini) - **star:19** 用于解析ini类型的配置文件。
 * [sprbox](https://github.com/oblq/sprbox) - **star:3** 支持构建环境的工具箱工厂和其他不确定的配置解析器(如YAML、TOML、JSON和环境vars)。
@@ -663,7 +663,7 @@
 * [skywalker](https://github.com/dixonwille/skywalker) - **star:46** 可以轻松地并发地遍历文件系统。![最近一年没有更新][Yellow]
 * [stl](https://gitlab.com/russoj88/stl) - 采用并行读取算法的进行读取和写入STL(立体光刻)文件的模块。
 * [tarfs](https://github.com/posener/tarfs) - **star:34** tar文件的实现[ FileSystem 接口](https://godoc.org/github.com/kr/fs#FileSystem)。![最近一年没有更新][Yellow]
-* [vfs](https://github.com/C2FO/vfs) - **star:18** 一组可插拔的、可扩展的和自定义的文件系统功能，用于跨越许多文件系统类型，如os、S3和GCS。![最近一个周有更新][Green]
+* [vfs](https://github.com/C2FO/vfs) - **star:18** 一组可插拔的、可扩展的和自定义的文件系统功能，用于跨越许多文件系统类型，如os、S3和GCS。
 
 ## 金融
 
@@ -782,7 +782,7 @@
 * [goworker](https://github.com/benmanns/goworker) - **star:2220** 基于 go 的后台 worker。![star > 1000][Silver]   
 * [gpool](https://github.com/Sherifabdlnaby/gpool) - **star:58** manages a resizeable pool of context-aware goroutines to bound concurrency
 * [grpool](https://github.com/ivpusic/grpool) - **star:488** 轻量级协程池。![star > 100][Bronze]   
-* [Hunch](https://github.com/AaronJan/Hunch) - **star:8** Hunch 提供了诸如 All、First、Retry、Waterfall 等功能，这使得异步流控制更加直观。![最近一个周有更新][Green]
+* [Hunch](https://github.com/AaronJan/Hunch) - **star:8** Hunch 提供了诸如 All、First、Retry、Waterfall 等功能，这使得异步流控制更加直观。
 * [oversight](https://cirello.io/oversight) - 完整的实现了Erlang supervision trees。
 * [parallel-fn](https://github.com/rafaeljesus/parallel-fn) - **star:24** 并行运行函数。![最近一年没有更新][Yellow]
 * [pool](https://github.com/go-playground/pool) - **star:471** 有限消费者协程或无限协程池，可用于更加简单的处理和取消协程![star > 100][Bronze]   ![最近一年没有更新][Yellow]
@@ -1379,7 +1379,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [goArgonPass](https://github.com/dwin/goArgonPass) - **star:10** Argon2密码散列和验证设计为与现有Python和PHP实现兼容。
 * [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) - **star:28** 一个安全哈希和加密密码的偏执包。
 * [Interpol](https://bitbucket.org/vahidi/interpol) - 基于规则的数据生成器，用于模糊和渗透测试。
-* [jwc](https://github.com/khezen/jwc) - **star:5** JSON Web加密库。![最近一个周有更新][Green]
+* [jwc](https://github.com/khezen/jwc) - **star:5** JSON Web加密库。
 * [lego](https://github.com/xenolf/lego) - **star:3423** 纯 Go ACME 客户端库及命令行工具![star > 1000][Silver]   ![最近一个周有更新][Green]
 * [memguard](https://github.com/awnumar/memguard) - **star:995** 一个用于处理内存中敏感值的纯Go库。![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [nacl](https://github.com/kevinburke/nacl) - **star:450**  Go 实现NaCL API的集合。![star > 100][Bronze]   
@@ -1414,7 +1414,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [algernon](https://github.com/xyproto/algernon) - **star:1574** 内置支持Lua、Markdown、GCSS和Amber的HTTP/2 web服务器。![star > 1000][Silver]   
 * [Caddy](https://github.com/mholt/caddy) - **star:22505** Caddy是另一种HTTP/2 web服务器，易于配置和使用。![star > 5000][Gold]   ![最近一个周有更新][Green]
 * [consul](https://www.consul.io/) - Consul 是一个用于服务发现、监控和配置的工具
-* [devd](https://github.com/cortesi/devd) - **star:2781** 为开发人员提供本地web服务器。![star > 1000][Silver]   ![最近一个周有更新][Green]
+* [devd](https://github.com/cortesi/devd) - **star:2781** 为开发人员提供本地web服务器。![star > 1000][Silver]   
 * [discovery](https://github.com/Bilibili/discovery) - **star:626** 用于弹性中间层负载平衡和故障转移的注册表。![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [etcd](https://github.com/coreos/etcd) - **star:25760** 为共享配置和服务发现提供高可用的键值存储。![star > 5000][Gold]   ![最近一个周有更新][Green]
 * [Fider](https://github.com/getfider/fider) - **star:769** Fider是一个收集和组织客户反馈的开放平台。![star > 100][Bronze]   
@@ -1488,7 +1488,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [GoSpec](https://github.com/orfjackal/gospec) - **star:111** 用于 Go 编程语言的bdd风格的测试框架。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
     * [gospecify](https://github.com/stesla/gospecify) - **star:51** 支持 BDD 语法 。对于任何使用过 rspec 等库的人来说应该非常熟悉。![最近一年没有更新][Yellow]
     * [gosuite](https://github.com/pavlo/gosuite) - **star:9** 轻量级测试套，为 Go1.7's Subtests 带来了setup/teardown 功能![最近一年没有更新][Yellow]
-    * [gotest.tools](https://github.com/gotestyourself/gotest.tools) - **star:112** 一组包，用于增强go测试包并支持公共模式。![star > 100][Bronze]   ![最近一个周有更新][Green]
+    * [gotest.tools](https://github.com/gotestyourself/gotest.tools) - **star:112** 一组包，用于增强go测试包并支持公共模式。![star > 100][Bronze]   
     * [Hamcrest](https://github.com/rdrdr/hamcrest) - **star:26** 用于声明性 Matcher 对象的连贯框架，当将其应用于输入值时，将产生自描述结果。![最近一年没有更新][Yellow]
     * [httpexpect](https://github.com/gavv/httpexpect) - **star:1103** 简洁的、声明式的、易用的端到端HTTP 及 REST API 测试![star > 1000][Silver]   
     * [jsonassert](https://github.com/kinbiko/jsonassert) - **star:20** 用于验证JSON有效负载已正确序列化的包。![最近一个周有更新][Green]
@@ -1659,7 +1659,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [tumblr](https://github.com/mattcunningham/gumblr) - **star:6**  Tumblr v2 API 的 Go 语言封装。![最近一年没有更新][Yellow]
 * [uptimerobot](https://github.com/bitfield/uptimerobot) - **star:34** 运行时Robot v2 API 的 Go 语言封装和命令行客户端。
 * [webhooks](https://github.com/go-playground/webhooks) - **star:336** GitHub 和 Bitbucket 的Webhook接收器。![star > 100][Bronze]   ![最近一个周有更新][Green]
-* [wit-go](https://github.com/wit-ai/wit-go) - **star:44** wit.ai HTTP API 客户端。![最近一个周有更新][Green]
+* [wit-go](https://github.com/wit-ai/wit-go) - **star:44** wit.ai HTTP API 客户端。
 * [ynab](https://github.com/brunomvsouza/ynab.go) - **star:10**  YNAB API 的 Go 语言封装。
 * [zooz](https://github.com/gojuno/go-zooz) - **star:5**  Zooz API 的 Go 语言客户端。
 
@@ -1673,7 +1673,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [blank](https://github.com/Henry-Sarabia/blank) - **star:1** 验证或删除字符串中的空白。
 * [boilr](https://github.com/tmrts/boilr) - **star:921** 非常快的CLI工具，用于从样板模板创建项目。![star > 100][Bronze]   
 * [chyle](https://github.com/antham/chyle) - **star:107** 使用具有多种配置可能性的git存储库生成变更日志。![star > 100][Bronze]   ![最近一个周有更新][Green]
-* [circuit](https://github.com/cep21/circuit) - **star:316** 一个高效和功能齐全的 类似 Hystrix Go 实现断路器模式。![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [circuit](https://github.com/cep21/circuit) - **star:316** 一个高效和功能齐全的 类似 Hystrix Go 实现断路器模式。![star > 100][Bronze]   
 * [circuitbreaker](https://github.com/rubyist/circuitbreaker) - **star:776** 接通断路器。![star > 100][Bronze]   
 * [clockwork](https://github.com/jonboulle/clockwork) - **star:217** 一个简单的假 clock 。![star > 100][Bronze]   
 * [command](https://github.com/txgruppi/command) - **star:9** 命令模式，支持线程安全的串行、并行调度。![最近一年没有更新][Yellow]
@@ -1918,7 +1918,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [chi](https://github.com/go-chi/chi) - **star:5864** 小巧、快速、具有丰富表达力的 HTTP 路由，基于net/context.。![star > 5000][Gold]   
 * [fasthttprouter](https://github.com/buaazp/fasthttprouter) - **star:735** 高性能路由器分叉从`httprouter`。第一个路由器适合`fasthttp`。![star > 100][Bronze]   
 * [FastRouter](https://github.com/razonyang/fastrouter) - **star:18** 一个快速，灵活的HTTP路由器写在Go。![最近一年没有更新][Yellow]
-* [gocraft/web](https://github.com/gocraft/web) - **star:1390** Mux和中间件包在Go中。![star > 1000][Silver]   ![最近一个周有更新][Green]
+* [gocraft/web](https://github.com/gocraft/web) - **star:1390** Mux和中间件包在Go中。![star > 1000][Silver]   
 * [Goji](https://github.com/goji/goji) - **star:761** 枸杞是一种简约的和灵活的与支持'net/context` HTTP请求多路复用器。![star > 100][Bronze]   
 * [GoRouter](https://github.com/vardius/gorouter) - **star:47** GoRouter 是一个服务器/API 微型框架、HTTP 请求路由 router, 数据分选器，提供了支持net/context的中间件。
 * [gowww/router](https://github.com/gowww/router) - **star:158** 超快的HTTP 路由，完全兼容 net/HTTP.Handler 接口.。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
