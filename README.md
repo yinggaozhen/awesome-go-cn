@@ -6,7 +6,7 @@
 [Green]: https://cdn.popo1h.com/awesome-go-cn/Green.svg "最近一周有更新"
 [Yellow]: https://cdn.popo1h.com/awesome-go-cn/Yellow.svg "最近一年没有更新"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-06 21:04:54(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-07 09:53:48(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -603,7 +603,7 @@
 * [douceur](https://github.com/aymerick/douceur) - **star:157** 在HTML邮件中支持CSS内联。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [email](https://github.com/jordan-wright/email) - **star:1075** 一个强大和灵活的电子邮件库。![star > 1000][Silver]   
 * [go-dkim](https://github.com/toorop/go-dkim) - **star:46** DKIM库，用于签署 & 验证电子邮件。
-* [go-imap](https://github.com/emersion/go-imap) - **star:709** 用于客户端和服务器的IMAP库。![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [go-imap](https://github.com/emersion/go-imap) - **star:709** 用于客户端和服务器的IMAP库。![star > 100][Bronze]   
 * [go-message](https://github.com/emersion/go-message) - **star:102** 用于Internet消息格式化和邮件消息的流媒体库。![star > 100][Bronze]   
 * [go-premailer](https://github.com/vanng822/go-premailer) - **star:34** 在HTML邮件中支持CSS内联。
 * [Gomail](https://github.com/go-gomail/gomail/) - 一个非常简单和强大的邮件发送库。
@@ -722,7 +722,7 @@
 * [nano](https://github.com/lonng/nano) - **star:965** 轻量级、方便、高性能的基于golang的游戏服务器框架。![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [Oak](https://github.com/oakmound/oak) - **star:622** 纯 Go 实现的游戏引擎。![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [Pitaya](https://github.com/topfreegames/pitaya) - **star:288** 可伸缩的游戏服务器框架，支持集群和客户端库的iOS, Android, Unity。![star > 100][Bronze]   
-* [Pixel](https://github.com/faiface/pixel) - **star:2377** 手工制作的 2D 游戏库。![star > 1000][Silver]   ![最近一个周有更新][Green]
+* [Pixel](https://github.com/faiface/pixel) - **star:2377** 手工制作的 2D 游戏库。![star > 1000][Silver]   
 * [raylib-go](https://github.com/gen2brain/raylib-go) - **star:377** 实现了 [raylib](http://www.raylib.com/)，一个简单易用的库，用于学习视频游戏编程。![star > 100][Bronze]   
 * [termloop](https://github.com/JoelOtter/termloop) - **star:1019** 基于终端的 Go 游戏引擎，建立在 Termbox 之上。![star > 1000][Silver]   
 
@@ -923,85 +923,85 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 *用于生成和处理日志文件的库。*
 
-* [distillog](https://github.com/amoghe/distillog) - **star:18** 经过蒸馏的水平日志记录(可以将其视为stdlib +日志级别)。
+* [distillog](https://github.com/amoghe/distillog) - **star:18** distilled日志记录(可以将其视为stdlib +日志)。
 * [glg](https://github.com/kpango/glg) - **star:50** glg是一个简单而快速的Go日志库。
-* [glo](https://github.com/lajosbencz/glo) - **star:7** PHP独白激发了具有相同严重性级别的日志记录功能。
-* [glog](https://github.com/golang/glog) - **star:2273** 为Go提供了水平的执行日志。![star > 1000][Silver]   
-* [go-cronowriter](https://github.com/utahta/go-cronowriter) - **star:19** 基于当前日期和时间自动旋转日志文件的简单编写器，如cronolog。
-* [go-log](https://github.com/subchen/go-log) - **star:10** 简单且可配置的登录Go，带有level、格式化程序和编写器。![最近一年没有更新][Yellow]
-* [go-log](https://github.com/siddontang/go-log) - **star:23** 日志库支持级别和多处理程序。
-* [go-log](https://github.com/ian-kent/go-log) - **star:34** 在Go中实现Log4j。![最近一年没有更新][Yellow]
+* [glo](https://github.com/lajosbencz/glo) - **star:7** 参照PHP的Monolog实现的具有相同日志等级的Go日志库。
+* [glog](https://github.com/golang/glog) - **star:2273** 为Go提供了多等级日志记录。![star > 1000][Silver]   
+* [go-cronowriter](https://github.com/utahta/go-cronowriter) - **star:19** 基于当前日期和时间的自动日志文件写入工具，类似cronolog。
+* [go-log](https://github.com/subchen/go-log) - **star:10** Go实现的简单且可配置的日志工具，并带有多等级、日志格式化和日志写入工具。![最近一年没有更新][Yellow]
+* [go-log](https://github.com/siddontang/go-log) - **star:23** 支持多等级和多处理程序的日志库。
+* [go-log](https://github.com/ian-kent/go-log) - **star:34** Log4j的Go语言。![最近一年没有更新][Yellow]
 * [go-logger](https://github.com/apsdehal/go-logger) - **star:230** 简单的日志程序的 Go 程序，与级别处理程序。![star > 100][Bronze]   
-* [gologger](https://github.com/sadlil/gologger) - **star:40** 简单易用的日志库，日志在彩色控制台，简单控制台，文件或弹性搜索。![最近一年没有更新][Yellow]
-* [gomol](https://github.com/aphistic/gomol) - **star:16** 具有可扩展日志输出的多输出、结构化日志记录。
-* [gone/log](https://github.com/One-com/gone/tree/master/log) - 快速、可扩展、功能齐全、std-lib源代码兼容的日志库。
-* [journald](https://github.com/ssgreg/journald) - **star:18**  Go 实现systemd Journal的本地日志API。
-* [log](https://github.com/aerogo/log) - **star:4** 一个O(1)日志系统，允许您将一个日志连接到多个写入器(例如stdout、文件和TCP连接)。
+* [gologger](https://github.com/sadlil/gologger) - **star:40** 为Go提供方便简单的日志操作; 在彩色控制台，简单控制台，文件或Elasticsearch上。![最近一年没有更新][Yellow]
+* [gomol](https://github.com/aphistic/gomol) - **star:16** 为Go实现可多方式输出、结构化日志, 并可扩展日志输出方式。
+* [gone/log](https://github.com/One-com/gone/tree/master/log) - 快速、可扩展、功能齐全、std-lib源兼容的日志库。
+* [journald](https://github.com/ssgreg/journald) - **star:18**  Go实现systemd Journal的原生API用于日志记录。
+* [log](https://github.com/aerogo/log) - **star:4** 一个O(1)日志系统，允许您将一个日志连接到多个日志写入(例如stdout、文件和TCP连接)。
 * [log](https://github.com/apex/log) - **star:723** Go的结构化日志包。![star > 100][Bronze]   
-* [log](https://github.com/go-playground/log) - **star:266** 简单、可配置和可伸缩的Go结构化日志。![star > 100][Bronze]   
-* [log](https://github.com/teris-io/log) - **star:22** Go的结构化日志接口清晰地将日志外观与其实现分离开来。![最近一年没有更新][Yellow]
-* [log-voyage](https://github.com/firstrow/logvoyage) - **star:82** 用golang编写的功能齐全的日志saas。![最近一年没有更新][Yellow]
-* [log15](https://github.com/inconshreveable/log15) - **star:877** 简单、强大的Go日志。![star > 100][Bronze]   
-* [logdump](https://github.com/ewwwwwqm/logdump) - **star:8** 用于多级日志记录的包。![最近一年没有更新][Yellow]
-* [logex](https://github.com/chzyer/logex) - **star:32** Golang日志库，支持跟踪和水平，包装由标准日志库。![最近一年没有更新][Yellow]
-* [logger](https://github.com/azer/logger) - **star:135** Go的最小化日志库。![star > 100][Bronze]   ![最近一个周有更新][Green]
-* [logmatic](https://github.com/borderstech/logmatic) - **star:7** 带有动态日志级别配置的Golang彩色日志记录器。
-* [logo](https://github.com/mbndr/logo) - **star:4** Golang日志程序到不同的可配置作家。![最近一年没有更新][Yellow]
-* [logrus](https://github.com/Sirupsen/logrus) - **star:11487** 结构化的日志 Go 。![star > 5000][Gold]   ![最近一个周有更新][Green]
-* [logrusly](https://github.com/sebest/logrusly) - **star:26** [logrus](https://github.com/sirupsen/logrus)插件将错误发送到[Loggly](https://www.loggly.com/)。![最近一年没有更新][Yellow]
-* [logutils](https://github.com/hashicorp/logutils) - **star:246** 用于稍微更好地登录的实用程序Go (Golang)扩展了标准日志记录器。![star > 100][Bronze]   
-* [logxi](https://github.com/mgutz/logxi) - **star:333** 12因素的应用程序日志程序是快速的，让你快乐。![star > 100][Bronze]   
-* [lumberjack](https://github.com/natefinch/lumberjack) - **star:1386** 简单的滚动日志程序，实现io.WriteCloser。![star > 1000][Silver]   ![最近一个周有更新][Green]
-* [mlog](https://github.com/jbrodriguez/mlog) - **star:17** 简单的go日志模块，有5个级别，可选的旋转日志文件功能和stdout/stderr输出。
-* [onelog](https://github.com/francoispqt/onelog) - **star:326** Onelog是一个非常简单但非常高效的JSON日志程序。它是所有场景中速度最快的JSON日志程序。而且，它是配置最低的日志记录器之一。![star > 100][Bronze]   
-* [ozzo-log](https://github.com/go-ozzo/ozzo-log) - **star:108** 支持日志严重性、分类和过滤的高性能日志记录。可以发送过滤日志消息到各种目标(如控制台，网络，邮件)。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-* [rollingwriter](https://github.com/arthurkiller/rollingWriter) - **star:94** RollingWriter是一个自动旋转的io。作者的实现与多个策略，以提供日志文件旋转。
+* [log](https://github.com/go-playground/log) - **star:266** Go的简单、可配置和可伸缩的结构化日志。![star > 100][Bronze]   
+* [log](https://github.com/teris-io/log) - **star:22** Go的结构化日志接口，清晰地将日志facade与其实现(implementation)分离开来。![最近一年没有更新][Yellow]
+* [log-voyage](https://github.com/firstrow/logvoyage) - **star:82** 用Go编写的功能齐全的日志写入saas。![最近一年没有更新][Yellow]
+* [log15](https://github.com/inconshreveable/log15) - **star:877** 简单、强大的日志操作。![star > 100][Bronze]   
+* [logdump](https://github.com/ewwwwwqm/logdump) - **star:8** 用于多等级级日志记录的包。![最近一年没有更新][Yellow]
+* [logex](https://github.com/chzyer/logex) - **star:32** 由标准日志库封装的Go日志库，支持跟踪和多等级。![最近一年没有更新][Yellow]
+* [logger](https://github.com/azer/logger) - **star:135** Go的精简日志库。![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [logmatic](https://github.com/borderstech/logmatic) - **star:7** Go的彩色日志记录器，带有可配置的日志级别。
+* [logo](https://github.com/mbndr/logo) - **star:4** Go的日志工具，可配置的日志写入器。![最近一年没有更新][Yellow]
+* [logrus](https://github.com/Sirupsen/logrus) - **star:11487** Go的结构化日志操作 。![star > 5000][Gold]   ![最近一个周有更新][Green]
+* [logrusly](https://github.com/sebest/logrusly) - **star:26** [logrus](https://github.com/sirupsen/logrus)的插件，将错误信息发送到[Loggly](https://www.loggly.com/)。![最近一年没有更新][Yellow]
+* [logutils](https://github.com/hashicorp/logutils) - **star:246** Go的用于更好地进行日志操作的实用程序，继承了标准日志库。![star > 100][Bronze]   
+* [logxi](https://github.com/mgutz/logxi) - **star:333** 12-factor app的日志程序，快速且让人高兴地使用。![star > 100][Bronze]   
+* [lumberjack](https://github.com/natefinch/lumberjack) - **star:1386** 简单的滚动日志，io.WriteCloser的实现。![star > 1000][Silver]   ![最近一个周有更新][Green]
+* [mlog](https://github.com/jbrodriguez/mlog) - **star:17** 简单的go日志模块，有5个级别，可选循环(rotation)日志文件记录功能和stdout/stderr输出。
+* [onelog](https://github.com/francoispqt/onelog) - **star:326** Onelog是一个非常简单但非常高效的JSON日志程序。它是所有场景中速度最快的JSON日志程序。而且，它是配置要求最低的日志记录器之一。![star > 100][Bronze]   
+* [ozzo-log](https://github.com/go-ozzo/ozzo-log) - **star:108** 支持日志多等级、分类和过滤的高性能日志记录。可以发送过滤后的日志消息到各种目标(如控制台，网络，邮件)。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+* [rollingwriter](https://github.com/arthurkiller/rollingWriter) - **star:94** RollingWriter是一个自动循环的io.Writer的实现,带有多种策略以提供日志文件循环(rotation)。
 * [seelog](https://github.com/cihub/seelog) - **star:1335** 具有灵活调度、过滤和格式化的日志功能。![star > 1000][Silver]   
-* [spew](https://github.com/davecgh/go-spew) - **star:3244** 为Go数据结构实现一个漂亮的深层打印机，以帮助调试。![star > 1000][Silver]   
-* [stdlog](https://github.com/alexcesaro/log) - **star:43** Stdlog是一个面向对象的库，提供水平日志记录。它对cron作业非常有用。![最近一年没有更新][Yellow]
-* [tail](https://github.com/hpcloud/tail) - **star:1498** Go软件包努力模拟BSD tail程序的特性。![star > 1000][Silver]   
-* [xlog](https://github.com/xfxdev/xlog) - **star:7** 插件架构和灵活的日志系统的Go，与级别ctrl，多日志目标和自定义日志格式。
-* [xlog](https://github.com/rs/xlog) - **star:130** 结构化记录器'net/context`意识到HTTP处理程序的灵活调度。![star > 100][Bronze]   
-* [zap](https://github.com/uber-go/zap) - **star:7208** 快速、结构化、水平登录Go。![star > 5000][Gold]   
-* [zerolog](https://github.com/rs/zerolog) - **star:2097** 零JSON记录器。![star > 1000][Silver]   ![最近一个周有更新][Green]
+* [spew](https://github.com/davecgh/go-spew) - **star:3244** 为Go数据结构实现一个漂亮的printer用于帮助调试。![star > 1000][Silver]   
+* [stdlog](https://github.com/alexcesaro/log) - **star:43** Stdlog是一个面向对象的库，提供了多等级日志记录。它对cron任务非常有用。![最近一年没有更新][Yellow]
+* [tail](https://github.com/hpcloud/tail) - **star:1498** 努力模拟实现BSD的tail的特性的Go包。![star > 1000][Silver]   
+* [xlog](https://github.com/xfxdev/xlog) - **star:7** 插件架构和灵活的日志系统，带有多级别、多日志目标和自定义日志格式。
+* [xlog](https://github.com/rs/xlog) - **star:130** 针对'net/context`实现的结构化的记录器，用于HTTP处理程序。![star > 100][Bronze]   
+* [zap](https://github.com/uber-go/zap) - **star:7208** 快速、结构化、多等级的日志记录。![star > 5000][Gold]   
+* [zerolog](https://github.com/rs/zerolog) - **star:2097** Zero-allocation JSON日志记录。![star > 1000][Silver]   ![最近一个周有更新][Green]
 
 ## 机器学习
 
 *机器学习库。*
 
-* [bayesian](https://github.com/jbrukh/bayesian) - **star:625** Golang的朴素贝叶斯分类。![star > 100][Bronze]   
-* [CloudForest](https://github.com/ryanbressler/CloudForest) - **star:644** 快速、灵活、多线程的决策树集成，用于纯Go中的机器学习。![star > 100][Bronze]   
-* [eaopt](https://github.com/MaxHalford/eaopt) - **star:615** 一个进化优化库。![star > 100][Bronze]   
-* [evoli](https://github.com/khezen/evoli) - **star:8** 遗传算法和粒子群优化库。
+* [bayesian](https://github.com/jbrukh/bayesian) - **star:625** Go的朴素贝叶斯分类。![star > 100][Bronze]   
+* [CloudForest](https://github.com/ryanbressler/CloudForest) - **star:644** 快速、灵活、多线程集成的决策树，用于机器学习。![star > 100][Bronze]   
+* [eaopt](https://github.com/MaxHalford/eaopt) - **star:615** 一个进化优化（evolutionary optimization）库。![star > 100][Bronze]   
+* [evoli](https://github.com/khezen/evoli) - **star:8** 遗传算法（Genetic Algorithm）和粒子群优化（Particle Swarm Optimization）库。
 * [fonet](https://github.com/Fontinalis/fonet) - **star:31** 一个用Go编写的深度神经网络库。![最近一年没有更新][Yellow]
-* [go-cluster](https://github.com/e-XpertSolutions/go-cluster) - **star:21** Go实现了k模式和k原型聚类算法。
-* [go-deep](https://github.com/patrikeh/go-deep) - **star:213** 一个功能丰富的神经网络库在 Go 。![star > 100][Bronze]   
-* [go-fann](https://github.com/white-pony/go-fann) - **star:99** 快速人工神经网络(FANN)库的Go绑定。![最近一年没有更新][Yellow]
-* [go-galib](https://github.com/thoj/go-galib) - **star:170** 用Go / golang编写的遗传算法库。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-* [go-pr](https://github.com/daviddengcn/go-pr) - **star:57** 模式识别包在Go lang。![最近一年没有更新][Yellow]
-* [gobrain](https://github.com/goml/gobrain) - **star:370** 用 Go 编写的神经网络。![star > 100][Bronze]   ![最近一个周有更新][Green]
-* [godist](https://github.com/e-dard/godist) - **star:24** 各种概率分布，以及相关的方法。![最近一年没有更新][Yellow]
+* [go-cluster](https://github.com/e-XpertSolutions/go-cluster) - **star:21** Go实现的k-modes和k-prototypes聚类算法。
+* [go-deep](https://github.com/patrikeh/go-deep) - **star:213** 一个功能丰富的神经网络库 。![star > 100][Bronze]   
+* [go-fann](https://github.com/white-pony/go-fann) - **star:99** 快速人工神经网络(FANN)库的Go bindings。![最近一年没有更新][Yellow]
+* [go-galib](https://github.com/thoj/go-galib) - **star:170** 用Go编写的遗传算法库。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+* [go-pr](https://github.com/daviddengcn/go-pr) - **star:57** Go编写的模式识别包。![最近一年没有更新][Yellow]
+* [gobrain](https://github.com/goml/gobrain) - **star:370** 用 Go 编写的神经网络库。![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [godist](https://github.com/e-dard/godist) - **star:24** 各种概率分布，以及相关的method。![最近一年没有更新][Yellow]
 * [goga](https://github.com/tomcraven/goga) - **star:79** Go的遗传算法库。![最近一年没有更新][Yellow]
 * [GoLearn](https://github.com/sjwhitworth/golearn) - **star:6608** 通用机器学习库。![star > 5000][Gold]   
-* [golinear](https://github.com/danieldk/golinear) - **star:39**  Go 的线性绑定。
-* [GoMind](https://github.com/surenderthakran/gomind) - **star:6** 一个简单的神经网络库在 Go 。
-* [goml](https://github.com/cdipaolo/goml) - **star:1006** 在线机器学习在 Go 。![star > 1000][Silver]   
-* [goRecommend](https://github.com/timkaye11/goRecommend) - **star:141** 推荐算法库用Go编写。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-* [gorgonia](https://github.com/chewxy/gorgonia) - **star:2648** 基于图形的计算库，如Theano for Go，它为构建各种机器学习和神经网络算法提供了基本框架。![star > 1000][Silver]   ![最近一个周有更新][Green]
-* [gorse](https://github.com/zhenghaoz/gorse) - **star:509** 基于协同过滤的Go高性能推荐系统包。![star > 100][Bronze]   
-* [goscore](https://github.com/asafschers/goscore) - **star:34**  Go 为PMML评分API。
-* [gosseract](https://github.com/otiai10/gosseract) - **star:848** 使用Tesseract c++库为OCR(光学字符识别)打包。![star > 100][Bronze]   
-* [libsvm](https://github.com/datastream/libsvm) - **star:63** 基于libsvm的golang版本派生工作。![最近一年没有更新][Yellow]
-* [mlgo](https://github.com/NullHypothesis/mlgo) - **star:5** 这个项目的目的是在 Go 中提供最小化的机器学习算法。![最近一年没有更新][Yellow]
-* [neat](https://github.com/jinyeom/neat) - **star:55** 即插即用的并行Go框架，用于增强拓扑的神经进化(整洁)。![最近一年没有更新][Yellow]
-* [neural-go](https://github.com/schuyler/neural-go) - **star:61** 多层感知器网络在Go中实现，通过反向传播进行训练。![最近一年没有更新][Yellow]
-* [ocrserver](https://github.com/otiai10/ocrserver) - **star:219** 一个简单的OCR API服务器，非常容易被Docker和Heroku部署。![star > 100][Bronze]   
-* [onnx-go](https://github.com/owulveryck/onnx-go) - **star:141** Go接口打开神经网络交换(ONNX)。![star > 100][Bronze]   ![最近一个周有更新][Green]
-* [probab](https://github.com/ThePaw/probab) - **star:10** 概率分布函数。贝叶斯推理。用纯 Go 写的。![最近一年没有更新][Yellow]
-* [regommend](https://github.com/muesli/regommend) - **star:243** 推荐&协同过滤引擎。![star > 100][Bronze]   
-* [shield](https://github.com/eaigner/shield) - **star:124** 贝叶斯文本分类器，具有灵活的令牌器和存储后端。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-* [tfgo](https://github.com/galeone/tfgo) - **star:1163** 易于使用的Tensorflow绑定:简化了官方Tensorflow Go绑定的使用。在Go中定义计算图形，加载和执行Python中训练的模型。![star > 1000][Silver]   
-* [Varis](https://github.com/Xamber/Varis) - **star:24** Golang神经网络。
+* [golinear](https://github.com/danieldk/golinear) - **star:39**  Go实现的liblinear bindings。
+* [GoMind](https://github.com/surenderthakran/gomind) - **star:6** 一个简单的神经网络库。
+* [goml](https://github.com/cdipaolo/goml) - **star:1006** 在线机器学习。![star > 1000][Silver]   
+* [goRecommend](https://github.com/timkaye11/goRecommend) - **star:141** 用Go编写的推荐算法库。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+* [gorgonia](https://github.com/chewxy/gorgonia) - **star:2648** 基于图形（graph-based）的计算库，如Theano：它为构建各种机器学习和神经网络算法提供了基本框架。![star > 1000][Silver]   ![最近一个周有更新][Green]
+* [gorse](https://github.com/zhenghaoz/gorse) - **star:509** 基于协同过滤（Collaborative Filtering ）的高性能推荐系统包。![star > 100][Bronze]   
+* [goscore](https://github.com/asafschers/goscore) - **star:34**  为预言模型标记语言（PMML）实现的评分API。
+* [gosseract](https://github.com/otiai10/gosseract) - **star:848** 使用c++的Tesseract库实现的OCR。![star > 100][Bronze]   
+* [libsvm](https://github.com/datastream/libsvm) - **star:63** 基于LIBSVM 3.14实现。![最近一年没有更新][Yellow]
+* [mlgo](https://github.com/NullHypothesis/mlgo) - **star:5** 这个项目的用于在Go中提供最精简的机器学习算法。![最近一年没有更新][Yellow]
+* [neat](https://github.com/jinyeom/neat) - **star:55** 即插即用的并行Go框架，用于增强拓扑的神经进化(NeuroEvolution of Augmenting Topologies)。![最近一年没有更新][Yellow]
+* [neural-go](https://github.com/schuyler/neural-go) - **star:61** 多层感知器网络在Go中的实现，使用反向传播算法进行训练。![最近一年没有更新][Yellow]
+* [ocrserver](https://github.com/otiai10/ocrserver) - **star:219** 一个简单的OCR API服务器，非常容易地使用Docker和Heroku部署。![star > 100][Bronze]   
+* [onnx-go](https://github.com/owulveryck/onnx-go) - **star:141** Go Interface， 用于开放式神经网络交换(Open Neural Network Exchange)。![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [probab](https://github.com/ThePaw/probab) - **star:10** 概率分布函数。贝叶斯推理。使用Go写的。![最近一年没有更新][Yellow]
+* [regommend](https://github.com/muesli/regommend) - **star:243** 推荐和协同过滤引擎。![star > 100][Bronze]   
+* [shield](https://github.com/eaigner/shield) - **star:124** 贝叶斯文本分类器，具有灵活的tokenizers和存储后端。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+* [tfgo](https://github.com/galeone/tfgo) - **star:1163** 易于使用的Tensorflow bindings:简化了官方Tensorflow Go bindings的使用。在Go中定义计算图形，在Python中加载和执行训练的模型。![star > 1000][Silver]   
+* [Varis](https://github.com/Xamber/Varis) - **star:24** Go实现的神经网络。
 
 ## 消息
 
@@ -1261,7 +1261,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 *实现对象关系映射或数据映射技术的库。*
 
 * [beego orm](https://github.com/astaxie/beego/tree/master/orm) - 强大的orm框架。支持:pq / mysql / sqlite3。
-* [go-firestorm](https://github.com/jschoedt/go-firestorm) - 一个用于谷歌/Firebase云Firestore的简单ORM。
+* [go-firestorm](https://github.com/jschoedt/go-firestorm) - **star:1** 一个用于谷歌/Firebase云Firestore的简单ORM。
 * [go-pg](https://github.com/go-pg/pg) - **star:2884** 关注PostgreSQL的特性和性能。![star > 1000][Silver]   ![最近一个周有更新][Green]
 * [go-queryset](https://github.com/jirfag/go-queryset) - **star:445** 100%类型安全ORM与代码生成和MySQL, PostgreSQL, Sqlite3, SQL Server支持基于GORM。![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - **star:220** 一个灵活而强大的SQL字符串构建器库加上一个零配置ORM。![star > 100][Bronze]   
@@ -1535,7 +1535,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [align](https://github.com/Guitarbum722/align) - **star:57** 对文本进行对齐的通用应用程序。![最近一年没有更新][Yellow]
     * [allot](https://github.com/sbstjn/allot) - **star:33** 用于CLI工具和机器人的占位符和通配符文本解析。
     * [bbConvert](https://github.com/CalebQ42/bbConvert) - **star:5** 将bbCode转换为HTML，使您可以添加对自定义bbCode标记的支持。![最近一年没有更新][Yellow]
-    * [blackfriday](https://github.com/russross/blackfriday) - **star:3806** Markdown 解析器![star > 1000][Silver]   ![最近一个周有更新][Green]
+    * [blackfriday](https://github.com/russross/blackfriday) - **star:3806** Markdown 解析器![star > 1000][Silver]   
     * [bluemonday](https://github.com/microcosm-cc/bluemonday) - **star:1214** HTML 清理工具![star > 1000][Silver]   
     * [codetree](https://github.com/aerogo/codetree) - **star:6** 解析缩进代码(python、pixy、scarlet等)并返回树结构。
     * [colly](https://github.com/asciimoo/colly) - **star:8089** 快速和优雅的 Scraping 框架。![star > 5000][Gold]   ![最近一个周有更新][Green]
@@ -1678,7 +1678,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [clockwork](https://github.com/jonboulle/clockwork) - **star:217** 一个简单的假 clock 。![star > 100][Bronze]   
 * [command](https://github.com/txgruppi/command) - **star:9** 命令模式，支持线程安全的串行、并行调度。![最近一年没有更新][Yellow]
 * [copy-pasta](https://github.com/jutkko/copy-pasta) - **star:37** 通用多工作站剪切板，使用类似 S3 的后端作为存储。
-* [ctop](https://github.com/bcicen/ctop) - **star:8654** [Top-like](http://ctop.sh)接口(例如htop)， 用于容器数据收集。![star > 5000][Gold]   ![最近一个周有更新][Green]
+* [ctop](https://github.com/bcicen/ctop) - **star:8654** [Top-like](http://ctop.sh)接口(例如htop)， 用于容器数据收集。![star > 5000][Gold]   
 * [ctxutil](https://github.com/posener/ctxutil) - **star:6** 上下文工具。
 * [dbt](https://github.com/nikogura/dbt) - **star:10** 用于从中心可信存储库运行自更新签名二进制文件的框架。
 * [Death](https://github.com/vrecan/death) - **star:132** 利用信号管理应用程序的关闭。![star > 100][Bronze]   
@@ -2056,7 +2056,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [godbg](https://github.com/sirnewton01/godbg) - **star:219** 基于 web 的 gdb 前端应用程序。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [Gogs](https://gogs.io/) - 自托管的Git服务。
 * [gonative](https://github.com/inconshreveable/gonative) - **star:312** 用原生 Go 创建一个跨平台的 Go 工具链。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-* [govvv](https://github.com/ahmetalpbalkan/govvv) - 可轻松地添加版本信息到 Go 二进制文件。
+* [govvv](https://github.com/ahmetalpbalkan/govvv) - **star:373** 可轻松地添加版本信息到 Go 二进制文件。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [gox](https://github.com/mitchellh/gox) - **star:3327** 非常简单，没有多余的跨平台编译工具。![star > 1000][Silver]   
 * [goxc](https://github.com/laher/goxc) - **star:1628** 专注于跨平台编译和打包的 Go 构建工具。![star > 1000][Silver]   ![最近一年没有更新][Yellow]
 * [grapes](https://github.com/yaronsumel/grapes) - **star:133** 旨在轻松地通过ssh分发命令的轻量级工具。![star > 100][Bronze]   
@@ -2071,7 +2071,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Moby](https://github.com/moby/moby) - **star:54003** Collaborative project for the container ecosystem to assemble container-based systems.![star > 5000][Gold]   ![最近一个周有更新][Green]
 * [Mora](https://github.com/emicklei/mora) - **star:263** 用于访问 MongoDB 文档和元数据的 REST 服务器。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [ostent](https://github.com/ostrost/ostent) - **star:165** 收集和显示系统指标，并可选 Graphite and/or fluxdb作为依赖。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-* [Packer](https://github.com/mitchellh/packer) - 用于从一个源配置为多个平台创建相同的机器图像。
+* [Packer](https://github.com/mitchellh/packer) - **star:9087** 用于从一个源配置为多个平台创建相同的机器图像。![star > 5000][Gold]   ![最近一个周有更新][Green]
 * [Pewpew](https://github.com/bengadbois/pewpew) - **star:198** 灵活的 HTTP 命令行压测工具。![star > 100][Bronze]   
 * [Pomerium](https://github.com/pomerium/pomerium) - **star:466** Pomerium是一个可识别身份的访问代理。![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [Rodent](https://github.com/alouche/rodent) - **star:30** 管理Go版本、项目和跟踪依赖项。![最近一年没有更新][Yellow]
@@ -2089,7 +2089,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ### 其他软件
 
-* [borg](https://github.com/crufter/borg) - 基于终端的bash代码段搜索引擎。
+* [borg](https://github.com/crufter/borg) - **star:1416** 基于终端的bash代码段搜索引擎。![star > 1000][Silver]   ![最近一年没有更新][Yellow]
 * [boxed](https://github.com/tejo/boxed) - **star:72** 基于Dropbox的博客引擎。
 * [Cherry](https://github.com/rafael-santiago/cherry) - **star:192** 微型网络聊天服务器。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [Circuit](https://github.com/gocircuit/circuit) - **star:1778** Circuit 是一个可编程平台即服务(PaaS)和/或基础设施即服务(IaaS)，用于管理、发现、同步和编排包含云应用程序的服务和主机。![star > 1000][Silver]   
@@ -2097,7 +2097,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [confd](https://github.com/kelseyhightower/confd) - **star:6328** 使用 etcd 或 consul 的模板和数据管理本地应用程序配置文件。![star > 5000][Gold]   
 * [DDNS](https://github.com/skibish/ddns) - **star:97** 个人 DDNS 客户端。
 * [Docker](http://www.docker.com/) - 面向开发人员和系统管理员的分布式应用程序的开放平台。
-* [Documize](https://github.com/documize/community) - **star:798** 集成了SaaS工具数据的现代wiki软件。![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [Documize](https://github.com/documize/community) - **star:798** 集成了SaaS工具数据的现代wiki软件。![star > 100][Bronze]   
 * [drive](https://github.com/odeke-em/drive) - **star:4923** 基于命令行的谷歌驱动器客户端。![star > 1000][Silver]   
 * [Duplicacy](https://github.com/gilbertchen/duplicacy) - **star:2665** 跨平台网络和云备份工具。![star > 1000][Silver]   
 * [gfile](https://github.com/Antonito/gfile) - **star:488** 通过WebRTC在两台计算机之间安全地传输文件，不需要任何第三方依赖。![star > 100][Bronze]   
@@ -2108,7 +2108,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [GoDNS](https://github.com/timothyye/godns) - **star:419** 一个动态DNS客户端工具，支持DNSPod & HE.net。![star > 100][Bronze]   
 * [GoDocTooltip](https://github.com/diankong/GoDocTooltip) - **star:12** 包含了 Go 使用手册文档的 Chrome 扩展。![最近一年没有更新][Yellow]
 * [GoLand](https://jetbrains.com/go) - 功能齐全的跨平台 Go IDE。
-* [Gor](https://github.com/buger/gor) - Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。
+* [Gor](https://github.com/buger/gor) - **star:11215** Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。![star > 5000][Gold]   ![最近一个周有更新][Green]
 * [hugo](http://gohugo.io/) - 快速、现代的静态网站引擎。
 * [ide](https://github.com/thestrukture/ide) - **star:250** 基于浏览器的IDE![star > 100][Bronze]   
 * [ipe](https://github.com/dimiro1/ipe) - **star:274** Open source Pusher server implementation compatible with Pusher client libraries written in GO.![star > 100][Bronze]   
@@ -2122,12 +2122,12 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [myLG](https://github.com/mehrdadrad/mylg) - **star:2187** 命令行网络诊断工具。![star > 1000][Silver]   
 * [naclpipe](https://github.com/unix4fun/naclpipe) - **star:20** 基于加密管的简单的NaCL EC25519工具。
 * [nes](https://github.com/fogleman/nes) - **star:4107** 任天堂娱乐系统(NES)模拟器。![star > 1000][Silver]   
-* [orange-cat](https://github.com/noraesae/orange-cat) - 用Go编写的Markdown预览器。
+* [orange-cat](https://github.com/noraesae/orange-cat) - **star:178** 用Go编写的Markdown预览器。![star > 100][Bronze]   
 * [Orbit](https://github.com/gulien/orbit) - **star:128** 一个根据模板来运行命令和生成文件的简单小工具。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [peg](https://github.com/pointlander/peg) - **star:587** 解析表达式语法，是Packrat解析器生成器的实现。![star > 100][Bronze]   
 * [Pipe](https://github.com/b3log/pipe) - **star:2609** 一个小巧漂亮的博客平台。![star > 1000][Silver]   ![最近一个周有更新][Green]
 * [restic](https://github.com/restic/restic) - **star:7235** 消除重复项备份程序。![star > 5000][Gold]   ![最近一个周有更新][Green]
-* [rkt](https://github.com/coreos/rkt) - 一个应用容器，与其他容器格式(如Docker)兼容，并支持其他执行引擎(如KVM)。
+* [rkt](https://github.com/coreos/rkt) - **star:8704** 一个应用容器，与其他容器格式(如Docker)兼容，并支持其他执行引擎(如KVM)。![star > 5000][Gold]   ![最近一个周有更新][Green]
 * [scc](https://github.com/boyter/scc) - **star:761** 一个非常快速准确的代码计数器，采用了复杂的计算和 COCOMO 预估。![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [Seaweed File System](https://github.com/chrislusf/seaweedfs) - **star:8057** 快速、简单、可伸缩的分布式文件系统，采用了O(1)磁盘查找。![star > 5000][Gold]   ![最近一个周有更新][Green]
 * [shell2http](https://github.com/msoap/shell2http) - **star:396** 通过http服务器执行shell命令(用于原型或远程控制)。![star > 100][Bronze]   
@@ -2153,7 +2153,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - **star:1253** HTTP请求路由器基准测试和比较。![star > 1000][Silver]   
 * [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) - **star:976** web框架基准测试。![star > 100][Bronze]   
 * [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) - **star:844** Go序列化方法的基准测试。![star > 100][Bronze]   
-* [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) - Go语言常用基本操作的基准测试。
+* [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) - **star:52** Go语言常用基本操作的基准测试。![最近一年没有更新][Yellow]
 * [golang-micro-benchmarks](https://github.com/amscanne/golang-micro-benchmarks) - **star:17** Go 基础操作的基准测试集合。其目的是将一些语言特性与其他特性进行比较。
 * [golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) - **star:48** 为流行的 Go 数据库/SQL实用程序收集基准测试。![最近一年没有更新][Yellow]
 * [gospeed](https://github.com/feyeleanor/GoSpeed) - **star:93** 计算语言结构的速度的微观基准测试。
