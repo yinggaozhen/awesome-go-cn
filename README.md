@@ -6,7 +6,7 @@
 [Green]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Green.svg "最近一周有更新"
 [Yellow]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Yellow.svg "最近一年没有更新"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-12 19:54:29(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-12 20:58:00(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -175,7 +175,7 @@
 * [rbac](https://github.com/zpatrick/rbac) - **star:26** 最小的RBAC包。
 * [scs](https://github.com/alexedwards/scs) - **star:518** HTTP服务器的会话管理器。![star > 100][Bronze]   
 * [securecookie](https://github.com/chmike/securecookie) - **star:32** 高效安全的cookie编码/解码。
-* [session](https://github.com/icza/session) - **star:88** web服务器会话管理(包括支持谷歌应用程序引擎- GAE)。![最近一个周有更新][Green]
+* [session](https://github.com/icza/session) - **star:88** web服务器会话管理(包括支持谷歌应用程序引擎- GAE)。
 * [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) - **star:8** 使用SessionGate Redis模块进行会话管理。
 * [sessions](https://github.com/adam-hanna/sessions) - **star:46** 非常简单，高性能，可深度定制的会话服务，主要用于的 go http 服务器。
 * [signedvalue](https://github.com/sashka/signedvalue) - **star:7** 与[Tornado's](https://github.com/tornado oweb/tornado) 完全兼容的签名和时间戳字符串实现. create_signed_value '， ' decode_signed_value '，因此' set_secure_cookie '和' get_secure_cookie '。
@@ -504,7 +504,7 @@
     * [go-rejson](https://github.com/nitishm/go-rejson) - **star:85** 实现了基于 Redigo 客户端的redislabs' ReJSON 模块。可简单地将结构体存储为JSON对象并对其进行操作。
     * [gocb](https://github.com/couchbase/gocb) - **star:290** 官方Couchbase Go SDK。![star > 100][Bronze]   ![最近一个周有更新][Green]
     * [gocql](http://gocql.github.io) - Apache Cassandra 的 Go 驱动。
-    * [godis](https://github.com/piaohao/godis) - **star:57** redis客户端由golang实现，灵感来自jedis。![最近一个周有更新][Green]
+    * [godis](https://github.com/piaohao/godis) - **star:57** 由GoLang实现的redis客户端，灵感来自jedis。![最近一个周有更新][Green]
     * [godscache](https://github.com/defcronyke/godscache) - **star:6** 谷歌云平台Go Datastore包的封装，它采用了memcached添加缓存。
     * [gomemcache](https://github.com/bradfitz/gomemcache/) - memcache客户端库。
     * [gorethink](https://github.com/dancannon/gorethink) - **star:1456** RethinkDB 驱动。![star > 1000][Silver]   ![最近一个周有更新][Green]
@@ -842,7 +842,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [bild](https://github.com/anthonynsimon/bild) - **star:2023** 纯Go语言实现的图像处理算法合集。![star > 1000][Silver]   ![最近一个周有更新][Green]
 * [bimg](https://github.com/h2non/bimg) - **star:776** 使用libvips实现的快速高效的图像处理包。![star > 100][Bronze]   
 * [cameron](https://github.com/aofei/cameron) - **star:31** 一个Go语言的头像生成器。
-* [darkroom](https://github.com/gojek/darkroom) - **star:19** 一个图像代理与可变的存储后端和图像处理引擎的重点速度和弹性。![最近一个周有更新][Green]
+* [darkroom](https://github.com/gojek/darkroom) - **star:19** An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.![最近一个周有更新][Green]
 * [geopattern](https://github.com/pravj/geopattern) - **star:1007** 由字符串创建漂亮图案的图片生成器。![star > 1000][Silver]   
 * [gg](https://github.com/fogleman/gg) - **star:1886** 纯Go语言实现的2D渲染。![star > 1000][Silver]   
 * [gift](https://github.com/disintegration/gift) - **star:1206** 图像处理包。![star > 1000][Silver]   
@@ -1032,7 +1032,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [golongpoll](https://github.com/jcuga/golongpoll) - **star:421** HTTP longpoll服务器库，使web发布-订阅变得简单。![star > 100][Bronze]   
 * [goose](https://github.com/ian-kent/goose) - **star:37** 服务器在Go中发送事件。![最近一年没有更新][Yellow]
 * [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - **star:1822** gopush-cluster是一个gopush服务器集群。![star > 1000][Silver]   ![最近一年没有更新][Yellow]
-* [gorush](https://github.com/appleboy/gorush) - **star:3652** 使用[APNs2](https://github.com/sideshow/apns2)和谷歌[GCM](https://github.com/google/go-gcm)推送通知服务器。![star > 1000][Silver]   ![最近一个周有更新][Green]
+* [gorush](https://github.com/appleboy/gorush) - **star:3652** 使用[APNs2](https://github.com/sideshow/apns2)和谷歌[GCM](https://github.com/google/go-gcm)推送通知服务器。![star > 1000][Silver]   
 * [guble](https://github.com/smancke/guble) - **star:138** 消息服务器使用推送通知(谷歌Firebase云消息、苹果推送通知服务、SMS)以及websockets，一个REST API，具有分布式操作和消息持久性。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [hub](https://github.com/leandro-lugaresi/hub) - **star:24** 用于Go应用程序的消息/事件中心，使用发布/订阅模式，并支持别名(如rabbitMQ交换)。![最近一年没有更新][Yellow]
 * [jazz](https://github.com/socifi/jazz) - **star:6** 一个简单的RabbitMQ抽象层，用于队列管理和消息的发布和消费。
@@ -1046,7 +1046,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [oplog](https://github.com/dailymotion/oplog) - **star:94** 用于REST api的通用oplog/复制系统。![最近一年没有更新][Yellow]
 * [pubsub](https://github.com/tuxychandru/pubsub) - **star:272** 简单的pubsubpackage for go。![star > 100][Bronze]   
 * [rabbus](https://github.com/rafaeljesus/rabbus) - **star:61** amqp交换器和队列上的一个小包装。
-* [rabtap](https://github.com/jandelgado/rabtap) - **star:71** RabbitMQ瑞士军刀cli应用。![最近一个周有更新][Green]
+* [rabtap](https://github.com/jandelgado/rabtap) - **star:71** RabbitMQ瑞士军刀cli应用。
 * [RapidMQ](https://github.com/sybrexsys/RapidMQ) - **star:55** RapidMQ是用于管理本地消息队列的轻量级可靠库。![最近一年没有更新][Yellow]
 * [rmqconn](https://github.com/sbabiv/rmqconn) - RabbitMQ重新连接。amqp包装器。连接和amqp.Dial。在强制关闭对Close()方法的调用之前，允许在连接断开时重新连接。
 * [sarama](https://github.com/Shopify/sarama) - **star:4517**  Go Apache Kafka的库。![star > 1000][Silver]   ![最近一个周有更新][Green]
@@ -1078,7 +1078,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [fx](https://github.com/uber-go/fx) - **star:646** 基于依赖注入的Go应用程序框架(构建在dig之上)。![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [gocontainer](https://github.com/vardius/gocontainer) - **star:6** 简单的依赖注入容器。
 * [inject](https://github.com/defval/inject) - **star:18** 一个基于反射的依赖注入容器，具有简单的接口。![最近一个周有更新][Green]
-* [linker](https://github.com/logrange/linker) - **star:3** 基于反射的依赖注入和控制库的反转，支持组件生命周期。![最近一个周有更新][Green]
+* [linker](https://github.com/logrange/linker) - **star:3** A reflection based dependency injection and inversion of control library with components lifecycle support.![最近一个周有更新][Green]
 * [wire](https://github.com/Fs02/wire) - **star:20** Golang严格的运行时依赖注入。![最近一个周有更新][Green]
 
 ### 项目布局
@@ -1598,7 +1598,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 *用于访问第三方api的库。*
 
-* [amazon-product-advertising-api](https://github.com/ngs/go-amazon-product-advertising-api) - **star:39** 使用[Amazon Product Advertising API]的客户端库(https://program.amazon.com/gp/advertising /api/detail/main.html)。![最近一年没有更新][Yellow]
+* [amazon-product-advertising-api](https://github.com/ngs/go-amazon-product-advertising-api) - **star:39** [Amazon Product Advertising API](https://program.amazon.com/gp/advertising /api/detail/main.html)的客户端库。![最近一年没有更新][Yellow]
 * [anaconda](https://github.com/ChimeraCoder/anaconda) - **star:986**  Twitter 1.1 API 的 go 语言客户端![star > 100][Bronze]   
 * [aws-sdk-go](https://github.com/aws/aws-sdk-go) - **star:4961** AWS 提供的官方go语言 SDK![star > 1000][Silver]   ![最近一个周有更新][Green]
 * [brewerydb](https://github.com/naegelejd/brewerydb) - **star:16** 用于访问 BreweryDB API的 Go 语言库![最近一年没有更新][Yellow]
@@ -1614,16 +1614,16 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gads](https://github.com/emiddleton/gads) - **star:44**  Google Adwords 非官方 API
 * [gami](https://github.com/bit4bit/gami) - **star:26**  Asterisk Manager Interface 的 Go 语言库![最近一年没有更新][Yellow]
 * [gcm](https://github.com/Aorioli/gcm) - **star:30**  Google Cloud Messaging 库![最近一年没有更新][Yellow]
-* [geo-golang](https://github.com/codingsince1985/geo-golang) - **star:302** 访问谷歌地图(https://developers.google.com/maps/documentation/geocoding/intro), (MapQuest) (http://open.mapquestapi.com/geocoding/), (Nominatim) (https://developer.mapquest.com/documentation/open/nominatim-search), (OpenCage) (http://geocoder.opencagedata.com/api.html), (Bing) (https://msdn.microsoft.com/en-us/library/ff701715.aspx), (Mapbox) (https://www.mapbox.com/developers/api/geocoding/),以及[OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding api 的库![star > 100][Bronze]   
+* [geo-golang](https://github.com/codingsince1985/geo-golang) - **star:302** Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](http://open.mapquestapi.com/geocoding/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](http://geocoder.opencagedata.com/api.html), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs.![star > 100][Bronze]   
 * [github](https://github.com/google/go-github) - **star:4697** 访问GitHub REST API v3的库。![star > 1000][Silver]   ![最近一个周有更新][Green]
 * [githubql](https://github.com/shurcooL/githubql) - **star:489** 访问GitHub GraphQL API v4的库。![star > 100][Bronze]   
 * [go-chronos](https://github.com/axelspringer/go-chronos) - **star:3** 用于与[Chronos](https://mesos.github.io/chronos/)作业调度程序进行交互的Go库![最近一年没有更新][Yellow]
 * [go-hacknews](https://github.com/PaulRosset/go-hacknews) - **star:9** HackerNews API的小型Go客户端。![最近一年没有更新][Yellow]
-* [go-imgur](https://github.com/koffeinsource/go-imgur) - **star:13**  Go [imgur]的客户端库(https://imgur.com)
-* [go-jira](https://github.com/andygrunwald/go-jira) - **star:555**  Go [Atlassian JIRA]的客户端库(https://www.atlassian.com/software/jira)![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [go-imgur](https://github.com/koffeinsource/go-imgur) - **star:13** Go [imgur](https://imgur.com)的客户端库
+* [go-jira](https://github.com/andygrunwald/go-jira) - **star:555**  Go [Atlassian JIRA](https://www.atlassian.com/software/jira)的客户端库![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [go-marathon](https://github.com/gambol99/go-marathon) - **star:187**  用于和 Mesosphere's Marathon PAAS 交互的 Go 语言库![star > 100][Bronze]   
-* [go-myanimelist](https://github.com/nstratos/go-myanimelist) - **star:16** 访问[MyAnimeList API]的客户端库(http://myanimelist.net/modules.php?go=api)。![最近一年没有更新][Yellow]
-* [go-sophos](https://github.com/esurdam/go-sophos) - **star:5** 为[Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/pdfs/documentation/utmonaws/sophos-ut-restful-api.pdf?
+* [go-myanimelist](https://github.com/nstratos/go-myanimelist) - **star:16** [MyAnimeList API](http://myanimelist.net/modules.php?go=api)的客户端库。![最近一年没有更新][Yellow]
+* [go-sophos](https://github.com/esurdam/go-sophos) - **star:5** 无任何依赖的[Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/pdfs/documentation/utmonaws/sophos-ut-restful-api.pdf?la=en)客户端
 * [go-sptrans](https://github.com/sergioaugrod/go-sptrans) - **star:8**  SPTrans Olho Vivo API 的客户端。![最近一年没有更新][Yellow]
 * [go-telegraph](https://gitlab.com/toby3d/telegraph) - Telegraph 发布平台 API 客户端。
 * [go-trending](https://github.com/andygrunwald/go-trending) - **star:100** 在Github上访问[trends repository](https://github.com/trends)和[developers](https://github.com/trending/developers)的库。![star > 100][Bronze]   
@@ -1659,7 +1659,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [steam](https://github.com/sostronk/go-steam) - **star:14**  用于与Steam服务器进行交互的库。![最近一年没有更新][Yellow]
 * [stripe](https://github.com/stripe/stripe-go) - **star:924**  Stripe API 的 Go 语言客户端![star > 100][Bronze]   ![最近一个周有更新][Green]
 * [textbelt](https://github.com/dietsche/textbelt) - **star:14** textbelt.com txt messaging API 的go语言客户端。![最近一年没有更新][Yellow]
-* [TheMovieDb](https://github.com/jbrodriguez/go-tmdb) - **star:13** 简单的golang包与[themoviedb.org]通信(https://themoviedb.org)。![最近一年没有更新][Yellow]
+* [TheMovieDb](https://github.com/jbrodriguez/go-tmdb) - **star:13** 能与[themoviedb.org](https://themoviedb.org)简易通信的golang包。![最近一年没有更新][Yellow]
 * [translate](https://github.com/poorny/translate) - **star:27**  Go 在线翻译包。![最近一年没有更新][Yellow]
 * [Trello](https://github.com/adlio/trello) - **star:100**  Trello API的 Go 语言封装。![star > 100][Bronze]   
 * [TripAdvisor](https://github.com/mrbenosborne/tripadvisor-golang) - **star:1**  TripAdvisor API 的 Go 语言封装。
@@ -1741,7 +1741,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [koazee](https://github.com/wesovilabs/koazee) - **star:281** 库的灵感来自于延迟计算和函数式编程，从而减少了使用数组的麻烦。![star > 100][Bronze]   
 * [lrserver](https://github.com/jaschaephraim/lrserver) - **star:100** LiveReload 服务器。![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [mc](https://github.com/minio/mc) - **star:1079** Minio Client 提供了一组工具，用于操作 Amazon S3 兼容云存储和文件系统。![star > 1000][Silver]   ![最近一个周有更新][Green]
-* [mergo](https://github.com/imdario/mergo) - **star:829** 用于将结构体和map合并进 Go 语言的工具。对于配置默认值，避免杂乱的if语句很有帮助。![star > 100][Bronze]   ![最近一个周有更新][Green]
+* [mergo](https://github.com/imdario/mergo) - **star:829** 用于将结构体和map合并进 Go 语言的工具。对于配置默认值，避免杂乱的if语句很有帮助。![star > 100][Bronze]   
 * [mimemagic](https://github.com/zRedShift/mimemagic) - **star:42** 纯粹 Go 超性能MIME嗅探库/实用程序。
 * [mimesniffer](https://github.com/aofei/mimesniffer) - **star:7** 一个用于Go的MIME类型嗅探器。
 * [mimetype](https://github.com/gabriel-vasile/mimetype) - **star:102** 用于基于神奇数字的MIME类型检测的包。![star > 100][Bronze]   ![最近一个周有更新][Green]
