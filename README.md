@@ -6,7 +6,7 @@
 [Green]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Green.svg "最近一周有更新"
 [Yellow]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Yellow.svg "最近一年没有更新"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-17 09:26:04(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-17 18:59:47(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -552,7 +552,7 @@
 | [godis](https://github.com/piaohao/godis)  | 58 |  由GoLang实现的redis客户端，灵感来自jedis。 |![最近一个周有更新][Green]
 | [godscache](https://github.com/defcronyke/godscache)  | 6 |  谷歌云平台Go Datastore包的封装，它采用了memcached添加缓存。 |
 | [gomemcache](https://github.com/bradfitz/gomemcache/)  | - |  memcache客户端库。 |
-| [gorethink](https://github.com/dancannon/gorethink)  | 1454 |  RethinkDB 驱动。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [gorethink](https://github.com/dancannon/gorethink)  | 1454 |  RethinkDB 驱动。 |![star > 1000][Silver]   
 | [goriak](https://github.com/zegl/goriak)  | 24 |   Riak KV 驱动。 |
 | [mgo](https://github.com/globalsign/mgo)  | 1622 |  (已停止维护) MongoDB驱动。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
 | [mongo-go-driver](https://github.com/mongodb/mongo-go-driver)  | 2965 |  官方的 MongoDB 驱动。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
@@ -672,7 +672,7 @@
 | [Gomail](https://github.com/go-gomail/gomail/)  | - |  一个非常简单和强大的邮件发送库。 |
 | [Hectane](https://github.com/hectane/hectane)  | 168 |  轻量级的SMTP客户机，提供了HTTP API。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [hermes](https://github.com/matcornic/hermes)  | 1602 |  可生成干净的、响应式的HTML电子邮件。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [MailHog](https://github.com/mailhog/MailHog)  | 5083 |  电子邮件和SMTP测试工具，对外提供了 web 和 API 接口。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
+| [MailHog](https://github.com/mailhog/MailHog)  | 5083 |  电子邮件和SMTP测试工具，对外提供了 web 和 API 接口。 |![star > 5000][Gold]   
 | [SendGrid](https://github.com/sendgrid/sendgrid-go)  | 516 |  SendGrid 的 Go语言库，用于发送电子邮件。 |![star > 100][Bronze]   
 | [smtp](https://github.com/mailhog/smtp)  | 49 |  SMTP服务器协议状态机。 |![最近一年没有更新][Yellow]
 
@@ -821,7 +821,7 @@
 | [gen](https://github.com/clipperhouse/gen)  | 1027 |  用于生成泛型等类似方法的功能代码生成工具。 |![star > 1000][Silver]   ![最近一年没有更新][Yellow]
 | [generis](https://github.com/senselogic/GENERIS)  | 18 |  提供泛型、free-form 宏、条件编译和HTML模板的代码生成工具。 |
 | [go-enum](https://github.com/abice/go-enum)  | 80 |  从代码注释中生成枚举。 |
-| [go-linq](https://github.com/ahmetalpbalkan/go-linq)  | 1779 |  提供类似 .NET LINQ 的查询方法。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [go-linq](https://github.com/ahmetalpbalkan/go-linq)  | 1779 |  提供类似 .NET LINQ 的查询方法。 |![star > 1000][Silver]   
 | [goderive](https://github.com/awalterschulze/goderive)  | 731 |  从输入类型来派生函数。 |![star > 100][Bronze]   
 | [gotype](https://github.com/wzshiming/gotype)  | 20 |  Golang 源码解析，用法类似reflect(反射)。 |
 | [GoWrap](https://github.com/hexdigest/gowrap)  | 259 |  使用简单模板为 Go 接口生成装饰器。 |![star > 100][Bronze]   
@@ -867,7 +867,7 @@
 | [ants](https://github.com/panjf2000/ants)  | 1790 |  一个高性能的协程池。 |![star > 1000][Silver]   
 | [artifex](https://github.com/borderstech/artifex)  | 11 |  简单的内存作业队列。 |
 | [async](https://github.com/studiosol/async)  | 18 |  一种异步执行函数的安全方法，在出现 panic 时恢复它们。 |
-| [breaker](https://github.com/kamilsk/breaker)  | 26 |  灵活的机制，可以使执行流可中断。 |![最近一个周有更新][Green]
+| [breaker](https://github.com/kamilsk/breaker)  | 26 |  灵活的机制，可以使执行流可中断。 |
 | [cyclicbarrier](https://github.com/marusama/cyclicbarrier)  | 27 |  基于 Go 的 CyclicBarrier 实现。 |
 | [go-floc](https://github.com/workanator/go-floc)  | 167 |  轻松编排 goroutines。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [go-flow](https://github.com/kamildrazkiewicz/go-flow)  | 103 |  控制 goroutines 的执行顺序。 |![star > 100][Bronze]   
@@ -1009,7 +1009,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [gron](https://github.com/roylee0704/gron)  | 624 |  使用简单的Go API定义基于时间的任务。 之后Gron的调度程序将运行它们。 |![star > 100][Bronze]   
 | [JobRunner](https://github.com/bamzi/jobrunner)  | 566 |  智能和功能丰富的cron作业调度程序（包含任务队列和实时监控）。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [jobs](https://github.com/albrow/jobs)  | 450 |  持久和灵活的后台作业库。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [leprechaun](https://github.com/kilgaloon/leprechaun)  | 36 |  支持webhook、crons和经典调度的作业调度程序。 |![最近一个周有更新][Green]
+| [leprechaun](https://github.com/kilgaloon/leprechaun)  | 36 |  支持webhook、crons和经典调度的作业调度程序。 |
 | [scheduler](https://github.com/carlescere/scheduler)  | 291 |  Cronjobs让调度变得很简单。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 
 ## JSON
@@ -1423,7 +1423,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [beego orm](https://github.com/astaxie/beego/tree/master/orm)  | - |  强大的orm框架。支持:pq / mysql / sqlite3。 |
 | [go-firestorm](https://github.com/jschoedt/go-firestorm)  | 1 |  一个用于谷歌/Firebase云Firestore的简单ORM。 |
 | [go-pg](https://github.com/go-pg/pg)  | 2913 |  关注PostgreSQL的特性和性能。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [go-queryset](https://github.com/jirfag/go-queryset)  | 447 |  100%类型安全ORM与代码生成和MySQL, PostgreSQL, Sqlite3, SQL Server支持基于GORM。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [go-queryset](https://github.com/jirfag/go-queryset)  | 447 |  100%类型安全ORM与代码生成和MySQL, PostgreSQL, Sqlite3, SQL Server支持基于GORM。 |![star > 100][Bronze]   
 | [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder)  | 228 |  一个灵活而强大的SQL字符串构建器库加上一个零配置ORM。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [go-store](https://github.com/gosuri/go-store)  | 93 |  简单而快速的Redis支持的键值存储库。 |![最近一年没有更新][Yellow]
 | [GORM](https://github.com/jinzhu/gorm)  | 14354 |  Golang出色的ORM库的目标是对开发人员友好。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
@@ -1602,7 +1602,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Caddy](https://github.com/mholt/caddy)  | 22886 |  Caddy是另一种HTTP/2 web服务器，易于配置和使用。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [consul](https://www.consul.io/)  | - |  Consul 是一个用于服务发现、监控和配置的工具 |
 | [devd](https://github.com/cortesi/devd)  | 2793 |  为开发人员提供本地web服务器。 |![star > 1000][Silver]   
-| [discovery](https://github.com/Bilibili/discovery)  | 653 |  用于弹性中间层负载平衡和故障转移的注册表。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [discovery](https://github.com/Bilibili/discovery)  | 653 |  用于弹性中间层负载平衡和故障转移的注册表。 |![star > 100][Bronze]   
 | [etcd](https://github.com/coreos/etcd)  | 26050 |  为共享配置和服务发现提供高可用的键值存储。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [Fider](https://github.com/getfider/fider)  | 782 |  Fider是一个收集和组织客户反馈的开放平台。 |![star > 100][Bronze]   
 | [Flagr](https://github.com/checkr/flagr)  | 802 |  Flagr是一个开源特性标记和A/B测试服务。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
@@ -1721,7 +1721,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [cdp](https://github.com/mafredri/cdp)  | 345 |  用于Chrome调试协议的类型安全绑定，可与实现该协议的浏览器或其他调试目标一起使用。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [cdp](https://github.com/mafredri/cdp)  | 345 |  用于Chrome调试协议的类型安全绑定，可与实现该协议的浏览器或其他调试目标一起使用。 |![star > 100][Bronze]   
 | [chromedp](https://github.com/knq/chromedp)  | 3460 |  用于驱动和测试 Chrome, Safari, Edge, Android Webviews, 以及其他支持 Chrome 调试协议的产品 |![star > 1000][Silver]   ![最近一个周有更新][Green]
 | [ggr](https://github.com/aerokube/ggr)  | 207 |  一个轻量级服务器，可以将 Selenium Wedriver 的请求路由或代理到多个 Selenium hubs |![star > 100][Bronze]   
 | [selenoid](https://github.com/aerokube/selenoid)  | 1196 |  Selenium hub 服务器的替代品，在容器中启动浏览器 |![star > 1000][Silver]   ![最近一个周有更新][Green]
@@ -2402,7 +2402,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Stack Up](https://github.com/pressly/sup)  | 1985 |  Stack Up 是一个超级简单的部署工具 — 只面向Unix。 |![star > 1000][Silver]   
 | [syncthing](https://syncthing.net/)  | - |  开放，分散的文件同步工具和协议。 |
 | [term-quiz](https://github.com/crazcalm/term-quiz)  | 17 |  测试你的终端。 |
-| [toxiproxy](https://github.com/shopify/toxiproxy)  | 3804 |  为自动化测试模拟网络和系统条件的代理。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [toxiproxy](https://github.com/shopify/toxiproxy)  | 3804 |  为自动化测试模拟网络和系统条件的代理。 |![star > 1000][Silver]   
 | [tsuru](https://tsuru.io/)  | - |  Extensible and open source Platform as a Service software. |
 | [vFlow](https://github.com/VerizonDigital/vflow)  | 591 |  高性能、可伸缩和可靠的 IPFIX、sFlow和 Netflow 收集器。 |![star > 100][Bronze]   
 | [wellington](https://github.com/wellington/wellington)  | 288 |  Sass 项目管理工具，使用sprite函数(如Compass)扩展语言。 |![star > 100][Bronze]   
