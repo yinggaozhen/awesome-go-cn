@@ -6,7 +6,7 @@
 [Green]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Green.svg "最近一周有更新"
 [Yellow]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Yellow.svg "最近一年没有更新"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-18 09:41:30(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-18 19:56:29(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -206,7 +206,7 @@
 | [slacker](https://github.com/shomali11/slacker)  | 304 |  可简单创建Slack机器人的框架。 |![star > 100][Bronze]   
 | [slackscot](https://github.com/alexandre-normand/slackscot)  | 10 |  另一个构建Slack机器人的框架。 |![最近一个周有更新][Green]
 | [tbot](https://github.com/yanzay/tbot)  | 214 |  带有类似于net/http API的Telegram bot服务器。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [telebot](https://github.com/tucnak/telebot)  | 937 |  用Go编写的Telegram bot框架。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [telebot](https://github.com/tucnak/telebot)  | 937 |  用Go编写的Telegram bot框架。 |![star > 100][Bronze]   
 | [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api)  | 1590 |  简单轻量级的Telegram bot客户端。 |![star > 1000][Silver]   
 | [Tenyks](https://github.com/kyleterry/tenyks)  | 167 |  面向服务的IRC bot，使用Redis和JSON进行消息传递。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 
@@ -469,7 +469,7 @@
 | [goose](https://github.com/steinbacher/goose)  | 117 |  数据库迁移工具。您可以通过创建增量SQL或Go脚本来管理数据库的升级。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [gormigrate](https://github.com/go-gormigrate/gormigrate)  | 324 |  面向Gorm ORM的数据库 schema 迁移辅助程序。 |![star > 100][Bronze]   
 | [migrate](https://github.com/golang-migrate/migrate)  | 2518 |  基于CLI的数据库迁移库。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [migrator](https://github.com/lopezator/migrator)  | 29 |  非常简单的 Go 数据库迁移库。 |![最近一个周有更新][Green]
+| [migrator](https://github.com/lopezator/migrator)  | 29 |  非常简单的 Go 数据库迁移库。 |
 | [pravasan](https://github.com/pravasan/pravasan)  | 24 |  简易的迁移工具-目前只支持MySQL，但计划很快支持Postgres, SQLite, MongoDB等。 |
 | [soda](https://github.com/gobuffalo/pop/tree/master/soda)  | - |  数据库迁移、创建、ORM等。用于MySQL、PostgreSQL和SQLite。 |
 | [sql-migrate](https://github.com/rubenv/sql-migrate)  | 1384 |  数据库迁移工具。允许使用go-bindata将迁移嵌入到应用程序中。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
@@ -481,7 +481,7 @@
 |---|---|---|---|
 | [chproxy](https://github.com/Vertamedia/chproxy)  | 297 |  ClickHouse数据库的HTTP代理。 |![star > 100][Bronze]   
 | [clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk)  | 129 |  收集小的 insterts 并向 ClickHouse 服务器发送大请求。 |![star > 100][Bronze]   
-| [datagen](https://github.com/codingconcepts/datagen)  | 6 |  一个快速的数据生成器，支持多表感知和多行DML。 |![最近一个周有更新][Green]
+| [datagen](https://github.com/codingconcepts/datagen)  | 6 |  一个快速的数据生成器，支持多表感知和多行DML。 |
 | [dbbench](https://github.com/sj14/dbbench)  | 30 |  数据库基准测试工具，支持多个数据库和脚本。 |
 | [go-mysql](https://github.com/siddontang/go-mysql)  | 1842 |   Go 工具集，用于处理MySQL协议和复制。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
 | [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch)  | 2333 |  自动将MySQL数据同步到Elasticsearch中。 |![star > 1000][Silver]   
@@ -1178,7 +1178,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [unioffice](https://github.com/unidoc/unioffice)  | 1653 |  用于创建和处理Office Word (.docx)、Excel (.xlsx)和Powerpoint (.pptx)文档的纯go库。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [unioffice](https://github.com/unidoc/unioffice)  | 1653 |  用于创建和处理Office Word (.docx)、Excel (.xlsx)和Powerpoint (.pptx)文档的纯go库。 |![star > 1000][Silver]   
 
 ### Microsoft Excel
 
@@ -1805,7 +1805,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [amazon-product-advertising-api](https://github.com/ngs/go-amazon-product-advertising-api)  | 39 |  [Amazon Product Advertising API](https://program.amazon.com/gp/advertising /api/detail/main.html)的客户端库。 |![最近一年没有更新][Yellow]
+| [amazon-product-advertising-api](https://github.com/ngs/go-amazon-product-advertising-api)  | 39 |  [Amazon Product Advertising API](https://program.amazon.com/gp/advertising/api/detail/main.html)的客户端库。 |![最近一年没有更新][Yellow]
 | [anaconda](https://github.com/ChimeraCoder/anaconda)  | 985 |   Twitter 1.1 API 的 go 语言客户端 |![star > 100][Bronze]   
 | [aws-sdk-go](https://github.com/aws/aws-sdk-go)  | 4974 |  AWS 提供的官方go语言 SDK |![star > 1000][Silver]   ![最近一个周有更新][Green]
 | [brewerydb](https://github.com/naegelejd/brewerydb)  | 16 |  用于访问 BreweryDB API的 Go 语言库 |![最近一年没有更新][Yellow]
@@ -2243,7 +2243,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Go plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/9568-go)  | - |  JetBrains IDEs 的 Go 插件。 |
 | [go-language-server](https://github.com/theia-ide/go-language-server)  | 28 |  A wrapper to turn the VSCode go extension into a language server supporting the language-server-protocol. |
 | [go-mode](https://github.com/dominikh/go-mode.el)  | 944 |  在 GNU/Emacs 支持 GO。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [go-plus](https://github.com/joefitzgerald/go-plus)  | 1480 |  在 Atom 中添加自动完成，格式化，语法检查，高亮和审查。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [go-plus](https://github.com/joefitzgerald/go-plus)  | 1480 |  在 Atom 中添加自动完成，格式化，语法检查，高亮和审查。 |![star > 1000][Silver]   
 | [gocode](https://github.com/nsf/gocode)  | 4721 |  Autocompletion daemon for the Go programming language. |![star > 1000][Silver]   
 | [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof)  | - |  在 VS Code 中支持 Go 的基准分析。 |
 | [GoSublime](https://github.com/DisposaBoy/GoSublime)  | 3223 |  包含了可为文本编辑器 SublimeText 3 提供代码自动填充和其他类似IDE的功能的 Golang IDE 插件集合。 |![star > 1000][Silver]   
@@ -2302,7 +2302,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [awsenv](https://github.com/soniah/awsenv)  | 21 |  可以为 profile 加载Amazon (AWS)环境变量的轻量二进制文件。 |![最近一年没有更新][Yellow]
 | [Blast](https://github.com/dave/blast)  | 168 |  一个用于API负载测试和批处理作业的简单工具。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [bombardier](https://github.com/codesenberg/bombardier)  | 1700 |  快速跨平台 HTTP 基准测试工具。 |![star > 1000][Silver]   
-| [bosun](https://github.com/bosun-monitor/bosun)  | 2848 |  按照时间轴发出告警的框架。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [bosun](https://github.com/bosun-monitor/bosun)  | 2848 |  按照时间轴发出告警的框架。 |![star > 1000][Silver]   
 | [DepCharge](https://github.com/centerorbit/depcharge)  | 9 |  Helps orchestrating the execution of commands across the many dependencies in larger projects. |
 | [dogo](https://github.com/liudng/dogo)  | 217 |  监视源文件中的更改并自动编译和运行(restart)。 |![star > 100][Bronze]   
 | [drone-jenkins](https://github.com/appleboy/drone-jenkins)  | 24 |  使用二进制文件、docker或 Drone CI 来触发下游Jenkins作业。 |
@@ -2319,7 +2319,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [godbg](https://github.com/sirnewton01/godbg)  | 219 |  基于 web 的 gdb 前端应用程序。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [Gogs](https://gogs.io/)  | - |  自托管的Git服务。 |
 | [gonative](https://github.com/inconshreveable/gonative)  | 313 |  用原生 Go 创建一个跨平台的 Go 工具链。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [govvv](https://github.com/ahmetalpbalkan/govvv)  | - |  可轻松地添加版本信息到 Go 二进制文件。 |
+| [govvv](https://github.com/ahmetalpbalkan/govvv)  | 377 |  可轻松地添加版本信息到 Go 二进制文件。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [gox](https://github.com/mitchellh/gox)  | 3333 |  非常简单，没有多余的跨平台编译工具。 |![star > 1000][Silver]   
 | [goxc](https://github.com/laher/goxc)  | 1625 |  专注于跨平台编译和打包的 Go 构建工具。 |![star > 1000][Silver]   ![最近一年没有更新][Yellow]
 | [grapes](https://github.com/yaronsumel/grapes)  | 135 |  旨在轻松地通过ssh分发命令的轻量级工具。 |![star > 100][Bronze]   
@@ -2334,7 +2334,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Moby](https://github.com/moby/moby)  | 54152 |  Collaborative project for the container ecosystem to assemble container-based systems. |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [Mora](https://github.com/emicklei/mora)  | 265 |  用于访问 MongoDB 文档和元数据的 REST 服务器。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [ostent](https://github.com/ostrost/ostent)  | 164 |  收集和显示系统指标，并可选 Graphite and/or fluxdb作为依赖。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [Packer](https://github.com/mitchellh/packer)  | - |  用于从一个源配置为多个平台创建相同的机器图像。 |
+| [Packer](https://github.com/mitchellh/packer)  | 9127 |  用于从一个源配置为多个平台创建相同的机器图像。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [Pewpew](https://github.com/bengadbois/pewpew)  | 199 |  灵活的 HTTP 命令行压测工具。 |![star > 100][Bronze]   
 | [Pomerium](https://github.com/pomerium/pomerium)  | 471 |  Pomerium是一个可识别身份的访问代理。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [Rodent](https://github.com/alouche/rodent)  | 30 |  管理Go版本、项目和跟踪依赖项。 |![最近一年没有更新][Yellow]
@@ -2355,7 +2355,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [borg](https://github.com/crufter/borg)  | - |  基于终端的bash代码段搜索引擎。 |
+| [borg](https://github.com/crufter/borg)  | 1418 |  基于终端的bash代码段搜索引擎。 |![star > 1000][Silver]   ![最近一年没有更新][Yellow]
 | [boxed](https://github.com/tejo/boxed)  | 72 |  基于Dropbox的博客引擎。 |
 | [Cherry](https://github.com/rafael-santiago/cherry)  | 193 |  微型网络聊天服务器。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [Circuit](https://github.com/gocircuit/circuit)  | 1782 |  Circuit 是一个可编程平台即服务(PaaS)和/或基础设施即服务(IaaS)，用于管理、发现、同步和编排包含云应用程序的服务和主机。 |![star > 1000][Silver]   
@@ -2365,7 +2365,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Docker](http://www.docker.com/)  | - |  面向开发人员和系统管理员的分布式应用程序的开放平台。 |
 | [Documize](https://github.com/documize/community)  | 806 |  集成了SaaS工具数据的现代wiki软件。 |![star > 100][Bronze]   
 | [drive](https://github.com/odeke-em/drive)  | 4936 |  基于命令行的谷歌驱动器客户端。 |![star > 1000][Silver]   
-| [Duplicacy](https://github.com/gilbertchen/duplicacy)  | 2670 |  跨平台网络和云备份工具。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [Duplicacy](https://github.com/gilbertchen/duplicacy)  | 2670 |  跨平台网络和云备份工具。 |![star > 1000][Silver]   
 | [gfile](https://github.com/Antonito/gfile)  | 493 |  通过WebRTC在两台计算机之间安全地传输文件，不需要任何第三方依赖。 |![star > 100][Bronze]   
 | [Go Package Store](https://github.com/shurcooL/Go-Package-Store)  | 876 |  App that displays updates for the Go packages in your GOPATH. |![star > 100][Bronze]   
 | [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix)  | 372 |  视频流 torrent 客户端。 |![star > 100][Bronze]   
@@ -2374,7 +2374,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [GoDNS](https://github.com/timothyye/godns)  | 419 |  一个动态DNS客户端工具，支持DNSPod & HE.net。 |![star > 100][Bronze]   
 | [GoDocTooltip](https://github.com/diankong/GoDocTooltip)  | 12 |  包含了 Go 使用手册文档的 Chrome 扩展。 |![最近一年没有更新][Yellow]
 | [GoLand](https://jetbrains.com/go)  | - |  功能齐全的跨平台 Go IDE。 |
-| [Gor](https://github.com/buger/gor)  | - |  Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。 |
+| [Gor](https://github.com/buger/gor)  | 11266 |  Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。 |![star > 5000][Gold]   
 | [hugo](http://gohugo.io/)  | - |  快速、现代的静态网站引擎。 |
 | [ide](https://github.com/thestrukture/ide)  | 250 |  基于浏览器的IDE |![star > 100][Bronze]   
 | [ipe](https://github.com/dimiro1/ipe)  | 274 |  Open source Pusher server implementation compatible with Pusher client libraries written in GO. |![star > 100][Bronze]   
@@ -2388,12 +2388,12 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [myLG](https://github.com/mehrdadrad/mylg)  | 2192 |  命令行网络诊断工具。 |![star > 1000][Silver]   
 | [naclpipe](https://github.com/unix4fun/naclpipe)  | 20 |  基于加密管的简单的NaCL EC25519工具。 |
 | [nes](https://github.com/fogleman/nes)  | 4117 |  任天堂娱乐系统(NES)模拟器。 |![star > 1000][Silver]   
-| [orange-cat](https://github.com/noraesae/orange-cat)  | - |  用Go编写的Markdown预览器。 |
+| [orange-cat](https://github.com/noraesae/orange-cat)  | 177 |  用Go编写的Markdown预览器。 |![star > 100][Bronze]   
 | [Orbit](https://github.com/gulien/orbit)  | 128 |  一个根据模板来运行命令和生成文件的简单小工具。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [peg](https://github.com/pointlander/peg)  | 587 |  解析表达式语法，是Packrat解析器生成器的实现。 |![star > 100][Bronze]   
 | [Pipe](https://github.com/b3log/pipe)  | 2721 |  一个小巧漂亮的博客平台。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
 | [restic](https://github.com/restic/restic)  | 7311 |  消除重复项备份程序。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [rkt](https://github.com/coreos/rkt)  | - |  一个应用容器，与其他容器格式(如Docker)兼容，并支持其他执行引擎(如KVM)。 |
+| [rkt](https://github.com/coreos/rkt)  | 8725 |  一个应用容器，与其他容器格式(如Docker)兼容，并支持其他执行引擎(如KVM)。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [scc](https://github.com/boyter/scc)  | 762 |  一个非常快速准确的代码计数器，采用了复杂的计算和 COCOMO 预估。 |![star > 100][Bronze]   
 | [Seaweed File System](https://github.com/chrislusf/seaweedfs)  | 8102 |  快速、简单、可伸缩的分布式文件系统，采用了O(1)磁盘查找。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [shell2http](https://github.com/msoap/shell2http)  | 398 |  通过http服务器执行shell命令(用于原型或远程控制)。 |![star > 100][Bronze]   
@@ -2422,7 +2422,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark)  | 1255 |  HTTP请求路由器基准测试和比较。 |![star > 1000][Silver]   
 | [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark)  | 981 |  web框架基准测试。 |![star > 100][Bronze]   
 | [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks)  | 853 |  Go序列化方法的基准测试。 |![star > 100][Bronze]   
-| [gocostmodel](https://github.com/PuerkitoBio/gocostmodel)  | - |  Go语言常用基本操作的基准测试。 |
+| [gocostmodel](https://github.com/PuerkitoBio/gocostmodel)  | 52 |  Go语言常用基本操作的基准测试。 |![最近一年没有更新][Yellow]
 | [golang-micro-benchmarks](https://github.com/amscanne/golang-micro-benchmarks)  | 17 |  Go 基础操作的基准测试集合。其目的是将一些语言特性与其他特性进行比较。 |
 | [golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark)  | 48 |  为流行的 Go 数据库/SQL实用程序收集基准测试。 |![最近一年没有更新][Yellow]
 | [gospeed](https://github.com/feyeleanor/GoSpeed)  | 93 |  计算语言结构的速度的微观基准测试。 |
@@ -2432,27 +2432,24 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## 会议
 
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [Capital Go](http://www.capitalgolang.com)  | - |  华盛顿特区。,美国。 |
-| [dotGo](http://www.dotgo.eu)  | - |  巴黎,法国。 |
-| [GoCon](http://gocon.connpass.com/)  | - |  东京,日本。 |
-| [GoDays](https://www.godays.io/)  | - |  德国柏林。 |
-| [GoLab](http://golab.io/)  | - |  佛罗伦萨,意大利。 |
-| [GolangUK](http://golanguk.com/)  | - |  伦敦,英国。 |
-| [GopherChina](http://gopherchina.org)  | - |  上海,中国。 |
-| [GopherCon](http://www.gophercon.com/)  | - |  美国丹佛。 |
-| [GopherCon Australia](https://gophercon.com.au/)  | - |  澳大利亚悉尼。 |
-| [GopherCon Brazil](https://gopherconbr.org)  | - |  弗洛,BR。 |
-| [GopherCon Europe](https://gophercon.is/)  | - |  雷克雅未克,冰岛。 |
-| [GopherCon India](https://www.gophercon.in/)  | - |  印度浦那。 |
-| [GopherCon Israel](https://www.gophercon.org.il/)  | - |  特拉维夫,以色列。 |
-| [GopherCon Russia](https://www.gophercon-russia.ru)  | - |  莫斯科,俄罗斯。 |
-| [GopherCon Singapore](https://gophercon.sg)  | - |  新加坡枫树商贸城。 |
-| [GopherCon Vietnam](https://gophercon.vn/)  | - |  越南胡志明市。 |
-| [GothamGo](http://gothamgo.com/)  | - |  美国纽约市。 |
-| [GoWayFest](https://goway.io/)  | - |  白俄罗斯明斯克。 |
+* [Capital Go](http://www.capitalgolang.com) - 华盛顿特区。,美国。
+* [dotGo](http://www.dotgo.eu) - 巴黎,法国。
+* [GoCon](http://gocon.connpass.com/) - 东京,日本。
+* [GoDays](https://www.godays.io/) - 德国柏林。
+* [GoLab](http://golab.io/) - 佛罗伦萨,意大利。
+* [GolangUK](http://golanguk.com/) - 伦敦,英国。
+* [GopherChina](http://gopherchina.org) - 上海,中国。
+* [GopherCon](http://www.gophercon.com/) - 美国丹佛。
+* [GopherCon Australia](https://gophercon.com.au/) - 澳大利亚悉尼。
+* [GopherCon Brazil](https://gopherconbr.org) - 弗洛,BR。
+* [GopherCon Europe](https://gophercon.is/) - 雷克雅未克,冰岛。
+* [GopherCon India](https://www.gophercon.in/) - 印度浦那。
+* [GopherCon Israel](https://www.gophercon.org.il/) - 特拉维夫,以色列。
+* [GopherCon Russia](https://www.gophercon-russia.ru) - 莫斯科,俄罗斯。
+* [GopherCon Singapore](https://gophercon.sg) - 新加坡枫树商贸城。
+* [GopherCon Vietnam](https://gophercon.vn/) - 越南胡志明市。
+* [GothamGo](http://gothamgo.com/) - 美国纽约市。
+* [GoWayFest](https://goway.io/) - 白俄罗斯明斯克。
 
 ## E-Books
 
@@ -2460,16 +2457,10 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 * [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [Go 101](https://go101.org)  | - |  一本关注 Go 语法/语义和各种细节的书。 |
+* [Go 101](https://go101.org) - 一本关注 Go 语法/语义和各种细节的书。
 * [Go Bootcamp](http://golangbootcamp.com)
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [Go Succinctly](https://github.com/thedevsir/gosuccinctly)  | 10 |  in Persian. |
-| [GoBooks](https://github.com/dariubs/GoBooks)  | 6727 |  一份精选的 Go 书籍清单。 |![star > 5000][Gold]   
+* [Go Succinctly](https://github.com/thedevsir/gosuccinctly) - in Persian.
+* [GoBooks](https://github.com/dariubs/GoBooks) - 一份精选的 Go 书籍清单。
 * [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 * [Network Programming With Go](https://jan.newmarch.name/go/)
 * [The Go Programming Language](http://www.gopl.io/)
@@ -2480,23 +2471,17 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## Gophers
 
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack)  | 1472 |  由 Maria Letta 提供的与 Gopher 有关的图片包，其中包含了插图,表情文字。 |![star > 1000][Silver]   
-| [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector)  | 32 |  与 Go gopher 相关的媒介数据[。ai . svg)。 |![最近一年没有更新][Yellow]
-| [gopher-logos](https://github.com/GolangUA/gopher-logos)  | 63 |  可爱的 gopher 标识。 |![最近一年没有更新][Yellow]
+* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) - 由 Maria Letta 提供的与 Gopher 有关的图片包，其中包含了插图,表情文字。
+* [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) - 与 Go gopher 相关的媒介数据[。ai . svg)。
+* [gopher-logos](https://github.com/GolangUA/gopher-logos) - 可爱的 gopher 标识。
 * [gopher-stickers](https://github.com/tenntenn/gopher-stickers)
 * [gopher-vector](https://github.com/golang-samples/gopher-vector)
 * [gophericons](https://github.com/shalakhin/gophericons)
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [gopherize.me](https://github.com/matryer/gopherize.me)  | 313 |  Gopherize自己。 |![star > 100][Bronze]   
-| [gophers](https://github.com/ashleymcnamara/gophers)  | 1830 |  阿什莉·麦克纳马拉的歌斐艺术品。 |![star > 1000][Silver]   
-| [gophers](https://github.com/egonelbre/gophers)  | 1562 |  Free gophers. |![star > 1000][Silver]   
-| [gophers](https://github.com/rogeralsing/gophers)  | 50 |  随机gopher图形。 |![最近一年没有更新][Yellow]
-| [gophers](https://github.com/sillecelik/go-gopher)  | 40 |  Gopher amigurumi玩具图案。 |
+* [gopherize.me](https://github.com/matryer/gopherize.me) - Gopherize自己。
+* [gophers](https://github.com/ashleymcnamara/gophers) - 阿什莉·麦克纳马拉的歌斐艺术品。
+* [gophers](https://github.com/egonelbre/gophers) - Free gophers.
+* [gophers](https://github.com/rogeralsing/gophers) - 随机gopher图形。
+* [gophers](https://github.com/sillecelik/go-gopher) - Gopher amigurumi玩具图案。
 
 ## 聚会
 
@@ -2561,68 +2546,56 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## 网站
 
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [Awesome Go @LibHunt](https://go.libhunt.com)  | - |  属于你的 Go 工具箱。 |
-| [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  | 14453 |  Curated list of awesome remote jobs. A lot of them are looking for Go hackers. |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  | 24552 |  其他 awesome 系列的列表。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [CodinGame](https://www.codingame.com/)  | - |  以小游戏互动完成任务的形式来学习 Go。 |
-| [Go Blog](http://blog.golang.org)  | - |  官方 Go 博客。 |
-| [Go Challenge](http://golang-challenge.org/)  | - |  通过解决问题并从 Go 专家那里得到反馈来学习 Go。 |
-| [Go Community on Hashnode](https://hashnode.com/n/go)  | - |  Hashnode上的Go社区。 |
-| [Go Forum](https://forum.golangbridge.org)  | - |  讨论 Go 的论坛。 |
-| [Go In 5 Minutes](https://www.goin5minutes.com/)  | - |  5 minute screencasts focused on getting one thing done. |
-| [Go Projects](https://github.com/golang/go/wiki/Projects)  | - |  wiki上的 Go 社区项目列表。 |
-| [Go Report Card](https://goreportcard.com)  | - |  为你的 Go 包生成一份报告单。 |
-| [gocryforhelp](https://github.com/ninedraft/gocryforhelp)  | 36 |  专门收集需要帮助的Go项目，这是你开启开源之路的好去处。 |![最近一年没有更新][Yellow]
-| [godoc.org](https://godoc.org/)  | - |  开源 Go 包的文档。 |
-| [Golang Flow](https://golangflow.io)  | - |  发布更新、新闻、包等等。 |
-| [Golang News](https://golangnews.com)  | - |  关于 Go 编程的链接和新闻。 |
-| [golang-graphics](https://github.com/mholt/golang-graphics)  | 141 |  收藏的 Go 图像，图形和艺术作品。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts)  | - |  Go 邮件列表。 |
-| [Google Plus Community](https://plus.google.com/communities/114112804251407510571)  | - |  Google+社区 golang爱好者聚集地。 |
-| [Gopher Community Chat](https://invite.slack.golangbridge.org)  | - |  加入我们为Gophers设立的全新Slack社区([了解它是如何产生的](https://blog.gopheracademy.com/gophers-slack-community/))。 |
-| [Gophercises](https://gophercises.com/)  | - |  为 Go 初学者提供免费的代码训练。 |
-| [gowalker.org](https://gowalker.org)  | - |   Go API 文档。 |
-| [justforfunc](https://www.youtube.com/c/justforfunc)  | - |  致力于传授 Go 编程语言技巧和技巧的Youtube 频道，由Francesc Campoy [@francesc](https://twitter.com/francesc)主办。 |
-| [r/Golang](https://www.reddit.com/r/golang)  | - |  与 Go 有关的新闻。 |
-| [studygolang](https://studygolang.com)  | - |  Go语言中文网 |
-| [Trending Go repositories on GitHub today](https://github.com/trending?l=go)  | - |  寻找最新的 Go库 的好地方。 |
+* [Awesome Go @LibHunt](https://go.libhunt.com) - 属于你的 Go 工具箱。
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 其他 awesome 系列的列表。
+* [CodinGame](https://www.codingame.com/) - 以小游戏互动完成任务的形式来学习 Go。
+* [Go Blog](http://blog.golang.org) - 官方 Go 博客。
+* [Go Challenge](http://golang-challenge.org/) - 通过解决问题并从 Go 专家那里得到反馈来学习 Go。
+* [Go Community on Hashnode](https://hashnode.com/n/go) - Hashnode上的Go社区。
+* [Go Forum](https://forum.golangbridge.org) - 讨论 Go 的论坛。
+* [Go In 5 Minutes](https://www.goin5minutes.com/) - 5 minute screencasts focused on getting one thing done.
+* [Go Projects](https://github.com/golang/go/wiki/Projects) - wiki上的 Go 社区项目列表。
+* [Go Report Card](https://goreportcard.com) - 为你的 Go 包生成一份报告单。
+* [gocryforhelp](https://github.com/ninedraft/gocryforhelp) - 专门收集需要帮助的Go项目，这是你开启开源之路的好去处。
+* [godoc.org](https://godoc.org/) - 开源 Go 包的文档。
+* [Golang Flow](https://golangflow.io) - 发布更新、新闻、包等等。
+* [Golang News](https://golangnews.com) - 关于 Go 编程的链接和新闻。
+* [golang-graphics](https://github.com/mholt/golang-graphics) - 收藏的 Go 图像，图形和艺术作品。
+* [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - Go 邮件列表。
+* [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - Google+社区 golang爱好者聚集地。
+* [Gopher Community Chat](https://invite.slack.golangbridge.org) - 加入我们为Gophers设立的全新Slack社区([了解它是如何产生的](https://blog.gopheracademy.com/gophers-slack-community/))。
+* [Gophercises](https://gophercises.com/) - 为 Go 初学者提供免费的代码训练。
+* [gowalker.org](https://gowalker.org) -  Go API 文档。
+* [justforfunc](https://www.youtube.com/c/justforfunc) - 致力于传授 Go 编程语言技巧和技巧的Youtube 频道，由Francesc Campoy [@francesc](https://twitter.com/francesc)主办。
+* [r/Golang](https://www.reddit.com/r/golang) - 与 Go 有关的新闻。
+* [studygolang](https://studygolang.com) - Go语言中文网
+* [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - 寻找最新的 Go库 的好地方。
 * [TutorialEdge - Golang](https://tutorialedge.net/course/golang/)
 
 ### 教程
 
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)  | - |  Go 初学者经常遇到的陷阱、误区、错误 |
-| [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo)  | - |  教你如何用 Go 搭建一个电商平台 (包括demo)。 |
-| [A Tour of Go](http://tour.golang.org/)  | - |  互动的 Go 之旅。 |
-| [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang)  | 31182 |  Golang电子书，主要讲述如何用 Golang 建立一个web应用程序。 |![star > 5000][Gold]   
-| [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)  | - |  Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline. |
-| [Caching Slow Database Queries](https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9)  | - |  如何缓存数据库的慢查询。 |
-| [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30)  | - |  如何取消MySQL查询。 |
-| [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book)  | 443 |  一本讲述如何用 Go 进行以太开发的小册。 |![star > 100][Bronze]   
-| [Games With Go](http://gameswithgo.org/)  | - |  关于编程和游戏开发系列教学视频。 |
-| [Go By Example](https://gobyexample.com/)  | - |  手把手教你 如何在 Go 应用程序中使用注释。 |
-| [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet)  | 4001 |   Go's reference card。 |![star > 1000][Silver]   
-| [Go database/sql tutorial](http://go-database-sql.org/)  | - |  数据库概论/ sql。 |
-| [Go Playground for iOS](https://itunes.apple.com/us/app/go-playground/id1437518275?ls=1&mt=8)  | - |  在你的移动设备上编辑你编辑和运行你的 Go 代码。 |
+* [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) - Go 初学者经常遇到的陷阱、误区、错误
+* [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo) - 教你如何用 Go 搭建一个电商平台 (包括demo)。
+* [A Tour of Go](http://tour.golang.org/) - 互动的 Go 之旅。
+* [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) - Golang电子书，主要讲述如何用 Golang 建立一个web应用程序。
+* [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) - Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline.
+* [Caching Slow Database Queries](https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9) - 如何缓存数据库的慢查询。
+* [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30) - 如何取消MySQL查询。
+* [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) - 一本讲述如何用 Go 进行以太开发的小册。
+* [Games With Go](http://gameswithgo.org/) - 关于编程和游戏开发系列教学视频。
+* [Go By Example](https://gobyexample.com/) - 手把手教你 如何在 Go 应用程序中使用注释。
+* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) -  Go's reference card。
+* [Go database/sql tutorial](http://go-database-sql.org/) - 数据库概论/ sql。
+* [Go Playground for iOS](https://itunes.apple.com/us/app/go-playground/id1437518275?ls=1&mt=8) - 在你的移动设备上编辑你编辑和运行你的 Go 代码。
 * [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers)  | 676 |  引入示例讲述 Golang 与Node.js在学习上的差异。 |![star > 100][Bronze]   
-| [Golangbot](https://golangbot.com/learn-golang-series/)  | - |  Go 编程教程。 |
-| [Hackr.io](https://hackr.io/tutorials/learn-golang)  | - |  Go社区投票选举出来的最好的在线 Go 教程。 |
-| [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)  | - |  快速使用Godog —— 一个行为驱动开发的构建和测试应用程序框架。 |
-| [Learn Go with TDD](https://github.com/quii/learn-go-with-tests)  | 4265 |  学习使用测试驱动开发。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [package main](https://www.youtube.com/packagemain)  | - |  关于 Go 编程的YouTube频道。 |
+* [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) - 引入示例讲述 Golang 与Node.js在学习上的差异。
+* [Golangbot](https://golangbot.com/learn-golang-series/) - Go 编程教程。
+* [Hackr.io](https://hackr.io/tutorials/learn-golang) - Go社区投票选举出来的最好的在线 Go 教程。
+* [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - 快速使用Godog —— 一个行为驱动开发的构建和测试应用程序框架。
+* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) - 学习使用测试驱动开发。
+* [package main](https://www.youtube.com/packagemain) - 关于 Go 编程的YouTube频道。
 * [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
-        
-| name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
-|---|---|---|---|
-| [Working with Go](https://github.com/mkaz/working-with-go)  | 1130 |  由一个经验丰富的Go程序员群体编写的一系列Go学习范例。 |![star > 1000][Silver]   
-| [Your basic Go](http://yourbasic.org/golang)  | - |  如何收集大量的教程。 |
+* [Working with Go](https://github.com/mkaz/working-with-go) - 由一个经验丰富的Go程序员群体编写的一系列Go学习范例。
+* [Your basic Go](http://yourbasic.org/golang) - 如何收集大量的教程。
 
