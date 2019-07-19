@@ -6,7 +6,7 @@
 [Green]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Green.svg "最近一周有更新"
 [Yellow]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Yellow.svg "最近一年没有更新"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-19 19:04:09(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-19 20:51:34(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -569,7 +569,7 @@
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
 | [bleve](https://github.com/blevesearch/bleve)  | 5775 |  基于 Go 的现代文本索引库。 |![star > 5000][Gold]   
-| [elastic](https://github.com/olivere/elastic)  | 4064 |  Elasticsearch 客户端。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [elastic](https://github.com/olivere/elastic)  | 4064 |  Elasticsearch 客户端。 |![star > 1000][Silver]   
 | [elasticsql](https://github.com/cch123/elasticsql)  | 379 |  将 SQL 转换为 elasticsearch dsl。 |![star > 100][Bronze]   
 | [elastigo](https://github.com/mattbaird/elastigo)  | 947 |  Elasticsearch 客户端。 |![star > 100][Bronze]   
 | [go-elasticsearch](https://github.com/elastic/go-elasticsearch)  | 1512 |  官方 Elasticsearch 客户端。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
@@ -1327,49 +1327,49 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## 网络
 
-*用于处理网络各层的库。*
+*用于处理各种网络层的库。*
 
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [arp](https://github.com/mdlayher/arp)  | 192 |  包arp实现了arp协议，如RFC 826中所述。 |![star > 100][Bronze]   
-| [buffstreams](https://github.com/stabbycutyou/buffstreams)  | 232 |  通过TCP传输协议缓冲区数据变得很容易。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [canopus](https://github.com/zubairhamed/canopus)  | 133 |  CoAP客户机/服务器实现(RFC 7252)。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [cidranger](https://github.com/yl2chen/cidranger)  | 384 |  快速IP到CIDR查找 Go 。 |![star > 100][Bronze]   
-| [dhcp6](https://github.com/mdlayher/dhcp6)  | 62 |  包dhcp6实现了一个DHCPv6服务器，如RFC 3315所述。 |
-| [dns](https://github.com/miekg/dns)  | 3758 |  使用DNS的库。 |![star > 1000][Silver]   
-| [ether](https://github.com/songgao/ether)  | 62 |  用于发送和接收以太网帧的跨平台Go包。 |![最近一年没有更新][Yellow]
-| [ethernet](https://github.com/mdlayher/ethernet)  | 183 |  包以太网实现了对IEEE 802.3以太网II帧和IEEE 802.1Q VLAN标签的编组和解组。 |![star > 100][Bronze]   
-| [fasthttp](https://github.com/valyala/fasthttp)  | 9182 |  软件包fasthttp是Go的一个快速HTTP实现，比net/http快10倍。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [fortio](https://github.com/fortio/fortio)  | 852 |  负载测试库和命令行工具，先进的echo服务器和web UI。允许指定一组每秒查询的负载，并记录延迟直方图和其他有用的统计数据，并将它们作图。Tcp、Http、gRPC。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [ftp](https://github.com/jlaffaye/ftp)  | 515 |  包ftp实现了[RFC 959](http://tools.ietf.org/html/rfc959)中描述的ftp客户机。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [arp](https://github.com/mdlayher/arp)  | 192 |  实现了arp协议，如RFC 826中所述。 |![star > 100][Bronze]   
+| [buffstreams](https://github.com/stabbycutyou/buffstreams)  | 232 |  通过TCP传输协议缓冲区数据。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [canopus](https://github.com/zubairhamed/canopus)  | 133 |  CoAP客户端/服务器实现(RFC 7252)。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [cidranger](https://github.com/yl2chen/cidranger)  | 384 |  快速得 IP 到 CIDR 查找。 |![star > 100][Bronze]   
+| [dhcp6](https://github.com/mdlayher/dhcp6)  | 62 |  实现了一个DHCPv6服务器，如RFC 3315所述。 |
+| [dns](https://github.com/miekg/dns)  | 3758 |  用于 DNS 的库。 |![star > 1000][Silver]   
+| [ether](https://github.com/songgao/ether)  | 62 |  一个用于发送和接收以太网帧的跨平台 Go 库。 |![最近一年没有更新][Yellow]
+| [ethernet](https://github.com/mdlayher/ethernet)  | 183 |  实现了对IEEE 802.3以太网II帧和IEEE 802.1Q VLAN标签的编组和解组。 |![star > 100][Bronze]   
+| [fasthttp](https://github.com/valyala/fasthttp)  | 9182 |  一个快速HTTP实现，比net/http快10倍。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
+| [fortio](https://github.com/fortio/fortio)  | 852 |  负载测试库和命令行工具，高级的echo服务器和web UI。允许指定一组每秒查询的负载，并记录延迟直方图和其他有用的统计数据，并将它们作图。支持Tcp、Http、gRPC。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [ftp](https://github.com/jlaffaye/ftp)  | 515 |  实现了[RFC 959](http://tools.ietf.org/html/rfc959)中描述的ftp客户端。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [gmqtt](https://github.com/DrmagicE/gmqtt)  | 66 |  Gmqtt是一个灵活、高性能的MQTT代理库，它完全实现了MQTT协议V3.1.1。 |
-| [gNxI](https://github.com/google/gnxi)  | 98 |  一组使用gNMI和gNOI协议的网络管理工具。 |
-| [go-getter](https://github.com/hashicorp/go-getter)  | 717 |   Go 图书馆下载文件或目录从各种来源使用一个URL。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [go-stun](https://github.com/ccding/go-stun)  | 329 |  Go实现了STUN客户机(RFC 3489和RFC 5389)。 |![star > 100][Bronze]   
-| [gobgp](https://github.com/osrg/gobgp)  | 1656 |  用 Go 编程语言实现的BGP。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [golibwireshark](https://github.com/sunwxg/golibwireshark)  | 14 |  golibwireshark包使用libwireshark库解码pcap文件并分析解剖数据。 |![最近一年没有更新][Yellow]
-| [gopacket](https://github.com/google/gopacket)  | 2825 |  使用libpcap绑定访问包处理库。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [gopcap](https://github.com/akrennmair/gopcap)  | 352 |   Go 包装libpcap。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [goshark](https://github.com/sunwxg/goshark)  | 9 |  goshark包使用tshark来解码IP包，并创建数据结构来分析包。 |![最近一年没有更新][Yellow]
-| [gosnmp](https://github.com/soniah/gosnmp)  | 428 |  用于执行SNMP操作的本机Go库。 |![star > 100][Bronze]   
-| [gotcp](https://github.com/gansidui/gotcp)  | 410 |   Go 包快速编写tcp应用程序。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [grab](https://github.com/cavaliercoder/grab)  | 543 |   Go 软件包管理文件下载。 |![star > 100][Bronze]   
-| [graval](https://github.com/koofr/graval)  | 24 |  实验FTP服务器框架。 |![最近一年没有更新][Yellow]
-| [HTTPLab](https://github.com/gchaincl/httplab)  | 3396 |  HTTPLabs允许您检查HTTP请求并伪造响应。 |![star > 1000][Silver]   
-| [iplib](https://github.com/c-robinson/iplib)  | 24 |  用于处理IP地址的库(net)。受python [ipaddress](https://docy-doc.org/3/library/ipaddress.html)和ruby [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)的启发 |
+| [gNxI](https://github.com/google/gnxi)  | 98 |  一组基于 gNMI 和 gNOI 协议的网络管理工具。 |
+| [go-getter](https://github.com/hashicorp/go-getter)  | 717 |   通过URL来下载文件或目录。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [go-stun](https://github.com/ccding/go-stun)  | 329 |  实现了 STUN 客户端(RFC 3489和RFC 5389)。 |![star > 100][Bronze]   
+| [gobgp](https://github.com/osrg/gobgp)  | 1656 |  基于 Go 的 BGP 实现。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [golibwireshark](https://github.com/sunwxg/golibwireshark)  | 14 |  用于解码 pcap 文件和分析解剖数据。 |![最近一年没有更新][Yellow]
+| [gopacket](https://github.com/google/gopacket)  | 2825 |  Go library for packet processing with libpcap bindings. |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [gopcap](https://github.com/akrennmair/gopcap)  | 352 |   用 Go 实现了对 libpcap 的封装。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [goshark](https://github.com/sunwxg/goshark)  | 9 |  用于解码IP包，创建用于分析的数据结构包。 |![最近一年没有更新][Yellow]
+| [gosnmp](https://github.com/soniah/gosnmp)  | 428 |  用于执行 SNMP 操作的原生 Go 库。 |![star > 100][Bronze]   
+| [gotcp](https://github.com/gansidui/gotcp)  | 410 |  用于快速编写 tcp 应用程序。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [grab](https://github.com/cavaliercoder/grab)  | 543 |   用于管理文件下载。 |![star > 100][Bronze]   
+| [graval](https://github.com/koofr/graval)  | 24 |  FTP服务器框架。 |![最近一年没有更新][Yellow]
+| [HTTPLab](https://github.com/gchaincl/httplab)  | 3396 |  HTTPLabs 允许你检查 HTTP 请求和伪造响应。 |![star > 1000][Silver]   
+| [iplib](https://github.com/c-robinson/iplib)  | 24 |  用于处理IP地址的库(net)。借鉴于python 的 [ipaddress](https://docy-doc.org/3/library/ipaddress.html)和ruby [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html) |
 | [jazigo](https://github.com/udhos/jazigo)  | 123 |  Jazigo是一个用Go编写的工具，用于检索多个网络设备的配置。 |![star > 100][Bronze]   
 | [kcp-go](https://github.com/xtaci/kcp-go)  | 2226 |  快速可靠的ARQ协议。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [kcptun](https://github.com/xtaci/kcptun)  | 10607 |  非常简单和快速udp隧道基于KCP协议。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [lhttp](https://github.com/fanux/lhttp)  | 510 |  强大的websocket框架，使您的IM服务器更容易构建。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [linkio](https://github.com/ian-kent/linkio)  | 44 |  用于读写器接口的网络链路速度模拟。 |![最近一年没有更新][Yellow]
-| [llb](https://github.com/kirillDanshin/llb)  | 8 |  这是一个非常简单但快速的代理服务器后端。可用于快速重定向到预定义域，具有零内存分配和快速响应。 |![最近一年没有更新][Yellow]
-| [mdns](https://github.com/hashicorp/mdns)  | 544 |  Golang中的简单mDNS(多播DNS)客户机/服务器库。 |![star > 100][Bronze]   
-| [mqttPaho](https://eclipse.org/paho/clients/golang/)  | - |  Paho Go客户机提供一个MQTT客户机库，用于通过TCP、TLS或WebSockets连接到MQTT代理。 |
-| [NFF-Go](https://github.com/intel-go/nff-go)  | 647 |  快速开发云计算和裸机网络功能的框架(原YANFF)。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [packet](https://github.com/aerogo/packet)  | 26 |  通过TCP和UDP发送数据包。如果需要，它可以缓冲消息和热交换连接。 |
-| [peerdiscovery](https://github.com/schollz/peerdiscovery)  | 358 |  使用UDP组播进行跨平台本地对等点发现的纯Go库。 |![star > 100][Bronze]   
-| [portproxy](https://github.com/aybabtme/portproxy)  | 42 |  简单的TCP代理将CORS支持添加到不支持它的API中。 |![最近一年没有更新][Yellow]
+| [kcptun](https://github.com/xtaci/kcptun)  | 10607 |  基于KCP协议的非常简单和快速udp隧道。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
+| [lhttp](https://github.com/fanux/lhttp)  | 510 |  强大的websocket框架，可以让你更容易的构建IM服务器。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [linkio](https://github.com/ian-kent/linkio)  | 44 |  网络链路速度模拟，主要用于接口的读/写。 |![最近一年没有更新][Yellow]
+| [llb](https://github.com/kirillDanshin/llb)  | 8 |  一个非常简单、快速的代理服务器后端。可用于快速重定向到预定义域，具有零内存分配和快速响应。 |![最近一年没有更新][Yellow]
+| [mdns](https://github.com/hashicorp/mdns)  | 544 |  简单mDNS(Multicast DNS)客户端/服务器库。 |![star > 100][Bronze]   
+| [mqttPaho](https://eclipse.org/paho/clients/golang/)  | - |  Paho Go客户端提供了一个 MQTT 客户端库，用于通过TCP、TLS或WebSockets连接到MQTT代理。 |
+| [NFF-Go](https://github.com/intel-go/nff-go)  | 647 |  用于快速开发云计算和裸机网络功能的框架(原YANFF)。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [packet](https://github.com/aerogo/packet)  | 26 |  通过TCP和UDP发送数据包。它可以缓冲消息和热交换连接。 |
+| [peerdiscovery](https://github.com/schollz/peerdiscovery)  | 358 |  基于UDP组播的跨平台本地对等点发现库。 |![star > 100][Bronze]   
+| [portproxy](https://github.com/aybabtme/portproxy)  | 42 |  Simple TCP proxy which adds CORS support to API's which don't support it. |![最近一年没有更新][Yellow]
 | [publicip](https://github.com/polera/publicip)  | 18 |  包publicip返回面向公共的IPv4地址(internet出口)。 |![最近一年没有更新][Yellow]
 | [quic-go](https://github.com/lucas-clemente/quic-go)  | 2851 |  在纯Go中实现了QUIC协议。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
 | [raw](https://github.com/mdlayher/raw)  | 303 |  Package raw支持在设备驱动程序级别读取和写入网络接口的数据。 |![star > 100][Bronze]   
@@ -1407,37 +1407,37 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [gl](https://github.com/go-gl/gl)  | 637 |  OpenGL的Go绑定(通过glow生成)。 |![star > 100][Bronze]   
-| [glfw](https://github.com/go-gl/glfw)  | 725 |  Go绑定用于glfw3。 |![star > 100][Bronze]   
-| [goxjs/gl](https://github.com/goxjs/gl)  | 131 |  跨平台的OpenGL绑定(OS X, Linux, Windows，浏览器，iOS, Android)。 |![star > 100][Bronze]   
-| [goxjs/glfw](https://github.com/goxjs/glfw)  | 58 |  使用跨平台glfw库创建OpenGL上下文并接收事件。 |
-| [mathgl](https://github.com/go-gl/mathgl)  | 289 |  纯Go数学软件包专门为三维数学，与灵感来自GLM。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [gl](https://github.com/go-gl/gl)  | 637 |  OpenGL 的 Go 接口实现(通过glow生成)。 |![star > 100][Bronze]   
+| [glfw](https://github.com/go-gl/glfw)  | 725 |  GLFW 3 的 Go 接口实现。 |![star > 100][Bronze]   
+| [goxjs/gl](https://github.com/goxjs/gl)  | 131 |  跨平台的OpenGL 接口实现(OS X, Linux, Windows，浏览器，iOS, Android)。 |![star > 100][Bronze]   
+| [goxjs/glfw](https://github.com/goxjs/glfw)  | 58 |  跨平台 glfw 库，可用于创建 OpenGL 上下文并接收事件。 |
+| [mathgl](https://github.com/go-gl/mathgl)  | 289 |  完全基于 Go 实现的数学软件包，专门用于处理三维数学。借鉴于 GLM。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 
 ## ORM
 
-*实现对象关系映射或数据映射技术的库。*
+*Libraries that implement Object-Relational Mapping or datamapping techniques.*
 
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [beego orm](https://github.com/astaxie/beego/tree/master/orm)  | - |  强大的orm框架。支持:pq / mysql / sqlite3。 |
-| [go-firestorm](https://github.com/jschoedt/go-firestorm)  | 1 |  一个用于谷歌/Firebase云Firestore的简单ORM。 |
-| [go-pg](https://github.com/go-pg/pg)  | 2921 |  关注PostgreSQL的特性和性能。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [go-queryset](https://github.com/jirfag/go-queryset)  | 447 |  100%类型安全ORM与代码生成和MySQL, PostgreSQL, Sqlite3, SQL Server支持基于GORM。 |![star > 100][Bronze]   
-| [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder)  | 228 |  一个灵活而强大的SQL字符串构建器库加上一个零配置ORM。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [go-store](https://github.com/gosuri/go-store)  | 93 |  简单而快速的Redis支持的键值存储库。 |![最近一年没有更新][Yellow]
-| [GORM](https://github.com/jinzhu/gorm)  | 14397 |  Golang出色的ORM库的目标是对开发人员友好。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [gorp](https://github.com/go-gorp/gorp)  | 3068 |  Go的关系持久性，ORM-ish库。 |![star > 1000][Silver]   
-| [grimoire](https://github.com/Fs02/grimoire)  | 113 |  Grimoire是golang的数据库访问层和验证。(支持:MySQL, PostgreSQL和SQLite3)。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [lore](https://github.com/abrahambotros/lore)  | 4 |  用于Go的简单轻量级伪orm /伪结构映射环境。 |![最近一年没有更新][Yellow]
-| [Marlow](https://github.com/dadleyy/marlow)  | 63 |  从项目结构生成ORM，用于编译时安全保证。 |
+| [beego orm](https://github.com/astaxie/beego/tree/master/orm)  | - |  强大的orm框架。支持: pq/mysql/sqlite3。 |
+| [go-firestorm](https://github.com/jschoedt/go-firestorm)  | 1 |  一个轻量级的ORM。用于Google/Firebase Cloud Firestore。 |
+| [go-pg](https://github.com/go-pg/pg)  | 2921 |  用于 PostgreSQL 的ORM。侧重于 PostgreSQL 的特性和性能。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [go-queryset](https://github.com/jirfag/go-queryset)  | 447 |  基于 GORM 100% 类型安全的 ORM。可支持 MySQL, PostgreSQL, Sqlite3, SQL Server。 |![star > 100][Bronze]   
+| [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder)  | 228 |  一个灵活而强大的SQL字符串构建器库。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [go-store](https://github.com/gosuri/go-store)  | 93 |  简单且快速的 Redis 键值存储库。 |![最近一年没有更新][Yellow]
+| [GORM](https://github.com/jinzhu/gorm)  | 14397 |  一个出色的 ORM 库。主要目标是对开发人员友好。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
+| [gorp](https://github.com/go-gorp/gorp)  | 3068 |  基于 Go 的关系持久性 ORM-ish 库。 |![star > 1000][Silver]   
+| [grimoire](https://github.com/Fs02/grimoire)  | 113 |  基于 golang 的数据库访问层和验证库。(支持: MySQL, PostgreSQL和SQLite3)。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [lore](https://github.com/abrahambotros/lore)  | 4 |  Simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go. |![最近一年没有更新][Yellow]
+| [Marlow](https://github.com/dadleyy/marlow)  | 63 |  从项目结构生成ORM。 |
 | [pop/soda](https://github.com/gobuffalo/pop)  | 667 |  数据库迁移、创建、ORM等。用于MySQL、PostgreSQL和SQLite。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [QBS](https://github.com/coocood/qbs)  | 539 |  表示结构查询。一个ORM。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [reform](https://github.com/go-reform/reform)  | 791 |  更好的ORM for Go，基于非空接口和代码生成。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [SQLBoiler](https://github.com/volatiletech/sqlboiler)  | 2234 |  ORM生成器。根据您的数据库模式生成一个功能强大且运行速度快的ORM。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [upper.io/db](https://github.com/upper/db)  | 1837 |  通过使用封装成熟数据库驱动程序的适配器与不同数据源交互的单一接口。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [Xorm](https://github.com/go-xorm/xorm)  | 5096 |  简单而强大的ORM for Go。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [Zoom](https://github.com/albrow/zoom)  | 239 |  基于Redis的快速数据存储和查询引擎。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [QBS](https://github.com/coocood/qbs)  | 539 |  Stands for Query By Struct. A Go ORM. |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [reform](https://github.com/go-reform/reform)  | 791 |  基于非空接口和代码生成的 ORM。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [SQLBoiler](https://github.com/volatiletech/sqlboiler)  | 2234 |  ORM 生成器。根据数据库 schema 生成一个功能强大且运行速度快的ORM。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [upper.io/db](https://github.com/upper/db)  | 1837 |  对外提供统一的接口用于访问不同的存储介质，例如PostgreSQL, MySQL, SQLite, MSSQL, QL、MongoDB.。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [Xorm](https://github.com/go-xorm/xorm)  | 5096 |  基于 Go 的简单而强大的ORM。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
+| [Zoom](https://github.com/albrow/zoom)  | 239 |  基于 Redis 的快速数据存储和查询引擎。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 
 ## 包管理
 
@@ -2319,7 +2319,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [godbg](https://github.com/sirnewton01/godbg)  | 219 |  基于 web 的 gdb 前端应用程序。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [Gogs](https://gogs.io/)  | - |  自托管的Git服务。 |
 | [gonative](https://github.com/inconshreveable/gonative)  | 313 |  用原生 Go 创建一个跨平台的 Go 工具链。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [govvv](https://github.com/ahmetalpbalkan/govvv)  | 377 |  可轻松地添加版本信息到 Go 二进制文件。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [govvv](https://github.com/ahmetalpbalkan/govvv)  | 379 |  可轻松地添加版本信息到 Go 二进制文件。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [gox](https://github.com/mitchellh/gox)  | 3335 |  非常简单，没有多余的跨平台编译工具。 |![star > 1000][Silver]   
 | [goxc](https://github.com/laher/goxc)  | 1625 |  专注于跨平台编译和打包的 Go 构建工具。 |![star > 1000][Silver]   ![最近一年没有更新][Yellow]
 | [grapes](https://github.com/yaronsumel/grapes)  | 135 |  旨在轻松地通过ssh分发命令的轻量级工具。 |![star > 100][Bronze]   
@@ -2334,7 +2334,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Moby](https://github.com/moby/moby)  | 54174 |  Collaborative project for the container ecosystem to assemble container-based systems. |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [Mora](https://github.com/emicklei/mora)  | 265 |  用于访问 MongoDB 文档和元数据的 REST 服务器。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [ostent](https://github.com/ostrost/ostent)  | 164 |  收集和显示系统指标，并可选 Graphite and/or fluxdb作为依赖。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [Packer](https://github.com/mitchellh/packer)  | 9127 |  用于从一个源配置为多个平台创建相同的机器图像。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
+| [Packer](https://github.com/mitchellh/packer)  | 9131 |  用于从一个源配置为多个平台创建相同的机器图像。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [Pewpew](https://github.com/bengadbois/pewpew)  | 199 |  灵活的 HTTP 命令行压测工具。 |![star > 100][Bronze]   
 | [Pomerium](https://github.com/pomerium/pomerium)  | 472 |  Pomerium是一个可识别身份的访问代理。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [Rodent](https://github.com/alouche/rodent)  | 30 |  管理Go版本、项目和跟踪依赖项。 |![最近一年没有更新][Yellow]
@@ -2355,7 +2355,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [borg](https://github.com/crufter/borg)  | 1418 |  基于终端的bash代码段搜索引擎。 |![star > 1000][Silver]   ![最近一年没有更新][Yellow]
+| [borg](https://github.com/crufter/borg)  | 1417 |  基于终端的bash代码段搜索引擎。 |![star > 1000][Silver]   ![最近一年没有更新][Yellow]
 | [boxed](https://github.com/tejo/boxed)  | 72 |  基于Dropbox的博客引擎。 |
 | [Cherry](https://github.com/rafael-santiago/cherry)  | 193 |  微型网络聊天服务器。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [Circuit](https://github.com/gocircuit/circuit)  | 1784 |  Circuit 是一个可编程平台即服务(PaaS)和/或基础设施即服务(IaaS)，用于管理、发现、同步和编排包含云应用程序的服务和主机。 |![star > 1000][Silver]   
@@ -2374,7 +2374,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [GoDNS](https://github.com/timothyye/godns)  | 420 |  一个动态DNS客户端工具，支持DNSPod & HE.net。 |![star > 100][Bronze]   
 | [GoDocTooltip](https://github.com/diankong/GoDocTooltip)  | 12 |  包含了 Go 使用手册文档的 Chrome 扩展。 |![最近一年没有更新][Yellow]
 | [GoLand](https://jetbrains.com/go)  | - |  功能齐全的跨平台 Go IDE。 |
-| [Gor](https://github.com/buger/gor)  | 11266 |  Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。 |![star > 5000][Gold]   
+| [Gor](https://github.com/buger/gor)  | 11271 |  Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。 |![star > 5000][Gold]   
 | [hugo](http://gohugo.io/)  | - |  快速、现代的静态网站引擎。 |
 | [ide](https://github.com/thestrukture/ide)  | 250 |  基于浏览器的IDE |![star > 100][Bronze]   
 | [ipe](https://github.com/dimiro1/ipe)  | 274 |  Open source Pusher server implementation compatible with Pusher client libraries written in GO. |![star > 100][Bronze]   
@@ -2393,7 +2393,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [peg](https://github.com/pointlander/peg)  | 587 |  解析表达式语法，是Packrat解析器生成器的实现。 |![star > 100][Bronze]   
 | [Pipe](https://github.com/b3log/pipe)  | 2752 |  一个小巧漂亮的博客平台。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
 | [restic](https://github.com/restic/restic)  | 7329 |  消除重复项备份程序。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [rkt](https://github.com/coreos/rkt)  | 8725 |  一个应用容器，与其他容器格式(如Docker)兼容，并支持其他执行引擎(如KVM)。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
+| [rkt](https://github.com/coreos/rkt)  | 8727 |  一个应用容器，与其他容器格式(如Docker)兼容，并支持其他执行引擎(如KVM)。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [scc](https://github.com/boyter/scc)  | 763 |  一个非常快速准确的代码计数器，采用了复杂的计算和 COCOMO 预估。 |![star > 100][Bronze]   
 | [Seaweed File System](https://github.com/chrislusf/seaweedfs)  | 8117 |  快速、简单、可伸缩的分布式文件系统，采用了O(1)磁盘查找。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [shell2http](https://github.com/msoap/shell2http)  | 398 |  通过http服务器执行shell命令(用于原型或远程控制)。 |![star > 100][Bronze]   
