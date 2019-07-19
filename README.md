@@ -6,7 +6,7 @@
 [Green]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Green.svg "最近一周有更新"
 [Yellow]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Yellow.svg "最近一年没有更新"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-19 09:43:11(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-19 19:04:09(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -204,7 +204,7 @@
 | [margelet](https://github.com/zhulik/margelet)  | 56 |  构建电报机器人的框架。 |![最近一年没有更新][Yellow]
 | [micha](https://github.com/onrik/micha)  | 10 |  基于 GO 实现的Telegram 机器人API库。 |![最近一年没有更新][Yellow]
 | [slacker](https://github.com/shomali11/slacker)  | 304 |  可简单创建Slack机器人的框架。 |![star > 100][Bronze]   
-| [slackscot](https://github.com/alexandre-normand/slackscot)  | 10 |  另一个构建Slack机器人的框架。 |![最近一个周有更新][Green]
+| [slackscot](https://github.com/alexandre-normand/slackscot)  | 10 |  另一个构建Slack机器人的框架。 |
 | [tbot](https://github.com/yanzay/tbot)  | 214 |  带有类似于net/http API的Telegram bot服务器。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [telebot](https://github.com/tucnak/telebot)  | 938 |  用Go编写的Telegram bot框架。 |![star > 100][Bronze]   
 | [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api)  | 1592 |  简单轻量级的Telegram bot客户端。 |![star > 1000][Silver]   
@@ -643,7 +643,7 @@
 | [KrakenD](https://github.com/devopsfaith/krakend)  | 1711 |  具有中间件的高性能API网关框架。 |![star > 1000][Silver]   
 | [micro](https://github.com/micro/micro)  | 6496 |  可插拔的微服务 toolkit 和分布式系统平台。 |![star > 5000][Gold]   
 | [NATS](https://github.com/nats-io/gnatsd)  | 6197 |  轻量级、高性能消息传递系统，可用于微服务、物联网(IoT)和云。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [outboxer](https://github.com/italolelis/outboxer)  | 2 |  实现了 outbox pattern Go 库。 |![最近一个周有更新][Green]
+| [outboxer](https://github.com/italolelis/outboxer)  | 2 |  实现了 outbox pattern Go 库。 |
 | [pglock](https://cirello.io/pglock)  | - |  postgresql 的分布式锁定实现。 |
 | [raft](https://github.com/hashicorp/raft)  | 2811 |  Raft consensus协议的实现。 by HashiCorp。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
 | [raft](https://github.com/coreos/etcd/tree/master/raft)  | - |  Raft consensus协议的实现。 by CoreOS。 |
@@ -684,7 +684,7 @@
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
 | [agora](https://github.com/PuerkitoBio/agora)  | 321 |  基于 Go 的动态类型，可嵌入的编程语言。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [anko](https://github.com/mattn/anko)  | 914 |  用Go编写的解释器。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [anko](https://github.com/mattn/anko)  | 914 |  用Go编写的解释器。 |![star > 100][Bronze]   
 | [binder](https://github.com/alexeyco/binder)  | 29 |  Lua接口，基于[gopher-lua](https://github.com/yuin/gopher-lua)。 |
 | [expr](https://github.com/antonmedv/expr)  | 677 |  一个可以计算表达式的引擎。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [gentee](https://github.com/gentee/gentee)  | 25 |  嵌入式脚本编程语言。 |![最近一个周有更新][Green]
@@ -1550,7 +1550,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
 | [acmetool](https://github.com/hlandau/acme)  | 1692 |  ACME(让我们用自动更新加密)客户端工具。 |![star > 1000][Silver]   
-| [acra](https://github.com/cossacklabs/acra)  | - |  网络加密代理保护基于数据库的应用程序免受数据泄漏:强选择性加密，SQL注入预防，入侵检测系统。 |
+| [acra](https://github.com/cossacklabs/acra)  | 444 |  网络加密代理保护基于数据库的应用程序免受数据泄漏:强选择性加密，SQL注入预防，入侵检测系统。 |![star > 100][Bronze]   
 | [argon2pw](https://github.com/raja/argon2pw)  | 72 |  使用常量时间密码比较生成Argon2密码散列。 |
 | [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert)  | - |  让我们加密证书并启动TLS服务器。 |
 | [BadActor](https://github.com/jaredfolkins/badactor)  | 245 |  一个驻留在内存中的，应用驱动的监控程序，受 fail2ban 的启发 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
@@ -1756,7 +1756,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [encdec](https://github.com/mickep76/encdec)  | 3 |  软件包为编码器和解码器提供了通用接口。 |
 | [genex](https://github.com/alixaxel/genex)  | 50 |  将正则表达式计数并展开为所有匹配的字符串。 |
 | [github_flavored_markdown](https://godoc.org/github.com/shurcooL/github_flavored_markdown)  | - |  GitHub 风格的 Markdown 渲染器 (使用 blackfriday) ，支持代码块高亮以及可点击的锚点 |
-| [go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth)  | 24 |  固定宽度的文本格式(带反射的编码器/解码器)。 |![最近一个周有更新][Green]
+| [go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth)  | 24 |  固定宽度的文本格式(带反射的编码器/解码器)。 |
 | [go-humanize](https://github.com/dustin/go-humanize)  | 1868 |  格式化程序，用于将时间、数字和内存大小转换为可读格式。 |![star > 1000][Silver]   
 | [go-nmea](https://github.com/adrianmo/go-nmea)  | 94 |  用于Go语言的NMEA解析器库。 |![最近一个周有更新][Green]
 | [go-runewidth](https://github.com/mattn/go-runewidth)  | 209 |  函数获取字符或字符串的固定宽度。 |![star > 100][Bronze]   
@@ -1814,8 +1814,8 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [clarifai](https://github.com/samuelcouch/clarifai)  | 57 |  Clarifai API的客户端。 |![最近一年没有更新][Yellow]
 | [codeship-go](https://github.com/codeship/codeship-go)  | 14 |   Codeship API v2的客户端。 |
 | [coinpaprika-go](https://github.com/coinpaprika/coinpaprika-api-go-client)  | 12 |  Coinpaprika API的客户端。 |
-| [discordgo](https://github.com/bwmarrin/discordgo)  | 951 |   Discord Chat API的客户端。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [ethrpc](https://github.com/onrik/ethrpc)  | 163 |   Ethereum JSON RPC API的客户端。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [discordgo](https://github.com/bwmarrin/discordgo)  | 951 |   Discord Chat API的客户端。 |![star > 100][Bronze]   
+| [ethrpc](https://github.com/onrik/ethrpc)  | 163 |   Ethereum JSON RPC API的客户端。 |![star > 100][Bronze]   
 | [facebook](https://github.com/huandu/facebook)  | 765 |  支持 Facebook Graph API 的库 |![star > 100][Bronze]   
 | [fcm](https://github.com/maddevsio/fcm)  | 32 |   Firebase Cloud Messaging 的 Go 语言库 |
 | [gads](https://github.com/emiddleton/gads)  | 43 |   Google Adwords 非官方 API |
@@ -2106,9 +2106,9 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [rex](https://github.com/goanywhere/rex)  | 25 |   Rex 是一个用于进行模块化开发的库，基于Gorilla/mux 完全兼容大多数的 net/HTTP. |![最近一年没有更新][Yellow]
 | [sawsij](https://github.com/jaybill/sawsij)  | 2 |  轻量级、开源的web框架，用于构建高性能、数据驱动的web应用程序。 |![最近一年没有更新][Yellow]
 | [tango](https://github.com/lunny/tango)  | 816 |  微型的、支持插件的 web 框架。 |![star > 100][Bronze]   
-| [tigertonic](https://github.com/rcrowley/go-tigertonic)  | 995 |  用于构建 JSON web 服务的 Go 语言框架，受到 Dropwizard 的启发。 |![star > 100][Bronze]   
+| [tigertonic](https://github.com/rcrowley/go-tigertonic)  | 995 |  用于构建 JSON web 服务的 Go 语言框架，受到 Dropwizard 的启发。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [traffic](https://github.com/pilu/traffic)  | 519 |  Sinatra启发了regexp/pattern mux和用于Go的web框架。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [uAdmin](https://github.com/uadmin/uadmin)  | 49 |  受到 Sinatra 启发的 Go 语言 web 框架。 |![最近一个周有更新][Green]
+| [uAdmin](https://github.com/uadmin/uadmin)  | 49 |  受到 Sinatra 启发的 Go 语言 web 框架。 |
 | [utron](https://github.com/gernest/utron)  | 2135 |  Go(Golang)的轻量级MVC框架。 |![star > 1000][Silver]   
 | [vox](https://github.com/aisk/vox)  | 39 |  一个面向人类的golang web框架，深受Koa的启发。 |
 | [WebGo](https://github.com/bnkamalesh/webgo)  | 73 |  构建web应用程序的微框架;处理程序链接、中间件和上下文注入。与标准库兼容的HTTP处理程序(即http.HandlerFunc)。 |
@@ -2340,7 +2340,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Rodent](https://github.com/alouche/rodent)  | 30 |  管理Go版本、项目和跟踪依赖项。 |![最近一年没有更新][Yellow]
 | [s3gof3r](https://github.com/rlmcpherson/s3gof3r)  | 989 |  小型实用程序/库，针对大型对象在Amazon S3中的高速传输进行了优化。 |![star > 100][Bronze]   
 | [Scaleway-cli](https://github.com/scaleway/scaleway-cli)  | 534 |  从命令行管理 BareMetal 服务器(与使用Docker一样容易)。 |![star > 100][Bronze]   
-| [script](https://github.com/bitfield/script)  | 888 |  让DevOps编写类shell和系统管理任务变得更加容易。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [script](https://github.com/bitfield/script)  | 888 |  让DevOps编写类shell和系统管理任务变得更加容易。 |![star > 100][Bronze]   
 | [sg](https://github.com/ChristopherRabotin/sg)  | 5 |  可测试一组HTTP极限(如ab)，可以在每个调用之间使用响应代码和数据，根据之前的响应来确定特定的服务器压力。 |![最近一年没有更新][Yellow]
 | [skm](https://github.com/TimothyYe/skm)  | 546 |  SKM是一个简单而强大的SSH密钥管理器，它可以帮助您轻松地管理多个SSH密钥! |![star > 100][Bronze]   
 | [StatusOK](https://github.com/sanathp/statusok)  | 1154 |  监视您的网站和REST api。当服务器宕机或响应时间超过预期时，通过Slack、电子邮件获得通知。 |![star > 1000][Silver]   
