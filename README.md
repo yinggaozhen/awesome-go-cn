@@ -6,7 +6,7 @@
 [Green]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Green.svg "最近一周有更新"
 [Yellow]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Yellow.svg "最近一年没有更新"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-23 19:14:27(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-23 19:49:07(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -1231,60 +1231,60 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [strutil](https://github.com/ozgio/strutil)  | 61 |  字符串工具。 |
-| [xstrings](https://github.com/huandu/xstrings)  | 614 |  从其他语言移植的有用字符串函数的集合。 |![star > 100][Bronze]   
+| [strutil](https://github.com/ozgio/strutil)  | 61 |  字符串处理工具。 |
+| [xstrings](https://github.com/huandu/xstrings)  | 614 |  从其他语言移植的有用字符串函数合集。 |![star > 100][Bronze]   
 
-*这些库之所以放在这里，是因为其他类别似乎都不适合。*
+*这些库之所以放在这里，是因为不适合放在其他分类。*
 
         
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
-| [anagent](https://github.com/mudler/anagent)  | 11 |  最小化，可插入的Golang evloop/计时器处理程序与依赖注入。 |
-| [antch](https://github.com/antchfx/antch)  | 139 |  一个快速、强大和可扩展的web爬行和抓取框架。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [archiver](https://github.com/mholt/archiver)  | 2469 |  用于生成和提取.zip和.tar.gz存档的库和命令。 |![star > 1000][Silver]   
-| [autoflags](https://github.com/artyom/autoflags)  | 24 |  Go package从struct字段自动定义命令行标志。 |
-| [avgRating](https://github.com/kirillDanshin/avgRating)  | 9 |  根据Wilson评分方程计算平均分和评分。 |![最近一年没有更新][Yellow]
-| [banner](https://github.com/dimiro1/banner)  | 229 |  在Go应用程序中添加漂亮的横幅。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [base64Captcha](https://github.com/mojocn/base64Captcha)  | 618 |  Base64captch支持数字，数字，字母，算术，音频和数字-字母验证码。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [anagent](https://github.com/mudler/anagent)  | 11 |  Go语言的最小化，可插入的evloop/timer处理程序, 带有依赖注入。 |
+| [antch](https://github.com/antchfx/antch)  | 139 |  一个快速、强大和可扩展的web爬虫框架。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [archiver](https://github.com/mholt/archiver)  | 2469 |  用于生成和解压.zip和.tar.gz文档的库和命令。 |![star > 1000][Silver]   
+| [autoflags](https://github.com/artyom/autoflags)  | 24 |  从struct字段自动定义命令行flag的Go包。 |
+| [avgRating](https://github.com/kirillDanshin/avgRating)  | 9 |  根据威尔逊得分排序算法(Wilson Score Equation)计算平均分和评分。 |![最近一年没有更新][Yellow]
+| [banner](https://github.com/dimiro1/banner)  | 229 |  在Go应用程序中添加漂亮的横幅(banner)。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [base64Captcha](https://github.com/mojocn/base64Captcha)  | 618 |  base64Captcha支持数字，字母，算术，音频和混合模式的验证码。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [battery](https://github.com/distatus/battery)  | 134 |  跨平台、标准化的电池信息库。 |![star > 100][Bronze]   
 | [bitio](https://github.com/icza/bitio)  | 92 |  高度优化的位级读写器。 |![最近一年没有更新][Yellow]
-| [browscap_go](https://github.com/digitalcrab/browscap_go)  | 29 |  用于[浏览器功能项目]的GoLang库(http://browscap.org/)。 |
-| [captcha](https://github.com/steambap/captcha)  | 42 |  软件包captcha为captcha的生成提供了一个易于使用的、未绑定的API。 |
-| [conv](https://github.com/cstockton/go-conv)  | 340 |  包conv提供了跨Go类型的快速和直观的转换。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [datacounter](https://github.com/miolini/datacounter)  | 27 |  读取器/写入器/http.ResponseWriter的计数器。 |![最近一年没有更新][Yellow]
-| [ffmt](https://github.com/go-ffmt/ffmt)  | 126 |  美化数据显示为人类。 |![star > 100][Bronze]   
-| [ghorg](https://github.com/gabrie30/ghorg)  | 23 |  将所有repos从GitHub org复制到一个目录中。 |![最近一个周有更新][Green]
-| [go-commons-pool](https://github.com/jolestar/go-commons-pool)  | 661 |  Golang的通用对象池。 |![star > 100][Bronze]   
-| [go-openapi](https://github.com/go-openapi)  | - |  用于解析和利用开放api模式的包的集合。 |
-| [go-resiliency](https://github.com/eapache/go-resiliency)  | 840 |   Go 的弹性模式。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [go-unarr](https://github.com/gen2brain/go-unarr)  | 67 |  用于RAR、TAR、ZIP和7z存档的解压缩库。 |
+| [browscap_go](https://github.com/digitalcrab/browscap_go)  | 29 |  用于[Browser Capabilities Project](http://browscap.org/)的Go库。 |
+| [captcha](https://github.com/steambap/captcha)  | 42 |  captcha包为验证码生成提供了一个易于使用的、unopinionated的API。 |
+| [conv](https://github.com/cstockton/go-conv)  | 340 |  conv包提供了跨Go类型(Go types)的快速和直观的转换。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [datacounter](https://github.com/miolini/datacounter)  | 27 |  用于readers/writer/http.ResponseWriter的计数器。 |![最近一年没有更新][Yellow]
+| [ffmt](https://github.com/go-ffmt/ffmt)  | 126 |  美化数据,使其更适合人查看。 |![star > 100][Bronze]   
+| [ghorg](https://github.com/gabrie30/ghorg)  | 23 |  GitHub一个组织中所有的仓库复制到一个目录中。 |![最近一个周有更新][Green]
+| [go-commons-pool](https://github.com/jolestar/go-commons-pool)  | 661 |  Go语言的通用对象池。 |![star > 100][Bronze]   
+| [go-openapi](https://github.com/go-openapi)  | - |  用于解析和使用开放api模式(open-api schemas)的包的集合。 |
+| [go-resiliency](https://github.com/eapache/go-resiliency)  | 840 |   Go语言弹性模式(resiliency pattern)。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [go-unarr](https://github.com/gen2brain/go-unarr)  | 67 |  用于RAR、TAR、ZIP和7z文件的解压缩库。 |
 | [gofakeit](https://github.com/brianvoe/gofakeit)  | 411 |  用go编写的随机数据生成器。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [gommit](https://github.com/antham/gommit)  | 69 |  分析git提交消息，确保它们遵循已定义的模式。 |![最近一个周有更新][Green]
-| [gopsutil](https://github.com/shirou/gopsutil)  | 3877 |  用于检索进程和系统利用率(CPU、内存、磁盘等)的跨平台库。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [gosh](https://github.com/osamingo/gosh)  | 16 |  提供Go统计处理程序，结构，测量方法。 |
-| [gosms](https://github.com/haxpax/gosms)  | 1223 |  您自己的本地短信网关在Go，可以用来发送短信。 |![star > 1000][Silver]   ![最近一年没有更新][Yellow]
-| [gotoprom](https://github.com/cabify/gotoprom)  | 15 |  为Prometheus客户端提供类型安全的度量构建器包装库。 |
-| [gountries](https://github.com/pariz/gountries)  | 208 |  公开国家和细分数据的包。 |![star > 100][Bronze]   
+| [gommit](https://github.com/antham/gommit)  | 69 |  分析git提交消息，确保它们遵循已定义的格式。 |![最近一个周有更新][Green]
+| [gopsutil](https://github.com/shirou/gopsutil)  | 3877 |  用于检索进程和系统利用率(CPU、内存、磁盘等)的跨平台的库。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [gosh](https://github.com/osamingo/gosh)  | 16 |  提供Go统计处理程序，结构和测量方法。 |
+| [gosms](https://github.com/haxpax/gosms)  | 1223 |  Go编写的私人的本地短信网关，可以用来发送短信。 |![star > 1000][Silver]   ![最近一年没有更新][Yellow]
+| [gotoprom](https://github.com/cabify/gotoprom)  | 15 |  为Prometheus客户端提供类型安全的指标(metric)构建工具库。 |
+| [gountries](https://github.com/pariz/gountries)  | 208 |  获取国家和细节数据的包。 |![star > 100][Bronze]   
 | [health](https://github.com/dimiro1/health)  | 360 |  易于使用，可扩展的健康检查库。 |![star > 100][Bronze]   
-| [healthcheck](https://github.com/etherlabsio/healthcheck)  | 80 |  用于RESTful服务的自以为是的并发健康检查HTTP处理程序。 |
-| [hostutils](https://github.com/Wing924/hostutils)  | 7 |  一个用于打包和解包FQDNs列表的golang库。 |
-| [indigo](https://github.com/osamingo/indigo)  | 51 |  分布式唯一ID生成器使用Sonyflake，并由Base58编码。 |
-| [lk](https://github.com/hyperboloide/lk)  | 117 |  一个简单的golang授权库。 |![star > 100][Bronze]   
+| [healthcheck](https://github.com/etherlabsio/healthcheck)  | 80 |  用于RESTful服务的强制的(opinionated)并发健康检查HTTP处理程序。 |
+| [hostutils](https://github.com/Wing924/hostutils)  | 7 |  一个用于打包和解包FQDNs列表的go语言库。 |
+| [indigo](https://github.com/osamingo/indigo)  | 51 |  分布式唯一ID生成器, 使用Sonyflake并由Base58编码。 |
+| [lk](https://github.com/hyperboloide/lk)  | 117 |  一个简单的版权许可证库。 |![star > 100][Bronze]   
 | [llvm](https://github.com/llir/llvm)  | 407 |  用于在纯Go中与LLVM IR交互的库。 |![star > 100][Bronze]   
-| [metrics](https://github.com/pascaldekloe/metrics)  | 4 |  用于度量仪器和普罗米修斯博览会的库。 |
-| [morse](https://github.com/alwindoss/morse)  | 49 |  转换成莫尔斯电码和从莫尔斯电码转换成莫尔斯电码的程序库。 |
-| [numa](https://github.com/lrita/numa)  | 2 |  NUMA是一个用go编写的实用程序库。它帮助我们编写一些NUMA-AWARED代码。 |
-| [pdfgen](https://github.com/hyperboloide/pdfgen)  | 33 |  HTTP服务从Json请求生成PDF。 |![最近一年没有更新][Yellow]
-| [persian](https://github.com/mavihq/persian)  | 33 |  一些实用的波斯语在 Go 。 |
-| [sandid](https://github.com/aofei/sandid)  | 12 |  地球上的每一粒沙子都有自己的身份。 |
-| [shellwords](https://github.com/Wing924/shellwords)  | 7 |  一个Golang库，根据UNIX Bourne shell的单词解析规则操纵字符串。 |![最近一年没有更新][Yellow]
-| [shortid](https://github.com/teris-io/shortid)  | 446 |  分布式生成超短、唯一、非顺序、URL友好的id。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [stats](https://github.com/go-playground/stats)  | 121 |  显示器 Go MemStats +系统统计，如内存，交换和CPU，并通过UDP发送到任何地方，你想记录等… |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [turtle](https://github.com/hackebrot/turtle)  | 72 |  Emojis Go 。 |![最近一年没有更新][Yellow]
-| [url-shortener](https://github.com/pantrif/url-shortener)  | 17 |  一个现代的、强大的、健壮的URL缩短器微服务，支持mysql。 |![最近一年没有更新][Yellow]
-| [VarHandler](https://github.com/azr/generators/tree/master/varhandler)  | - |  生成样板http输入和输出处理。 |
-| [xdg](https://github.com/rkoesters/xdg)  | 19 |  FreeDesktop.org (xdg)规范在Go中实现。 |
-| [xkg](https://github.com/go-xkg/xkg)  | 39 |  X键盘打捞工具。 |![最近一年没有更新][Yellow]
+| [metrics](https://github.com/pascaldekloe/metrics)  | 4 |  用于instrumentation和Prometheus exposition的库。 |
+| [morse](https://github.com/alwindoss/morse)  | 49 |  实现字符串与摩尔斯电码转换的库。 |
+| [numa](https://github.com/lrita/numa)  | 2 |  NUMA是一个用go编写的实用程序库。它可以帮助我们编写一些NUMA-AWARED代码。 |
+| [pdfgen](https://github.com/hyperboloide/pdfgen)  | 33 |  通过Json请求生成PDF的HTTP服务。 |![最近一年没有更新][Yellow]
+| [persian](https://github.com/mavihq/persian)  | 33 |  一些适用于波斯语的Go工具库。 |
+| [sandid](https://github.com/aofei/sandid)  | 12 |  能沟让地球上的每一粒沙子都有自己的ID。 |
+| [shellwords](https://github.com/Wing924/shellwords)  | 7 |  一个Go库，实现了依照UNIX Bourne shell的关键词解析规则进行字符串操纵。 |![最近一年没有更新][Yellow]
+| [shortid](https://github.com/teris-io/shortid)  | 446 |  分布式地生成超短、唯一、非顺序、URL友好的id。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [stats](https://github.com/go-playground/stats)  | 121 |  Monitors Go MemStats + 诸如如内存，Swap和CPU的系统状态统计，并通过UDP发送到任何你想记录的地方 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
+| [turtle](https://github.com/hackebrot/turtle)  | 72 |  Go的Emojis库。 |![最近一年没有更新][Yellow]
+| [url-shortener](https://github.com/pantrif/url-shortener)  | 17 |  一个现代的、强大的、健壮的URL转短链接微服务，带有mysql支持。 |![最近一年没有更新][Yellow]
+| [VarHandler](https://github.com/azr/generators/tree/master/varhandler)  | - |  用于生成http输入和输出处理模板。 |
+| [xdg](https://github.com/rkoesters/xdg)  | 19 |  FreeDesktop.org (xdg)规范在Go中的实现。 |
+| [xkg](https://github.com/go-xkg/xkg)  | 39 |  X Keyboard Grabber(键盘事件捕获) |![最近一年没有更新][Yellow]
 
 ## 自然语言处理
 
