@@ -7,7 +7,7 @@
 [Yellow]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn/docs/Yellow.svg "最近一年没有更新"
 [CN]: https://cdn.jsdelivr.net/gh/guozhen-robot/awesome-go-cn@cdn-3/docs/Cn.svg "包含中文文档"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-24 22:49:10(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-07-25 10:21:37(每隔1天同步一次)**
 
 **:star:项目地址 : [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn):star:**
 
@@ -176,7 +176,7 @@
 | [jwt-auth](https://github.com/adam-hanna/jwt-auth)  | 151 |  JWT中间件，可用于Golang http服务器，提供了许多配置选项。 |![star > 100][Bronze]
 | [jwt-go](https://github.com/dgrijalva/jwt-go)  | 5869 |  JSON Web令牌(JWT)。 |![star > 5000][Gold]
 | [loginsrv](https://github.com/tarent/loginsrv)  | 805 |  JWT登录微服务带有可插拔的后端服务，如OAuth2 (Github)、htpasswd、osiam。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
-| [oauth2](https://github.com/golang/oauth2)  | 2362 |  goauth2的继任者。通用OAuth 2.0包，附带JWT、谷歌api、计算引擎和应用程序引擎支持。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [oauth2](https://github.com/golang/oauth2)  | 2362 |  goauth2的继任者。通用OAuth 2.0包，附带JWT、谷歌api、计算引擎和应用程序引擎支持。 |![star > 1000][Silver]
 | [osin](https://github.com/openshift/osin)  | 1536 |  OAuth2服务器库。 |![star > 1000][Silver]
 | [paseto](https://github.com/o1egl/paseto)  | 236 |  平台无关的安全令牌(PASETO)。 |![star > 100][Bronze]
 | [permissions2](https://github.com/xyproto/permissions2)  | 351 |  用于跟踪用户、登录状态和权限的库。依赖于cookie安全和bcrypt。 |![star > 100][Bronze]
@@ -291,7 +291,7 @@
 | [termtables](https://github.com/apcera/termtables)  | 212 |  使用Ruby库[terminal-tables](https://github.com/tj/terminal-table)的端口生成简单的ASCII表，并提供标记和HTML输出。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [termui](https://github.com/gizak/termui)  | 8867 |  此库是基于**termbox-go**实现的，借鉴于[blessed-contrib](https://github.com/yaronn/blessed-contrib)。 |![star > 5000][Gold]
 | [uilive](https://github.com/gosuri/uilive)  | 822 |  用于实时更新终端输出的库。 |![star > 100][Bronze]
-| [uiprogress](https://github.com/gosuri/uiprogress)  | 1529 |  在终端呈现进度条，可灵活配置的。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [uiprogress](https://github.com/gosuri/uiprogress)  | 1529 |  在终端呈现进度条，可灵活配置的。 |![star > 1000][Silver]
 | [uitable](https://github.com/gosuri/uitable)  | 496 |  改善终端应用程序中表格数据的可读性。 |![star > 100][Bronze]
 
 ## 配置
@@ -394,7 +394,7 @@
 | [hide](https://github.com/emvi/hide)  | 7 |  ID type with marshalling to/from hash to prevent sending IDs to clients. |
 | [hilbert](https://github.com/google/hilbert)  | 179 |  用于映射空间填充曲线（例如 Hilbert 曲线和 Peano 曲线）和数值。 |![star > 100][Bronze]
 | [hyperloglog](https://github.com/axiomhq/hyperloglog)  | 659 |  HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. |![star > 100][Bronze]
-| [levenshtein](https://github.com/agext/levenshtein)  | 32 |  Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix. |   ![最近一个周有更新][Green]
+| [levenshtein](https://github.com/agext/levenshtein)  | 32 |  Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix. |
 | [levenshtein](https://github.com/agnivade/levenshtein)  | 55 |  实现在Go中计算levenshtein距离。 |
 | [mafsa](https://github.com/smartystreets/mafsa)  | 273 |  实现了 MA-FSA ，包含最小完美哈希。 |![star > 100][Bronze]
 | [merkletree](https://github.com/cbergoon/merkletree)  | 144 |  实现了merkle树，提供了对数据结构内容的有效和安全的验证。 |![star > 100][Bronze]
@@ -688,7 +688,7 @@
 |---|---|---|---|
 | [agora](https://github.com/PuerkitoBio/agora)  | 321 |  基于 Go 的动态类型，可嵌入的编程语言。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [anko](https://github.com/mattn/anko)  | 918 |  用Go编写的解释器。 |![star > 100][Bronze]
-| [binder](https://github.com/alexeyco/binder)  | 29 |  Lua接口，基于[gopher-lua](https://github.com/yuin/gopher-lua)。 |
+| [binder](https://github.com/alexeyco/binder)  | 29 |  Lua接口，基于[gopher-lua](https://github.com/yuin/gopher-lua)。 |   ![最近一年没有更新][Yellow]
 | [expr](https://github.com/antonmedv/expr)  | 684 |  一个可以计算表达式的引擎。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [gentee](https://github.com/gentee/gentee)  | 25 |  嵌入式脚本编程语言。 |   ![最近一个周有更新][Green]
 | [gisp](https://github.com/jcla1/gisp)  | 429 |  LISP 的 Go 接口。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
@@ -738,7 +738,7 @@
 | [skywalker](https://github.com/dixonwille/skywalker)  | 48 |  可以轻松地并发地遍历文件系统。 |   ![最近一年没有更新][Yellow]
 | [stl](https://gitlab.com/russoj88/stl)  | - |  采用并行读取算法的进行读取和写入STL(立体光刻)文件的模块。 |
 | [tarfs](https://github.com/posener/tarfs)  | 35 |  tar文件的实现[ FileSystem 接口](https://godoc.org/github.com/kr/fs#FileSystem)。 |   ![最近一年没有更新][Yellow]
-| [vfs](https://github.com/C2FO/vfs)  | 21 |  一组可插拔的、可扩展的和自定义的文件系统功能，用于跨越许多文件系统类型，如os、S3和GCS。 |   ![最近一个周有更新][Green]
+| [vfs](https://github.com/C2FO/vfs)  | 21 |  一组可插拔的、可扩展的和自定义的文件系统功能，用于跨越许多文件系统类型，如os、S3和GCS。 |
 
 ## 金融
 
@@ -752,7 +752,7 @@
 | [decimal](https://github.com/shopspring/decimal)  | 1582 |  任意精度定点的十进制数。 |![star > 1000][Silver]
 | [go-finance](https://github.com/FlashBoys/go-finance)  | 535 |  综合金融市场数据。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [go-finance](https://github.com/alpeb/go-finance)  | 41 |  用于货币时间价值(年金)、现金流、利率转换、债券和折旧计算的金融函数库。 |   ![最近一年没有更新][Yellow]
-| [go-money](https://github.com/rhymond/go-money)  | 611 |  Fowler 货币模式的实现。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [go-money](https://github.com/rhymond/go-money)  | 611 |  Fowler 货币模式的实现。 |![star > 100][Bronze]
 | [ofxgo](https://github.com/aclindsa/ofxgo)  | 60 |  查询 OFX 服务器和/或解析响应。 |
 | [orderbook](https://github.com/i25959341/orderbook)  | 67 |  限购单匹配引擎。 |
 | [techan](https://github.com/sdcoffey/techan)  | 154 |  拥有先进的市场分析和交易策略的技术分析库。 |![star > 100][Bronze]
@@ -908,7 +908,7 @@
 | [fyne](https://github.com/fyne-io/fyne)  | 6189 |  为 Go 而设计的跨平台的本地GUIs，使用EFL呈现。支持 : Linux, macOS, Windows。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
 | [go-astilectron](https://github.com/asticode/go-astilectron)  | 2637 |  使用 GO 和 HTML/JS/CSS (电子驱动)进行构建跨平台 GUI 应用程序。 |![star > 1000][Silver]
 | [go-gtk](http://mattn.github.io/go-gtk/)  | - |  实现了 GTK 的 Go接口。 |
-| [go-sciter](https://github.com/sciter-sdk/go-sciter)  | 1436 |  实现了 Sciter 的 Go 接口 : 用于现代桌面 UI 开发的可嵌入HTML/CSS/脚本引擎。可跨平台。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [go-sciter](https://github.com/sciter-sdk/go-sciter)  | 1436 |  实现了 Sciter 的 Go 接口 : 用于现代桌面 UI 开发的可嵌入HTML/CSS/脚本引擎。可跨平台。 |![star > 1000][Silver]
 | [gotk3](https://github.com/gotk3/gotk3)  | 758 |  实现了 GTK3 的 Go接口。 |![star > 100][Bronze]
 | [gowd](https://github.com/dtylman/gowd)  | 206 |  跨平台、快速、简单的桌面UI开发，采用了GO, HTML, CSS和NW.js实现。 |![star > 100][Bronze]
 | [qt](https://github.com/therecipe/qt)  | 5976 |  实现了 Qt 的 Go接口(支持Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi)。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
@@ -1035,7 +1035,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [jsonf](https://github.com/miolini/jsonf)  | 54 |  用于高亮展示和查询JSON的控制台工具。 |   ![最近一年没有更新][Yellow]
 | [jsongo](https://github.com/ricardolonga/jsongo)  | 92 |  使用Fluent API来更容易地创建Json对象。 |   ![最近一年没有更新][Yellow]
 | [jsonhal](https://github.com/RichardKnop/jsonhal)  | 9 |  让自定义结构（struct）转化为JSON兼容的HAL（Hypertext Application Language）返回数据的简单Go包。 |
-| [kazaam](https://github.com/Qntfy/kazaam)  | 130 |  用于任意JSON文档转换的API。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [kazaam](https://github.com/Qntfy/kazaam)  | 130 |  用于任意JSON文档转换的API。 |![star > 100][Bronze]
 | [mp](https://github.com/sanbornm/mp)  | 33 |  简单的cli电子邮件解析器。它目前接受stdin并输出JSON。 |   ![最近一年没有更新][Yellow]
 
 ## 日志记录
@@ -1635,7 +1635,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [extemplate](https://github.com/dannyvankooten/extemplate)  | 13 |   对 html/template 进行了简单的封装，支持基于文件的模板可以利用其他模板文件进行扩展 |
 | [fasttemplate](https://github.com/valyala/fasttemplate)  | 291 |  简单快速的模板引擎。进行模板元素替换时，速度是比[text/template](http://golang.org/pkg/text/template/)快10倍。 |![star > 100][Bronze]
 | [gofpdf](https://github.com/jung-kurt/gofpdf)  | 3052 |  PDF 文档生成器，支持文本，绘图和图片 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [goview](https://github.com/foolin/goview)  | 42 |  Goview是一个轻量级、极简的模板库，基于golang html/template构建Go web应用程序。 |   ![最近一个周有更新][Green]
+| [goview](https://github.com/foolin/goview)  | 42 |  Goview是一个轻量级、极简的模板库，基于golang html/template构建Go web应用程序。 |
 | [hero](https://github.com/shiyanhui/hero)  | 1198 |  Hero是一个方便、快速和强大的go模板引擎。 |![star > 1000][Silver]   ![包含中文文档][CN]
 | [jet](https://github.com/CloudyKit/jet)  | 579 |  Jet模板引擎。 |![star > 100][Bronze]
 | [kasia.go](https://github.com/ziutek/kasia.go)  | 70 |  一个用于HTML 和其他文本文件的模板系统，使用go语言实现 |   ![最近一年没有更新][Yellow]
@@ -1728,7 +1728,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | name  | star  | desc  | tag&nbsp;&nbsp;&nbsp; |
 |---|---|---|---|
 | [cdp](https://github.com/mafredri/cdp)  | 350 |  用于Chrome调试协议的类型安全绑定，可与实现该协议的浏览器或其他调试目标一起使用。 |![star > 100][Bronze]
-| [chromedp](https://github.com/knq/chromedp)  | 3498 |  用于驱动和测试 Chrome, Safari, Edge, Android Webviews, 以及其他支持 Chrome 调试协议的产品 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [chromedp](https://github.com/knq/chromedp)  | 3498 |  用于驱动和测试 Chrome, Safari, Edge, Android Webviews, 以及其他支持 Chrome 调试协议的产品 |![star > 1000][Silver]
 | [ggr](https://github.com/aerokube/ggr)  | 208 |  一个轻量级服务器，可以将 Selenium Wedriver 的请求路由或代理到多个 Selenium hubs |![star > 100][Bronze]   ![最近一个周有更新][Green]
 | [selenoid](https://github.com/aerokube/selenoid)  | 1207 |  Selenium hub 服务器的替代品，在容器中启动浏览器 |![star > 1000][Silver]
 
@@ -1764,7 +1764,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [github_flavored_markdown](https://godoc.org/github.com/shurcooL/github_flavored_markdown)  | - |  GitHub 风格的 Markdown 渲染器 (使用 blackfriday) ，支持代码块高亮以及可点击的锚点 |
 | [go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth)  | 25 |  固定宽度的文本格式(带反射的编码器/解码器)。 |
 | [go-humanize](https://github.com/dustin/go-humanize)  | 1879 |  格式化程序，用于将时间、数字和内存大小转换为可读格式。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [go-nmea](https://github.com/adrianmo/go-nmea)  | 94 |  用于Go语言的NMEA解析器库。 |   ![最近一个周有更新][Green]
+| [go-nmea](https://github.com/adrianmo/go-nmea)  | 94 |  用于Go语言的NMEA解析器库。 |
 | [go-runewidth](https://github.com/mattn/go-runewidth)  | 209 |  函数获取字符或字符串的固定宽度。 |![star > 100][Bronze]
 | [go-slugify](https://github.com/mozillazg/go-slugify)  | 28 |  生成漂亮的固定链接地址（slug），支持多种语言 |   ![最近一年没有更新][Yellow]
 | [go-toml](https://github.com/pelletier/go-toml)  | 604 |  使用带有查询支持和方便的cli工具的TOML格式库。 |![star > 100][Bronze]
@@ -1829,7 +1829,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [gcm](https://github.com/Aorioli/gcm)  | 29 |   Google Cloud Messaging 库 |   ![最近一年没有更新][Yellow]
 | [geo-golang](https://github.com/codingsince1985/geo-golang)  | 303 |  Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](http://open.mapquestapi.com/geocoding/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](http://geocoder.opencagedata.com/api.html), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs. |![star > 100][Bronze]
 | [github](https://github.com/google/go-github)  | 4730 |  访问GitHub REST API v3的库。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
-| [githubql](https://github.com/shurcooL/githubql)  | 497 |  访问GitHub GraphQL API v4的库。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [githubql](https://github.com/shurcooL/githubql)  | 497 |  访问GitHub GraphQL API v4的库。 |![star > 100][Bronze]
 | [go-chronos](https://github.com/axelspringer/go-chronos)  | 3 |  用于与[Chronos](https://mesos.github.io/chronos/)作业调度程序进行交互的Go库 |   ![最近一年没有更新][Yellow]
 | [go-hacknews](https://github.com/PaulRosset/go-hacknews)  | 9 |  HackerNews API的小型Go客户端。 |   ![最近一年没有更新][Yellow]
 | [go-imgur](https://github.com/koffeinsource/go-imgur)  | 13 |  Go [imgur](https://imgur.com)的客户端库 |
@@ -1857,7 +1857,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [igdb](https://github.com/Henry-Sarabia/igdb)  | 52 |  [Internet Game Database API](https://api.igdb.com/) 客户端。 |
 | [Medium](https://github.com/Medium/medium-sdk-go)  | 115 |  Medium的OAuth2 API 客户端。 |![star > 100][Bronze]
 | [megos](https://github.com/andygrunwald/megos)  | 57 |  用于访问[Apache Mesos](http://mesos.apache.org/)集群的客户端库。 |   ![最近一年没有更新][Yellow]
-| [minio-go](https://github.com/minio/minio-go)  | 712 |  用于Amazon S3兼容云存储的Minio Go库。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [minio-go](https://github.com/minio/minio-go)  | 712 |  用于Amazon S3兼容云存储的Minio Go库。 |![star > 100][Bronze]
 | [mixpanel](https://github.com/dukex/mixpanel)  | 29 |  Mixpanel是一个库，用于跟踪事件并将Mixpanel概要文件更新从go应用程序发送到Mixpanel。 |
 | [patreon-go](https://github.com/mxpv/patreon-go)  | 18 |   Go Patreon API库。 |
 | [paypal](https://github.com/logpacker/PayPal-Go-SDK)  | 299 |  PayPal支付API的包装器。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
@@ -2091,7 +2091,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [Fireball](https://github.com/zpatrick/fireball)  | 48 |  感觉更加自然的 web 框架。 |
 | [Gem](https://github.com/go-gem/gem)  | 153 |  简单快速的web框架，对REST API友好。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [Gin](https://github.com/gin-gonic/gin)  | 29421 |  Gin是一个用Go编写的web框架!它具有一个类似于martini的API，性能更好，速度快40倍。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
-| [Gizmo](https://github.com/NYTimes/gizmo)  | 2831 |  《纽约时报》使用的微服务工具包。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
+| [Gizmo](https://github.com/NYTimes/gizmo)  | 2831 |  《纽约时报》使用的微服务工具包。 |![star > 1000][Silver]
 | [go-json-rest](https://github.com/ant0ine/go-json-rest)  | 3327 |  设置RESTful JSON API的快速简便方法。 |![star > 1000][Silver]
 | [go-rest](https://github.com/ungerik/go-rest)  | 116 |  小型的 REST 框架。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 | [Goa](https://github.com/goadesign/goa)  | 3488 |  Goa为在Go中开发远程api和微服务提供了一种全面的方法。 |![star > 1000][Silver]   ![最近一个周有更新][Green]
@@ -2108,7 +2108,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [patron](https://github.com/beatlabs/patron)  | 33 |  Patron是一个遵循最佳云实践的微服务框架，专注于提升开发效率。 |   ![最近一个周有更新][Green]
 | [Resoursea](https://github.com/resoursea/api)  | 29 |  用于快速编写基于资源的服务的REST框架。 |   ![最近一年没有更新][Yellow]
 | [REST Layer](http://rest-layer.io)  | - |  框架，用于在数据库之上构建REST/GraphQL API，主要是通过代码进行配置。 |
-| [Revel](https://github.com/revel/revel)  | 11219 |  用于Go语言的高效web框架。 |![star > 5000][Gold]   ![最近一个周有更新][Green]
+| [Revel](https://github.com/revel/revel)  | 11219 |  用于Go语言的高效web框架。 |![star > 5000][Gold]
 | [rex](https://github.com/goanywhere/rex)  | 25 |   Rex 是一个用于进行模块化开发的库，基于Gorilla/mux 完全兼容大多数的 net/HTTP. |   ![最近一年没有更新][Yellow]
 | [sawsij](https://github.com/jaybill/sawsij)  | 2 |  轻量级、开源的web框架，用于构建高性能、数据驱动的web应用程序。 |   ![最近一年没有更新][Yellow]
 | [tango](https://github.com/lunny/tango)  | 817 |  微型的、支持插件的 web 框架。 |![star > 100][Bronze]   ![包含中文文档][CN]
@@ -2221,7 +2221,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 | [gcvis](https://github.com/davecheney/gcvis)  | 915 |  实时可视化跟踪 GC 数据。 |![star > 100][Bronze]
 | [go-checkstyle](https://github.com/qiniu/checkstyle)  | 95 |  checkstyle是一个类似于java checkstyle的检查工具。 |
 | [go-cleanarch](https://github.com/roblaszczak/go-cleanarch)  | 280 |  go-cleanarch 的创建是为了验证 Clean 体系结构规则，比如 Go 项目中的依赖关系。 |![star > 100][Bronze]   ![最近一年没有更新][Yellow]
-| [go-critic](https://github.com/go-critic/go-critic)  | 567 |  源代码检查工具。 |![star > 100][Bronze]   ![最近一个周有更新][Green]
+| [go-critic](https://github.com/go-critic/go-critic)  | 567 |  源代码检查工具。 |![star > 100][Bronze]
 | [go-mod-outdated](https://github.com/psampaz/go-mod-outdated)  | 180 |  找出项目中过期的依赖项。 |![star > 100][Bronze]
 | [go-outdated](https://github.com/firstrow/go-outdated)  | 45 |  显示过期包的终端应用。 |
 | [goast-viewer](https://github.com/yuroyoro/goast-viewer)  | 369 |  基于 Web 的 Golang AST 可视化工具。 |![star > 100][Bronze]
