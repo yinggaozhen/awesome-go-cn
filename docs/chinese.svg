@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="20px" viewBox="0 0 60 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chinese</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60" height="20" rx="3"></rect>
+        <text id="text-3" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="29" y="14">中文</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.347417092   0 0 0 0 0.347417092   0 0 0 0 0.347417092  0 0 0 0.498161765 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="22" height="20"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lang" transform="translate(-83.000000, 0.000000)">
+            <g id="chinese" transform="translate(83.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#4A4A4A" xlink:href="#path-1"></use>
+                <g id="中文" mask="url(#mask-2)" fill-opacity="1" fill="#FFFFFF">
+                    <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                    <use xlink:href="#text-3"></use>
+                </g>
+                <g id="Shape" mask="url(#mask-2)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask" fill="#F8E81C" xlink:href="#path-5"></use>
+                    <path d="M0,-3 L25,-3 L25,22 L0,22 L0,-3 L0,-3 Z M6.415625,10.3822591 L9.28333333,12.5666341 L8.20729167,9.14371746 L11.0114583,6.96038411 L7.48958333,6.96038411 L6.415625,3.60309246 L5.33958333,6.96038411 L1.81875,6.96038411 L4.62291667,9.14371746 L3.54583333,12.5666341 L6.415625,10.3822591 Z M18.0322917,12.4593425 L18.9760417,13.1770508 L18.621875,12.0520508 L19.5447917,11.3333008 L18.3854167,11.3333008 L18.0322917,10.2280925 L17.678125,11.3333008 L16.5197917,11.3333008 L17.4427083,12.0520508 L17.0885417,13.1770508 L18.0322917,12.4593425 Z M14.409375,15.8166341 L15.0260417,16.8312175 L15.109375,15.6530925 L16.23125,15.3249675 L15.153125,14.8999675 L15.2291667,13.7416341 L14.4947917,14.6405925 L13.4166667,14.2155925 L14.0114583,15.2218425 L13.2697917,16.1385091 L14.409375,15.8166341 Z M18.3791667,7.38225911 L19.5489583,7.58225911 L18.7145833,6.74788411 L19.2,5.68434246 L18.1708333,6.22080078 L17.346875,5.40413411 L17.5447917,6.54788411 L16.5177083,7.08225911 L17.6677083,7.29267578 L17.8729167,8.45517578 L18.3791667,7.38225911 Z M15.178125,3.88330078 L16.3385417,3.64892578 L15.2604167,3.17184246 L15.3302083,2.00517578 L14.5645833,2.87496746 L13.5010417,2.41142578 L14.0979167,3.40725911 L13.3333333,4.27600911 L14.48125,4.05725911 L15.09375,5.06663411 L15.178125,3.88330078 Z" fill="#D0011B" mask="url(#mask-6)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="20px" viewBox="0 0 71 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>english</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="71" height="20" rx="3"></rect>
+        <text id="text-3" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="26" y="14">English</tspan>
+        </text>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.347417092   0 0 0 0 0.347417092   0 0 0 0 0.347417092  0 0 0 0.498161765 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="22" height="20"></rect>
+        <rect id="path-7" x="0" y="0" width="39" height="20" rx="5"></rect>
+        <path d="M16.1268499,9.10600971 L16.1268499,0 L18.1268499,0 L18.1268499,9.10600971 L34.2353346,9.10600971 L34.2353346,11.1060097 L18.1268499,11.1060097 L18.1268499,20 L16.1268499,20 L16.1268499,11.1060097 L1,11.1060097 L1,9.10600971 L16.1268499,9.10600971 Z" id="path-9"></path>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="35.2353346" height="22">
+            <rect x="0" y="-1" width="35.2353346" height="22" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lang">
+            <g id="english">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#1056A7" xlink:href="#path-1"></use>
+                <g id="English" mask="url(#mask-2)" fill-opacity="1" fill="#FFFFFF">
+                    <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                    <use xlink:href="#text-3"></use>
+                </g>
+                <g id="UK" mask="url(#mask-2)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask" fill="#CB0000" xlink:href="#path-5"></use>
+                    <g mask="url(#mask-6)">
+                        <g transform="translate(-6.000000, 0.000000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Rectangle-1" stroke="none" fill="#2F80B7" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            <path d="M18.2794341,8.59338804 L34.3093684,0.559131392 L35.4249464,0 L36.5363634,2.24489856 L35.4207855,2.80402995 L21.0746514,9.99436029 L35.4432902,17.19597 L36.5588681,17.7551014 L35.447451,20 L34.3318731,19.4408686 L18.2794341,11.3953325 L2.22699502,19.4408686 L1.11141708,20 L0,17.7551014 L1.11557794,17.19597 L15.4842167,9.99436029 L1.13808261,2.80402995 L0.0225046688,2.24489856 L1.13392175,0 L2.24949969,0.559131392 L18.2794341,8.59338804 Z" id="Line" stroke="#EDF1F2" stroke-width="1" fill="#BE3B31" fill-rule="evenodd" mask="url(#mask-8)"></path>
+                            <g id="Rectangle-34" stroke="none" fill="none" mask="url(#mask-8)">
+                                <use fill="#BE3B31" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                <use stroke="#EDF1F2" mask="url(#mask-10)" stroke-width="2" xlink:href="#path-9"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
