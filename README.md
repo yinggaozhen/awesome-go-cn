@@ -1,13 +1,13 @@
 # Awesome Go
 
-[Gold]: https://yinggaozhen.github.io/docs/Gold.svg "star > 5000"
-[Silver]: https://yinggaozhen.github.io/docs/Silver.svg "star > 1000"
-[Bronze]: https://yinggaozhen.github.io/docs/Bronze.svg "star > 100"
-[Green]: https://yinggaozhen.github.io/docs/Green.svg "最近一周有更新"
-[Yellow]: https://yinggaozhen.github.io/docs/Yellow.svg "最近一年没有更新"
-[CN]: https://yinggaozhen.github.io/docs/Cn.svg "包含中文文档"
+[Gold]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Gold.svg "star > 5000"
+[Silver]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Silver.svg "star > 1000"
+[Bronze]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Bronze.svg "star > 100"
+[Green]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Green.svg "最近一周有更新"
+[Yellow]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Yellow.svg "最近一年没有更新"
+[CN]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Cn.svg "包含中文文档"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-08-02 14:02:20(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-08-02 14:33:07(每隔1天同步一次)**
 
 [![chinese](https://yinggaozhen.github.io/docs/english.svg)](README_EN.md) [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 
@@ -1311,7 +1311,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [godep](https://github.com/tools/godep) **star:5650** godep是go的依赖工具，它通过修复包的依赖关系来帮助构建可重复的包。   ![star > 5000][Gold]   ![最近一年没有更新][Yellow]
 * [govendor](https://github.com/kardianos/govendor) **star:4731** 包管理器。使用 vendor 文件的 Go vendor 工具。   ![star > 1000][Silver]
 * [gopm](https://github.com/gpmgo/gopm) **star:2353** 包管理器。   ![star > 1000][Silver]   ![最近一周有更新][Green]
-* [gom](https://github.com/mattn/gom) **star:1351** Go Manager - bundle for Go。   ![star > 1000][Silver]   ![最近一周有更新][Green]
+* [gom](https://github.com/mattn/gom) **star:1351** Go Manager - bundle for Go。   ![star > 1000][Silver]
 * [gpm](https://github.com/pote/gpm) **star:1205** 基本的 Go 依赖管理器。   ![star > 1000][Silver]   ![最近一年没有更新][Yellow]
 * [goop](https://github.com/nitrous-io/goop) **star:777** Go 的简单依赖管理器，灵感来自Bundler。   ![star > 100][Bronze]   ![最近一年没有更新][Yellow]
 * [nut](https://github.com/jingweno/nut) **star:245** vendor 依赖。   ![star > 100][Bronze]   ![最近一年没有更新][Yellow]

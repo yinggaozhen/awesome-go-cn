@@ -1,13 +1,13 @@
 # Awesome Go
 
-[Gold]: https://yinggaozhen.github.io/docs/Gold.svg "star > 5000"
-[Silver]: https://yinggaozhen.github.io/docs/Silver.svg "star > 1000"
-[Bronze]: https://yinggaozhen.github.io/docs/Bronze.svg "star > 100"
-[Green]: https://yinggaozhen.github.io/docs/Green.svg "There was an update last week"
-[Yellow]: https://yinggaozhen.github.io/docs/Yellow.svg "It hasn't been updated in the last year"
-[CN]: https://yinggaozhen.github.io/docs/Cn.svg "Contains Chinese documents"
+[Gold]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Gold.svg "star > 5000"
+[Silver]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Silver.svg "star > 1000"
+[Bronze]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Bronze.svg "star > 100"
+[Green]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Green.svg "There was an update last week"
+[Yellow]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Yellow.svg "It hasn't been updated in the last year"
+[CN]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Cn.svg "Contains Chinese documents"
 
-**This project is [awesome-go](https://awesome-go.com/) Chinese version, last sync time : 2019-08-02 14:03:57(Synchronize every day)**
+**This project is [awesome-go](https://awesome-go.com/) Chinese version, last sync time : 2019-08-02 14:34:31(Synchronize every day)**
 
 [![english](https://yinggaozhen.github.io/docs/chinese.svg)](README.md) [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 
@@ -1310,7 +1310,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [godep](https://github.com/tools/godep) **star:5650** dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.   ![star > 5000][Gold]   ![It hasn't been updated in the last year][Yellow]
 * [govendor](https://github.com/kardianos/govendor) **star:4731** Go Package Manager. Go vendor tool that works with the standard vendor file.   ![star > 1000][Silver]
 * [gopm](https://github.com/gpmgo/gopm) **star:2353** Go Package Manager.   ![star > 1000][Silver]   ![There was an update last week][Green]
-* [gom](https://github.com/mattn/gom) **star:1351** Go Manager - bundle for go.   ![star > 1000][Silver]   ![There was an update last week][Green]
+* [gom](https://github.com/mattn/gom) **star:1351** Go Manager - bundle for go.   ![star > 1000][Silver]
 * [gpm](https://github.com/pote/gpm) **star:1205** Barebones dependency manager for Go.   ![star > 1000][Silver]   ![It hasn't been updated in the last year][Yellow]
 * [goop](https://github.com/nitrous-io/goop) **star:777** Simple dependency manager for Go (golang), inspired by Bundler.   ![star > 100][Bronze]   ![It hasn't been updated in the last year][Yellow]
 * [nut](https://github.com/jingweno/nut) **star:245** Vendor Go dependencies.   ![star > 100][Bronze]   ![It hasn't been updated in the last year][Yellow]
