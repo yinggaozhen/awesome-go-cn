@@ -8,7 +8,7 @@
 [CN]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Cn.svg "Contains Chinese documents"
 [Archived]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.2.1/docs/archived.svg "The project has been archived"
 
-**This project is [awesome-go](https://awesome-go.com/) Chinese version, last sync time : 2019-08-08 10:35:17(Synchronize every day)**
+**This project is [awesome-go](https://awesome-go.com/) Chinese version, last sync time : 2019-08-08 12:43:26(Synchronize every day)**
 
 [![english](https://yinggaozhen.github.io/docs/chinese.svg)](README.md) [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 
@@ -1700,7 +1700,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [panicparse](https://github.com/maruel/panicparse) **star:2144** Groups similar goroutines and colorizes stack dump.   ![star > 1000][Silver]
 * [hystrix-go](https://github.com/afex/hystrix-go) **star:2015** Implements Hystrix patterns of programmer-defined fallbacks aka circuit breaker.   ![star > 1000][Silver]
 * [resty](https://github.com/go-resty/resty) **star:1968** Simple HTTP and REST client for Go inspired by Ruby rest-client.   ![star > 1000][Silver]   ![There was an update last week][Green]
-* [Task](https://github.com/go-task/task) **star:1935** simple "Make" alternative.   ![star > 1000][Silver]   ![There was an update last week][Green]
+* [Task](https://github.com/go-task/task) **star:1935** simple "Make" alternative.   ![star > 1000][Silver]
 * [minify](https://github.com/tdewolff/minify) **star:1860** Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats.   ![star > 1000][Silver]
 * [mmake](https://github.com/tj/mmake) **star:1445** Modern Make.   ![star > 1000][Silver]
 * [Storm](https://github.com/asdine/storm) **star:1353** Simple and powerful toolkit for BoltDB.   ![star > 1000][Silver]   ![There was an update last week][Green]
@@ -1798,7 +1798,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [mimesniffer](https://github.com/aofei/mimesniffer) **star:7** A MIME type sniffer for Go.
 * [sslice](https://github.com/yaa110/sslice) **star:5** Create a slice which is always sorted.
 * [silk](https://github.com/chrispassas/silk) **star:4** Read silk netflow files.
-* [sliceconv](https://github.com/Henry-Sarabia/sliceconv) **star:3** Slice conversion between primitive types.   ![There was an update last week][Green]
+* [sliceconv](https://github.com/Henry-Sarabia/sliceconv) **star:3** Slice conversion between primitive types.
 * [go-problemdetails](https://github.com/mvmaasakkers/go-problemdetails) **star:3** Go package for working with Problem Details.
 * [slicer](https://github.com/leaanthony/slicer) **star:3** Makes working with slices easier.
 * [retry](https://github.com/percolate/retry) **star:2** A simple but highly configurable retry package for Go.
