@@ -1,13 +1,13 @@
 # Awesome Go
 
-[Awesome]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.4/docs/awesome.svg "awesome!"
+[Awesome]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.4.1/docs/awesome.svg "star > 2000"
 [Green]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Green.svg "There was an update last week"
 [Yellow]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Yellow.svg "It hasn't been updated in the last year"
 [CN]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Cn.svg "Contains Chinese documents"
 [Archived]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.2.1/docs/archived.svg "The project has been archived"
 [GoDoc]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.3.0/docs/DOC.svg "godoc document links"
 
-**This project is [awesome-go](https://awesome-go.com/) Chinese version, last sync time : 2019-09-17 11:53:44(Synchronize every day)**
+**This project is [awesome-go](https://awesome-go.com/) Chinese version, last sync time : 2019-09-17 18:03:42(Synchronize every day)**
 
 [![english](https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.3.0/docs/chinese.svg)](README.md) [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 
@@ -547,7 +547,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [torrent](https://github.com/anacrolix/torrent) **star:3043** BitTorrent client package.   [![star > 2000][Awesome]](https://github.com/anacrolix/torrent)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/anacrolix/torrent)
 * [raft](https://github.com/coreos/etcd/tree/master/raft)  Go implementation of the Raft consensus protocol, by CoreOS.
 * [raft](https://github.com/hashicorp/raft) **star:2923** Golang implementation of the Raft consensus protocol, by HashiCorp.   [![star > 2000][Awesome]](https://github.com/hashicorp/raft)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/hashicorp/raft)
-* [dragonboat](https://github.com/lni/dragonboat) **star:2619** A feature complete and high performance multi-group Raft library in Go.   [![star > 2000][Awesome]](https://github.com/lni/dragonboat)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/lni/dragonboat)   ![Contains Chinese documents][CN]
+* [dragonboat](https://github.com/lni/dragonboat) **star:2619** A feature complete and high performance multi-group Raft library in Go.   [![star > 2000][Awesome]](https://github.com/lni/dragonboat)   [![godoc][GoDoc]](https://godoc.org/github.com/lni/dragonboat)   ![Contains Chinese documents][CN]
 * [glow](https://github.com/chrislusf/glow) **star:2550** Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go.   [![star > 2000][Awesome]](https://github.com/chrislusf/glow)   [![godoc][GoDoc]](https://godoc.org/github.com/chrislusf/glow)
 * [gleam](https://github.com/chrislusf/gleam) **star:2146** Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed.   [![star > 2000][Awesome]](https://github.com/chrislusf/gleam)   [![godoc][GoDoc]](https://godoc.org/github.com/chrislusf/gleam)
 * [emitter-io](https://github.com/emitter-io/emitter) **star:2004** High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love.   [![star > 2000][Awesome]](https://github.com/emitter-io/emitter)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/emitter-io/emitter)
@@ -603,7 +603,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [tengo](https://github.com/d5/tengo) **star:1344** Bytecode compiled script language for Go.   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/d5/tengo)
 * [anko](https://github.com/mattn/anko) **star:936** Scriptable interpreter written in Go.   [![godoc][GoDoc]](https://godoc.org/github.com/mattn/anko)
 * [go-python](https://github.com/sbinet/go-python) **star:929** naive go bindings to the CPython C-API.   [![godoc][GoDoc]](https://godoc.org/github.com/sbinet/go-python)
-* [expr](https://github.com/antonmedv/expr) **star:764** an engine that can evaluate expressions.   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/antonmedv/expr)
+* [expr](https://github.com/antonmedv/expr) **star:764** an engine that can evaluate expressions.   [![godoc][GoDoc]](https://godoc.org/github.com/antonmedv/expr)
 * [go-php](https://github.com/deuill/go-php) **star:693** PHP bindings for Go.   [![godoc][GoDoc]](https://godoc.org/github.com/deuill/go-php)
 * [go-duktape](https://github.com/olebedev/go-duktape) **star:658** Duktape JavaScript engine bindings for Go.   [![godoc][GoDoc]](https://godoc.org/github.com/olebedev/go-duktape)
 * [golua](https://github.com/aarzilli/golua) **star:447** Go bindings for Lua C API.
@@ -1119,7 +1119,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 * [kcptun](https://github.com/xtaci/kcptun) **star:10808** Extremely simple & fast udp tunnel based on KCP protocol.   [![star > 2000][Awesome]](https://github.com/xtaci/kcptun)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/xtaci/kcptun)
 * [fasthttp](https://github.com/valyala/fasthttp) **star:9685** Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.   [![star > 2000][Awesome]](https://github.com/valyala/fasthttp)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/valyala/fasthttp)
-* [dns](https://github.com/miekg/dns) **star:3909** Go library for working with DNS.   [![star > 2000][Awesome]](https://github.com/miekg/dns)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/miekg/dns)
+* [dns](https://github.com/miekg/dns) **star:3909** Go library for working with DNS.   [![star > 2000][Awesome]](https://github.com/miekg/dns)   [![godoc][GoDoc]](https://godoc.org/github.com/miekg/dns)
 * [HTTPLab](https://github.com/gchaincl/httplab) **star:3433** HTTPLabs let you inspect HTTP requests and forge responses.   [![star > 2000][Awesome]](https://github.com/gchaincl/httplab)   [![godoc][GoDoc]](https://godoc.org/github.com/gchaincl/httplab)
 * [quic-go](https://github.com/lucas-clemente/quic-go) **star:3101** An implementation of the QUIC protocol in pure Go.   [![star > 2000][Awesome]](https://github.com/lucas-clemente/quic-go)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/lucas-clemente/quic-go)
 * [gopacket](https://github.com/google/gopacket) **star:2958** Go library for packet processing with libpcap bindings.   [![star > 2000][Awesome]](https://github.com/google/gopacket)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/google/gopacket)
@@ -1253,7 +1253,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ## Resource Embedding
 
 * [packr](https://github.com/gobuffalo/packr) **star:2237** The simple and easy way to embed static files into Go binaries.   [![star > 2000][Awesome]](https://github.com/gobuffalo/packr)   [![godoc][GoDoc]](https://godoc.org/github.com/gobuffalo/packr)
-* [statik](https://github.com/rakyll/statik) **star:2223** Embeds static files into a Go executable.   [![star > 2000][Awesome]](https://github.com/rakyll/statik)   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/rakyll/statik)
+* [statik](https://github.com/rakyll/statik) **star:2223** Embeds static files into a Go executable.   [![star > 2000][Awesome]](https://github.com/rakyll/statik)   [![godoc][GoDoc]](https://godoc.org/github.com/rakyll/statik)
 * [go.rice](https://github.com/GeertJohan/go.rice) **star:1705** go.rice is a Go package that makes working with resources such as html,js,css,images and templates very easy.   [![godoc][GoDoc]](https://godoc.org/github.com/GeertJohan/go.rice)
 * [vfsgen](https://github.com/shurcooL/vfsgen) **star:684** Generates a vfsdata.go file that statically implements the given virtual filesystem.   [![godoc][GoDoc]](https://godoc.org/github.com/shurcooL/vfsgen)
 * [esc](https://github.com/mjibson/esc) **star:482** Embeds files into Go programs and provides http.FileSystem interfaces to them.   [![godoc][GoDoc]](https://godoc.org/github.com/mjibson/esc)
@@ -1468,7 +1468,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [bluemonday](https://github.com/microcosm-cc/bluemonday) **star:1282** HTML Sanitizer.   [![godoc][GoDoc]](https://godoc.org/github.com/microcosm-cc/bluemonday)
     * [inject](https://github.com/facebookgo/inject) **star:1151** Package inject provides a reflect based injector.   [![godoc][GoDoc]](https://godoc.org/github.com/facebookgo/inject)   ![Archived][Archived]
     * [gofeed](https://github.com/mmcdole/gofeed) **star:1126** Parse RSS and Atom feeds in Go.   [![godoc][GoDoc]](https://godoc.org/github.com/mmcdole/gofeed)
-    * [go-toml](https://github.com/pelletier/go-toml) **star:625** Go library for the TOML format with query support and handy cli tools.   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/pelletier/go-toml)
+    * [go-toml](https://github.com/pelletier/go-toml) **star:625** Go library for the TOML format with query support and handy cli tools.   [![godoc][GoDoc]](https://godoc.org/github.com/pelletier/go-toml)
     * [commonregex](https://github.com/mingrammer/commonregex) **star:555** A collection of common regular expressions for Go.   [![godoc][GoDoc]](https://godoc.org/github.com/mingrammer/commonregex)
     * [slug](https://github.com/gosimple/slug) **star:394** URL-friendly slugify with multiple languages support.   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/gosimple/slug)
     * [mxj](https://github.com/clbanning/mxj) **star:338** Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.   [![godoc][GoDoc]](https://godoc.org/github.com/clbanning/mxj)
@@ -1591,7 +1591,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [filetype](https://github.com/h2non/filetype) **star:975** Small package to infer the file type checking the magic numbers signature.   [![godoc][GoDoc]](https://godoc.org/github.com/h2non/filetype)
 * [boilr](https://github.com/tmrts/boilr) **star:954** Blazingly fast CLI tool for creating projects from boilerplate templates.   ![It hasn't been updated in the last year][Yellow]   [![godoc][GoDoc]](https://godoc.org/github.com/tmrts/boilr)
 * [mergo](https://github.com/imdario/mergo) **star:878** Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements.   [![godoc][GoDoc]](https://godoc.org/github.com/imdario/mergo)
-* [spinner](https://github.com/briandowns/spinner) **star:821** Go package to easily provide a terminal spinner with options.   ![There was an update last week][Green]   [![godoc][GoDoc]](https://godoc.org/github.com/briandowns/spinner)
+* [spinner](https://github.com/briandowns/spinner) **star:821** Go package to easily provide a terminal spinner with options.   [![godoc][GoDoc]](https://godoc.org/github.com/briandowns/spinner)
 * [circuitbreaker](https://github.com/rubyist/circuitbreaker) **star:802** Circuit Breakers in Go.   [![godoc][GoDoc]](https://godoc.org/github.com/rubyist/circuitbreaker)
 * [git-time-metric](https://github.com/git-time-metric/gtm) **star:729** Simple, seamless, lightweight time tracking for Git.   [![godoc][GoDoc]](https://godoc.org/github.com/git-time-metric/gtm)
 * [jump](https://github.com/gsamokovarov/jump) **star:681** Jump helps you navigate faster by learning your habits.   [![godoc][GoDoc]](https://godoc.org/github.com/gsamokovarov/jump)
@@ -1864,7 +1864,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof)  This extension adds benchmark profiling support for the Go language to VS Code.
 * [GoSublime](https://github.com/DisposaBoy/GoSublime) **star:3251** Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features.   [![star > 2000][Awesome]](https://github.com/DisposaBoy/GoSublime)   [![godoc][GoDoc]](https://godoc.org/github.com/DisposaBoy/GoSublime)
 * [go-plus](https://github.com/joefitzgerald/go-plus) **star:1485** Go (Golang) Package For Atom That Adds Autocomplete, Formatting, Syntax Checking, Linting and Vetting.   ![There was an update last week][Green]
-* [go-mode](https://github.com/dominikh/go-mode.el) **star:975** Go mode for GNU/Emacs.   ![There was an update last week][Green]
+* [go-mode](https://github.com/dominikh/go-mode.el) **star:975** Go mode for GNU/Emacs.
 * [Watch](https://github.com/eaburns/Watch) **star:170** Runs a command in an acme win on file changes.   ![It hasn't been updated in the last year][Yellow]   [![godoc][GoDoc]](https://godoc.org/github.com/eaburns/Watch)
 * [vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go) **star:81** Vim plugin to highlight syntax errors on save.   ![It hasn't been updated in the last year][Yellow]
 * [Go plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/9568-go)  Go plugin for JetBrains IDEs.
