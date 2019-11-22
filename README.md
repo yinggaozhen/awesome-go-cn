@@ -6,7 +6,7 @@
 [CN]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.1/docs/Cn.svg "包含中文文档"
 [Archived]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.2.1/docs/archived.svg "项目已归档"
 [GoDoc]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.3.0/docs/DOC.svg "godoc文档地址"
-
+f
 **此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-11-22 10:01:10(每隔1天同步一次)**
 
 [![chinese](https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.3.0/docs/english.svg)](README_EN.md) [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
@@ -396,7 +396,7 @@
 * [null](https://github.com/emvi/null) **star:7** 对空的 Go 数据类型也可以进行JSON进行解析/反解析。   [![godoc][GoDoc]](https://godoc.org/github.com/emvi/null)
 * [set](https://github.com/StudioSol/set) **star:7** 使用LinkedHashMap在Go中实现简单的set数据结构。   [![godoc][GoDoc]](https://godoc.org/github.com/StudioSol/set)
 * [timedmap](https://github.com/zekroTJA/timedmap) **star:5** 实现了有生命周期的键值对Map。   [![godoc][GoDoc]](https://godoc.org/github.com/zekroTJA/timedmap)
-* [gofal](https://github.com/xxjwxc/gofal) **star:3** 部分api for Go。   [![godoc][GoDoc]](https://godoc.org/github.com/xxjwxc/gofal)   ![包含中文文档][CN]
+* [gofal](https://github.com/xxjwxc/gofal) **star:3** 分数运算api for Go。   [![godoc][GoDoc]](https://godoc.org/github.com/xxjwxc/gofal)   ![包含中文文档][CN]
 * [parsefields](https://github.com/MonaxGT/parsefields) **star:3** 用于解析类似json的日志的工具，用于收集惟一的字段和事件。   [![godoc][GoDoc]](https://godoc.org/github.com/MonaxGT/parsefields)
 * [ptrie](https://github.com/viant/ptrie) **star:2** 前缀树的一种实现。   [![godoc][GoDoc]](https://godoc.org/github.com/viant/ptrie)
 
@@ -821,7 +821,7 @@
 * [worker-pool](https://github.com/vardius/worker-pool) **star:49** 一个简单的 Go 异步工作池。   [![godoc][GoDoc]](https://godoc.org/github.com/vardius/worker-pool)
 * [breaker](https://github.com/kamilsk/breaker) **star:44** 灵活的机制，可以使执行流可中断。   [![godoc][GoDoc]](https://godoc.org/github.com/kamilsk/breaker)
 * [cyclicbarrier](https://github.com/marusama/cyclicbarrier) **star:42** 基于 Go 的 CyclicBarrier 实现。   ![最近一年没有更新][Yellow]   [![godoc][GoDoc]](https://godoc.org/github.com/marusama/cyclicbarrier)
-* [gowp](https://github.com/xxjwxc/gowp) **star:39** gowp是并发性限制goroutine池。   [![godoc][GoDoc]](https://godoc.org/github.com/xxjwxc/gowp)   ![包含中文文档][CN]
+* [gowp](https://github.com/xxjwxc/gowp) **star:39** gowp是高并发性限制异步工作池。   [![godoc][GoDoc]](https://godoc.org/github.com/xxjwxc/gowp)   ![包含中文文档][CN]
 * [gollback](https://github.com/vardius/gollback) **star:29** 异步简单的函数实用程序，用于管理闭包和回调的执行。   [![godoc][GoDoc]](https://godoc.org/github.com/vardius/gollback)
 * [parallel-fn](https://github.com/rafaeljesus/parallel-fn) **star:26** 并行运行函数。   ![最近一年没有更新][Yellow]   [![godoc][GoDoc]](https://godoc.org/github.com/rafaeljesus/parallel-fn)
 * [async](https://github.com/studiosol/async) **star:25** 一种异步执行函数的安全方法，在出现 panic 时恢复它们。   [![godoc][GoDoc]](https://godoc.org/github.com/studiosol/async)
