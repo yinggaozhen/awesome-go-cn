@@ -7,7 +7,7 @@
 [Archived]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.2.1/docs/archived.svg "项目已归档"
 [GoDoc]: https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.3.0/docs/DOC.svg "godoc文档地址"
 
-**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-12-03 10:14:55(每隔1天同步一次)**
+**此项目是 [awesome-go](https://awesome-go.com/) 中文版，最后一次同步时间 : 2019-12-04 10:16:47(每隔1天同步一次)**
 
 [![chinese](https://cdn.jsdelivr.net/gh/yinggaozhen/awesome-go-cn@1.3.0/docs/english.svg)](README_EN.md) [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 
@@ -134,9 +134,9 @@
 
 *用于操作音频的库。 (翻译出错了? 试试 [英文版](README_EN.md#audio-and-music) 吧~)*
 
+* [Oto](https://github.com/hajimehoshi/oto) **star:482** 多平台的 low-level 声音播放库。   [![godoc][GoDoc]](https://godoc.org/github.com/hajimehoshi/oto)
 * [PortAudio](https://github.com/gordonklaus/portaudio) **star:320** 基于 Go 的PortAudio audio I/O库。   [![最近一年没有更新][Yellow]](https://github.com/gordonklaus/portaudio)   [![godoc][GoDoc]](https://godoc.org/github.com/gordonklaus/portaudio)
-* [Oto](https://github.com/hajimehoshi/oto)  多平台的 low-level 声音播放库。
-* [music-theory](https://github.com/go-music-theory/music-theory) **star:268** 基于 Go 的音乐理论模型。   [![godoc][GoDoc]](https://godoc.org/github.com/go-music-theory/music-theory)
+* [music-theory](https://github.com/go-music-theory/music-theory) **star:269** 基于 Go 的音乐理论模型。   [![godoc][GoDoc]](https://godoc.org/github.com/go-music-theory/music-theory)
 * [waveform](https://github.com/mdlayher/waveform) **star:262** 通过音频流生成波形图像的包。   [![最近一年没有更新][Yellow]](https://github.com/mdlayher/waveform)   [![godoc][GoDoc]](https://godoc.org/github.com/mdlayher/waveform)
 * [portmidi](https://github.com/rakyll/portmidi) **star:216** PortMidi的 Go 语言实现接口.   [![godoc][GoDoc]](https://godoc.org/github.com/rakyll/portmidi)
 * [id3v2](https://github.com/bogem/id3v2) **star:125** 快速稳定的 ID3 解析及写入Go库。   [![godoc][GoDoc]](https://godoc.org/github.com/bogem/id3v2)
@@ -163,6 +163,7 @@
 * [goth](https://github.com/markbates/goth) **star:2416** 提供了 OAuth 和 OAuth2 的简单清晰易用的方法。可开箱即用处理多个提供程序。   [![star > 2000][Awesome]](https://github.com/markbates/goth)   [![最近一周有更新][Green]](https://github.com/markbates/goth)   [![godoc][GoDoc]](https://godoc.org/github.com/markbates/goth)
 * [authboss](https://github.com/volatiletech/authboss) **star:2041** web模块化认证系统。它试图删除尽可能多的模板文件和硬编码，以便每次新建一个新的web项目时，您都可以插入、配置并开始构建您的应用程序，而不必每次都构建一个身份验证系统。   [![star > 2000][Awesome]](https://github.com/volatiletech/authboss)   [![最近一周有更新][Green]](https://github.com/volatiletech/authboss)   [![godoc][GoDoc]](https://godoc.org/github.com/volatiletech/authboss)
 * [osin](https://github.com/openshift/osin) **star:1566** OAuth2服务器库。   [![godoc][GoDoc]](https://godoc.org/github.com/openshift/osin)
+* [go-jose](https://github.com/square/go-jose) **star:1401** 相当完整地实现了JOSE工作组的JSON Web令牌、JSON Web签名和JSON Web加密规范。   [![godoc][GoDoc]](https://godoc.org/github.com/square/go-jose)
 * [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) **star:1383** 用 Golang 编写的独立且符合规范的OAuth2服务器。   [![godoc][GoDoc]](https://godoc.org/github.com/RichardKnop/go-oauth2-server)
 * [gologin](https://github.com/dghubble/gologin) **star:1121** 用于使用OAuth1和OAuth2身份验证提供者登录的可链处理程序。   [![godoc][GoDoc]](https://godoc.org/github.com/dghubble/gologin)
 * [gorbac](https://github.com/mikespook/gorbac) **star:959** 轻量级的基于角色的访问控制(RBAC)实现。   [![godoc][GoDoc]](https://godoc.org/github.com/mikespook/gorbac)
@@ -186,7 +187,6 @@
 * [signedvalue](https://github.com/sashka/signedvalue) **star:8** 与[Tornado's](https://github.com/tornadooweb/tornado) 完全兼容的签名和时间戳字符串实现。   [![godoc][GoDoc]](https://godoc.org/github.com/sashka/signedvalue)
 * [scope](https://github.com/SonicRoshan/scope) **star:2** 在Go中轻松管理OAuth2范围。   [![godoc][GoDoc]](https://godoc.org/github.com/SonicRoshan/scope)
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) **star:2** 提供cookie .txt文件格式的解析器。   [![最近一年没有更新][Yellow]](https://github.com/mengzhuo/cookiestxt)   [![godoc][GoDoc]](https://godoc.org/github.com/mengzhuo/cookiestxt)
-* [go-jose](https://github.com/square/go-jose)  相当完整地实现了JOSE工作组的JSON Web令牌、JSON Web签名和JSON Web加密规范。
 
 ## Bot建设
 
@@ -262,14 +262,14 @@
 * [termui](https://github.com/gizak/termui) **star:9308** 此库是基于**termbox-go**实现的，借鉴于[blessed-contrib](https://github.com/yaronn/blessed-contrib)。   [![star > 2000][Awesome]](https://github.com/gizak/termui)   [![godoc][GoDoc]](https://godoc.org/github.com/gizak/termui)
 * [gommon/color](https://github.com/labstack/gommon/tree/master/color)  更换终端文本样式。
 * [gocui](https://github.com/jroimartin/gocui) **star:5731** 旨在创建控制台用户界面的极简Go库。   [![star > 2000][Awesome]](https://github.com/jroimartin/gocui)   [![godoc][GoDoc]](https://godoc.org/github.com/jroimartin/gocui)
-* [termbox-go](https://github.com/nsf/termbox-go) **star:3593** 基于文本的跨平台接口库。   [![star > 2000][Awesome]](https://github.com/nsf/termbox-go)   [![godoc][GoDoc]](https://godoc.org/github.com/nsf/termbox-go)
+* [termbox-go](https://github.com/nsf/termbox-go) **star:3598** 基于文本的跨平台接口库。   [![star > 2000][Awesome]](https://github.com/nsf/termbox-go)   [![godoc][GoDoc]](https://godoc.org/github.com/nsf/termbox-go)
 * [go-prompt](https://github.com/c-bata/go-prompt) **star:2679** 构建一个强大的交互式提示，借鉴于[python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)   [![star > 2000][Awesome]](https://github.com/c-bata/go-prompt)   [![最近一周有更新][Green]](https://github.com/c-bata/go-prompt)   [![godoc][GoDoc]](https://godoc.org/github.com/c-bata/go-prompt)
 * [uiprogress](https://github.com/gosuri/uiprogress) **star:1597** 在终端呈现进度条，可灵活配置的。   [![godoc][GoDoc]](https://godoc.org/github.com/gosuri/uiprogress)
 * [asciigraph](https://github.com/guptarohit/asciigraph) **star:1224** 在命令行中构建轻量级ASCII线图╭┈╯，应用程序中没有其他依赖项。   [![godoc][GoDoc]](https://godoc.org/github.com/guptarohit/asciigraph)
 * [uilive](https://github.com/gosuri/uilive) **star:1030** 用于实时更新终端输出的库。   [![godoc][GoDoc]](https://godoc.org/github.com/gosuri/uilive)
 * [termdash](https://github.com/mum4k/termdash) **star:893** 此库是基于**termbox-go**实现的，借鉴于[termui](https://github.com/gizak/termui)。   [![godoc][GoDoc]](https://godoc.org/github.com/mum4k/termdash)
+* [progressbar](https://github.com/schollz/progressbar) **star:811** 基本线程安全的进度条，在每个操作系统工作。   [![godoc][GoDoc]](https://godoc.org/github.com/schollz/progressbar)
 * [mpb](https://github.com/vbauerster/mpb) **star:785** 可在终端显示多进度条。   [![最近一周有更新][Green]](https://github.com/vbauerster/mpb)   [![godoc][GoDoc]](https://godoc.org/github.com/vbauerster/mpb)
-* [progressbar](https://github.com/schollz/progressbar)  基本线程安全的进度条，在每个操作系统工作。
 * [aurora](https://github.com/logrusorgru/aurora) **star:728** 支持fmt.Printf/Sprintf的ANSI终端颜色。   [![godoc][GoDoc]](https://godoc.org/github.com/logrusorgru/aurora)
 * [uitable](https://github.com/gosuri/uitable) **star:525** 改善终端应用程序中表格数据的可读性。   [![godoc][GoDoc]](https://godoc.org/github.com/gosuri/uitable)
 * [go-colorable](https://github.com/mattn/go-colorable) **star:397** 适用于windows的颜色编写器。   [![godoc][GoDoc]](https://godoc.org/github.com/mattn/go-colorable)
@@ -305,14 +305,14 @@
 * [gcfg](https://github.com/go-gcfg/gcfg) **star:120** 将ini的配置文件读入 Go structs中;支持用户定义的类型和子选项。   [![godoc][GoDoc]](https://godoc.org/github.com/go-gcfg/gcfg)
 * [goConfig](https://github.com/crgimenes/goConfig) **star:118** 将结构体解析为输入，并用来自命令行、环境变量和配置文件的参数填充该结构体的字段。   [![godoc][GoDoc]](https://godoc.org/github.com/crgimenes/goConfig)
 * [gookit/config](https://github.com/gookit/config) **star:113** 程序配置管理(load,get,set)。支持JSON, YAML, TOML, INI, HCL。支持多文件加载，数据覆盖合并。   [![godoc][GoDoc]](https://godoc.org/github.com/gookit/config)   [![包含中文文档][CN]](https://github.com/gookit/config)
-* [koanf](https://github.com/knadh/koanf) **star:110** 轻量级可扩展库，用于读取Go应用程序中的配置。内置支持JSON, TOML, YAML, env，命令行。   [![最近一周有更新][Green]](https://github.com/knadh/koanf)   [![godoc][GoDoc]](https://godoc.org/github.com/knadh/koanf)
+* [koanf](https://github.com/knadh/koanf) **star:110** 轻量级可扩展库，用于读取Go应用程序中的配置。内置支持JSON, TOML, YAML, env，命令行。   [![godoc][GoDoc]](https://godoc.org/github.com/knadh/koanf)
 * [envh](https://github.com/antham/envh) **star:92** 协助管理环境变量的Helpers。   [![godoc][GoDoc]](https://godoc.org/github.com/antham/envh)
 * [envcfg](https://github.com/tomazk/envcfg) **star:90** 对环境变量进行解析，并赋值到struct。   [![最近一年没有更新][Yellow]](https://github.com/tomazk/envcfg)   [![godoc][GoDoc]](https://godoc.org/github.com/tomazk/envcfg)
 * [gofigure](https://github.com/ian-kent/gofigure) **star:58** 让程序配置变得简单。   [![godoc][GoDoc]](https://godoc.org/github.com/ian-kent/gofigure)
 * [gone/jconf](https://github.com/One-com/gone/tree/master/jconf)  模块化的JSON配置。保持配置结构及其配置的代码，并将解析委托给子模块，而不牺牲配置的完整序列化。
 * [configure](https://github.com/paked/configure) **star:50** 通过多个源提供配置，包括JSON、flags和环境变量。   [![godoc][GoDoc]](https://godoc.org/github.com/paked/configure)
 * [harvester](https://github.com/beatlabs/harvester) **star:45** 一个易于使用的静态和动态配置包   [![godoc][GoDoc]](https://godoc.org/github.com/beatlabs/harvester)
-* [xdg](https://github.com/OpenPeeDeeP/xdg) **star:42** 遵循[XDG标准](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html)的跨平台包。   [![最近一周有更新][Green]](https://github.com/OpenPeeDeeP/xdg)   [![godoc][GoDoc]](https://godoc.org/github.com/OpenPeeDeeP/xdg)
+* [xdg](https://github.com/OpenPeeDeeP/xdg) **star:42** 遵循[XDG标准](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html)的跨平台包。   [![godoc][GoDoc]](https://godoc.org/github.com/OpenPeeDeeP/xdg)
 * [config](https://github.com/golobby/config) **star:34** 一个轻量级但功能强大的配置包，用于Go项目。   [![godoc][GoDoc]](https://godoc.org/github.com/golobby/config)
 * [ingo](https://github.com/schachmat/ingo) **star:26** flag保存在类ini的配置文件中。   [![最近一年没有更新][Yellow]](https://github.com/schachmat/ingo)   [![godoc][GoDoc]](https://godoc.org/github.com/schachmat/ingo)
 * [go-up](https://github.com/ufoscout/go-up) **star:26** 一个简单的配置库，具有递归占位符解析功能。   [![godoc][GoDoc]](https://godoc.org/github.com/ufoscout/go-up)
@@ -407,6 +407,7 @@
 *数据库。 (翻译出错了? 试试 [英文版](README_EN.md#database) 吧~)*
 
 * [prometheus](https://github.com/prometheus/prometheus) **star:27902** 用于监控系统和时序的数据库。   [![star > 2000][Awesome]](https://github.com/prometheus/prometheus)   [![最近一周有更新][Green]](https://github.com/prometheus/prometheus)   [![godoc][GoDoc]](https://godoc.org/github.com/prometheus/prometheus)
+* [tidb](https://github.com/pingcap/tidb) **star:21666** TiDB是一个分布式SQL数据库。灵感来自谷歌F1的设计。   [![star > 2000][Awesome]](https://github.com/pingcap/tidb)   [![最近一周有更新][Green]](https://github.com/pingcap/tidb)   [![godoc][GoDoc]](https://godoc.org/github.com/pingcap/tidb)   [![包含中文文档][CN]](https://github.com/pingcap/tidb)
 * [influxdb](https://github.com/influxdb/influxdb) **star:17882** 可伸缩的数据存储，用于指标衡量、事件和实时分析。   [![star > 2000][Awesome]](https://github.com/influxdb/influxdb)   [![最近一周有更新][Green]](https://github.com/influxdb/influxdb)   [![godoc][GoDoc]](https://godoc.org/github.com/influxdb/influxdb)
 * [cockroach](https://github.com/cockroachdb/cockroach) **star:17424** 可伸缩、区域备份、事务性数据存储。   [![star > 2000][Awesome]](https://github.com/cockroachdb/cockroach)   [![最近一周有更新][Green]](https://github.com/cockroachdb/cockroach)   [![godoc][GoDoc]](https://godoc.org/github.com/cockroachdb/cockroach)
 * [dgraph](https://github.com/dgraph-io/dgraph) **star:11843** 可伸缩、分布式、低延迟、高吞吐量的图形数据库。   [![star > 2000][Awesome]](https://github.com/dgraph-io/dgraph)   [![最近一周有更新][Green]](https://github.com/dgraph-io/dgraph)   [![godoc][GoDoc]](https://godoc.org/github.com/dgraph-io/dgraph)
@@ -441,9 +442,8 @@
 * [bcache](https://github.com/iwanbk/bcache) **star:37** 基于内存的最终一致的分布式缓存。   [![godoc][GoDoc]](https://godoc.org/github.com/iwanbk/bcache)
 * [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) **star:31** BigCache 支持集群和独立且生命周期存储项。   [![最近一年没有更新][Yellow]](https://github.com/oaStuff/clusteredBigCache)   [![godoc][GoDoc]](https://godoc.org/github.com/oaStuff/clusteredBigCache)
 * [cache](https://github.com/akyoto/cache) **star:26** 基于内存的 K/V 存储:带生命周期的值存储，0个依赖项，<100 LoC, 100%覆盖率。   [![godoc][GoDoc]](https://godoc.org/github.com/akyoto/cache)
-* [Coffer](https://github.com/claygod/coffer) **star:13** 支持事务的简单ACID键值数据库。   [![godoc][GoDoc]](https://godoc.org/github.com/claygod/coffer)
 * [tempdb](https://github.com/rafaeljesus/tempdb) **star:13** 用于临时数据存放的 K/V 存储。   [![最近一年没有更新][Yellow]](https://github.com/rafaeljesus/tempdb)   [![godoc][GoDoc]](https://godoc.org/github.com/rafaeljesus/tempdb)
-* [tidb](https://github.com/pingcap/tidb)  TiDB是一个分布式SQL数据库。灵感来自谷歌F1的设计。
+* [Coffer](https://github.com/claygod/coffer) **star:13** 支持事务的简单ACID键值数据库。   [![godoc][GoDoc]](https://godoc.org/github.com/claygod/coffer)
 * [gorocksdb](https://github.com/kapitan-k/gorocksdb) **star:10** 用 Go 对[RocksDB](https://rocksdb.org)实现了封装。   [![最近一年没有更新][Yellow]](https://github.com/kapitan-k/gorocksdb)   [![godoc][GoDoc]](https://godoc.org/github.com/kapitan-k/gorocksdb)
 
 *数据库迁移。 (翻译出错了? 试试 [英文版](README_EN.md#database) 吧~)*
@@ -484,7 +484,7 @@
 
 *SQL查询生成器，用于构建和使用SQL的库。 (翻译出错了? 试试 [英文版](README_EN.md#database) 吧~)*
 
-* [Squirrel](https://github.com/Masterminds/squirrel) **star:2555** 帮助您构建SQL查询的Go库。   [![star > 2000][Awesome]](https://github.com/Masterminds/squirrel)   [![godoc][GoDoc]](https://godoc.org/github.com/Masterminds/squirrel)
+* [Squirrel](https://github.com/Masterminds/squirrel) **star:2558** 帮助您构建SQL查询的Go库。   [![star > 2000][Awesome]](https://github.com/Masterminds/squirrel)   [![godoc][GoDoc]](https://godoc.org/github.com/Masterminds/squirrel)
 * [xo](https://github.com/knq/xo) **star:2303** 基于现有的schema定义和自定义查询生成 Go 代码，基于支持PostgreSQL、MySQL、SQLite、Oracle和Microsoft SQL Server。   [![star > 2000][Awesome]](https://github.com/knq/xo)   [![godoc][GoDoc]](https://godoc.org/github.com/knq/xo)
 * [gendry](https://github.com/didi/gendry) **star:908** 非入侵的SQL构建器和强大的数据绑定器。   [![godoc][GoDoc]](https://godoc.org/github.com/didi/gendry)   [![包含中文文档][CN]](https://github.com/didi/gendry)
 * [goqu](https://github.com/doug-martin/goqu) **star:699** 常用的SQL生成器和查询库。   [![最近一周有更新][Green]](https://github.com/doug-martin/goqu)   [![godoc][GoDoc]](https://godoc.org/github.com/doug-martin/goqu)
@@ -535,9 +535,9 @@
     * [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) **star:73** Neo4j REST 客户端。   [![最近一年没有更新][Yellow]](https://github.com/davemeehan/Neo4j-GO)   [![godoc][GoDoc]](https://godoc.org/github.com/davemeehan/Neo4j-GO)
     * [godis](https://github.com/piaohao/godis) **star:67** 由GoLang实现的redis客户端，灵感来自jedis。   [![godoc][GoDoc]](https://godoc.org/github.com/piaohao/godis)
     * [arangolite](https://github.com/solher/arangolite) **star:66** 轻量级的 ArangoDB 驱动。   [![godoc][GoDoc]](https://godoc.org/github.com/solher/arangolite)
-    * [forestdb](https://github.com/couchbase/goforestdb)  基于 Go 的 ForestDB 接口实现。
     * [dynago](https://github.com/underarmour/dynago) **star:66** 满足 principle of least surprise 的 DynamoDB 客户端。   [![最近一年没有更新][Yellow]](https://github.com/underarmour/dynago)   [![godoc][GoDoc]](https://godoc.org/github.com/underarmour/dynago)
     * [go-pilosa](https://github.com/pilosa/go-pilosa) **star:33**  Pilosa客户端。   [![最近一周有更新][Green]](https://github.com/pilosa/go-pilosa)   [![godoc][GoDoc]](https://godoc.org/github.com/pilosa/go-pilosa)
+    * [forestdb](https://github.com/couchbase/goforestdb) **star:28** 基于 Go 的 ForestDB 接口实现。   [![最近一年没有更新][Yellow]](https://github.com/couchbase/goforestdb)   [![godoc][GoDoc]](https://godoc.org/github.com/couchbase/goforestdb)
     * [goriak](https://github.com/zegl/goriak) **star:24**  Riak KV 驱动。   [![godoc][GoDoc]](https://godoc.org/github.com/zegl/goriak)
     * [neo4j](https://github.com/cihangir/neo4j) **star:24** Neo4j Rest API实现。   [![最近一年没有更新][Yellow]](https://github.com/cihangir/neo4j)   [![godoc][GoDoc]](https://godoc.org/github.com/cihangir/neo4j)
     * [xredis](https://github.com/shomali11/xredis) **star:9** 类型安全，可定制，清晰和易用的Redis客户端。   [![godoc][GoDoc]](https://godoc.org/github.com/shomali11/xredis)
@@ -546,7 +546,7 @@
     * [asc](https://github.com/viant/asc) **star:4** Aerospike 的数据存储连接器。   [![godoc][GoDoc]](https://godoc.org/github.com/viant/asc)
 
 * Search and Analytic Databases.
-    * [bleve](https://github.com/blevesearch/bleve) **star:6138** 基于 Go 的现代文本索引库。   [![star > 2000][Awesome]](https://github.com/blevesearch/bleve)   [![最近一周有更新][Green]](https://github.com/blevesearch/bleve)   [![godoc][GoDoc]](https://godoc.org/github.com/blevesearch/bleve)
+    * [bleve](https://github.com/blevesearch/bleve) **star:6138** 基于 Go 的现代文本索引库。   [![star > 2000][Awesome]](https://github.com/blevesearch/bleve)   [![godoc][GoDoc]](https://godoc.org/github.com/blevesearch/bleve)
     * [riot](https://github.com/go-ego/riot) **star:4926** 基于 Go 的 开源、分布式、简单高效的搜索引擎。   [![star > 2000][Awesome]](https://github.com/go-ego/riot)   [![最近一周有更新][Green]](https://github.com/go-ego/riot)   [![godoc][GoDoc]](https://godoc.org/github.com/go-ego/riot)   [![包含中文文档][CN]](https://github.com/go-ego/riot)
     * [elastic](https://github.com/olivere/elastic) **star:4550** Elasticsearch 客户端。   [![star > 2000][Awesome]](https://github.com/olivere/elastic)   [![最近一周有更新][Green]](https://github.com/olivere/elastic)   [![godoc][GoDoc]](https://godoc.org/github.com/olivere/elastic)
     * [go-elasticsearch](https://github.com/elastic/go-elasticsearch) **star:1981** 官方 Elasticsearch 客户端。   [![最近一周有更新][Green]](https://github.com/elastic/go-elasticsearch)   [![godoc][GoDoc]](https://godoc.org/github.com/elastic/go-elasticsearch)
@@ -618,7 +618,7 @@
 * [jsonrpc](https://github.com/ybbus/jsonrpc) **star:109** JSON-RPC 2.0 HTTP客户端。   [![最近一周有更新][Green]](https://github.com/ybbus/jsonrpc)   [![godoc][GoDoc]](https://godoc.org/github.com/ybbus/jsonrpc)
 * [resgate](https://resgate.io/)  用于构建REST、实时和RPC API的实时API网关，其中所有客户端都是无缝同步的。
 * [redis-lock](https://github.com/bsm/redislock) **star:69** 基于redis的分布式锁简易实现。   [![godoc][GoDoc]](https://godoc.org/github.com/bsm/redislock)
-* [celeriac](https://github.com/svcavallar/celeriac.v1) **star:58** 用于对 Celery worker、任务、事件进行交互和监控的库。   [![godoc][GoDoc]](https://godoc.org/github.com/svcavallar/celeriac.v1)
+* [celeriac](https://github.com/svcavallar/celeriac.v1) **star:58** 用于对 Celery worker、任务、事件进行交互和监控的库。   [![最近一年没有更新][Yellow]](https://github.com/svcavallar/celeriac.v1)   [![godoc][GoDoc]](https://godoc.org/github.com/svcavallar/celeriac.v1)
 * [doublejump](https://github.com/edwingeng/doublejump) **star:46** 实现了谷歌的jump consistent hash。   [![godoc][GoDoc]](https://godoc.org/github.com/edwingeng/doublejump)
 * [dynamolock](https://cirello.io/dynamolock)  DynamoDB-backed 分布式锁定实现。
 * [drmaa](https://github.com/dgruber/drmaa) **star:28** 符合 DRMAA 标准的集群调度程序作业提交库。   [![最近一年没有更新][Yellow]](https://github.com/dgruber/drmaa)   [![godoc][GoDoc]](https://godoc.org/github.com/dgruber/drmaa)
@@ -675,13 +675,13 @@
 
 * [errors](https://github.com/pkg/errors) **star:5305** 可让你很简单的进行错误处理。   [![star > 2000][Awesome]](https://github.com/pkg/errors)   [![godoc][GoDoc]](https://godoc.org/github.com/pkg/errors)
 * [go-multierror](https://github.com/hashicorp/go-multierror) **star:784** 可将一系列的错误作为一个整体来显示。   [![godoc][GoDoc]](https://godoc.org/github.com/hashicorp/go-multierror)
+* [errorx](https://github.com/joomcode/errorx) **star:596** 一个功能丰富的错误包，可进行堆栈跟踪、组装异常信息以及其他。   [![godoc][GoDoc]](https://godoc.org/github.com/joomcode/errorx)
 * [tracerr](https://github.com/ztrue/tracerr) **star:526** 可展示错误的堆栈跟踪信息和源码片段。   [![godoc][GoDoc]](https://godoc.org/github.com/ztrue/tracerr)
 * [errlog](https://github.com/snwfdhmp/errlog) **star:203** 用于定位抛出错误的源代码(以及一些其他快速调试特性)。可插入到任何 logger 的位置。   [![godoc][GoDoc]](https://godoc.org/github.com/snwfdhmp/errlog)
 * [emperror](https://github.com/emperror/emperror) **star:87** 用于Go库和应用程序的错误处理工具和最佳实践。   [![godoc][GoDoc]](https://godoc.org/github.com/emperror/emperror)
 * [errors](https://github.com/emperror/errors) **star:31** 替换标准库错误包和github.com/pkg/errors。提供各种错误处理原语。   [![godoc][GoDoc]](https://godoc.org/github.com/emperror/errors)
 * [werr](https://github.com/txgruppi/werr) **star:12** 对错误异常进行了捕获封装，封装信息包含了调用它的文件、行和堆栈。   [![最近一年没有更新][Yellow]](https://github.com/txgruppi/werr)   [![godoc][GoDoc]](https://godoc.org/github.com/txgruppi/werr)
 * [errors](https://github.com/neuronlabs/errors) **star:3** 使用分类原语进行简单的golang错误处理。   [![godoc][GoDoc]](https://godoc.org/github.com/neuronlabs/errors)
-* [errorx](https://github.com/joomcode/errorx)  一个功能丰富的错误包，可进行堆栈跟踪、组装异常信息以及其他。
 * [Falcon](https://github.com/SonicRoshan/falcon) **star:2** 一个简单但功能强大的错误处理包。   [![godoc][GoDoc]](https://godoc.org/github.com/SonicRoshan/falcon)
 
 ## 文件
@@ -773,13 +773,13 @@
 *增强语言的工具，例如通过代码生成支持泛型。 (翻译出错了? 试试 [英文版](README_EN.md#generation-and-generics) 吧~)*
 
 * [go-linq](https://github.com/ahmetalpbalkan/go-linq) **star:1890** 提供类似 .NET LINQ 的查询方法。   [![godoc][GoDoc]](https://godoc.org/github.com/ahmetalpbalkan/go-linq)
-* [jennifer](https://github.com/dave/jennifer) **star:1387** 不使用模板生成任意 Go 代码。   [![最近一周有更新][Green]](https://github.com/dave/jennifer)   [![godoc][GoDoc]](https://godoc.org/github.com/dave/jennifer)
+* [jennifer](https://github.com/dave/jennifer) **star:1387** 不使用模板生成任意 Go 代码。   [![godoc][GoDoc]](https://godoc.org/github.com/dave/jennifer)
 * [gen](https://github.com/clipperhouse/gen) **star:1057** 用于生成泛型等类似方法的功能代码生成工具。   [![最近一年没有更新][Yellow]](https://github.com/clipperhouse/gen)   [![godoc][GoDoc]](https://godoc.org/github.com/clipperhouse/gen)
 * [goderive](https://github.com/awalterschulze/goderive) **star:767** 从输入类型来派生函数。   [![godoc][GoDoc]](https://godoc.org/github.com/awalterschulze/goderive)
 * [GoWrap](https://github.com/hexdigest/gowrap) **star:301** 使用简单模板为 Go 接口生成装饰器。   [![godoc][GoDoc]](https://godoc.org/github.com/hexdigest/gowrap)
 * [interfaces](https://github.com/rjeczalik/interfaces) **star:198** 用于生成接口定义的命令行工具。   [![godoc][GoDoc]](https://godoc.org/github.com/rjeczalik/interfaces)
 * [pkgreflect](https://github.com/ungerik/pkgreflect) **star:90** 用于包作用域反射的 Go 预处理器。   [![最近一年没有更新][Yellow]](https://github.com/ungerik/pkgreflect)   [![godoc][GoDoc]](https://godoc.org/github.com/ungerik/pkgreflect)
-* [go-enum](https://github.com/abice/go-enum) **star:89** 从代码注释中生成枚举。   [![最近一周有更新][Green]](https://github.com/abice/go-enum)   [![godoc][GoDoc]](https://godoc.org/github.com/abice/go-enum)
+* [go-enum](https://github.com/abice/go-enum) **star:89** 从代码注释中生成枚举。   [![godoc][GoDoc]](https://godoc.org/github.com/abice/go-enum)
 * [efaceconv](https://github.com/t0pep0/efaceconv) **star:44** 代码生成工具，可以不通过内存分配就可以高效的将interface{}转换为不可变类型，。   [![最近一年没有更新][Yellow]](https://github.com/t0pep0/efaceconv)   [![godoc][GoDoc]](https://godoc.org/github.com/t0pep0/efaceconv)
 * [gotype](https://github.com/wzshiming/gotype) **star:25** Golang 源码解析，用法类似reflect(反射)。   [![godoc][GoDoc]](https://godoc.org/github.com/wzshiming/gotype)   [![包含中文文档][CN]](https://github.com/wzshiming/gotype)
 * [generis](https://github.com/senselogic/GENERIS) **star:20** 提供泛型、free-form 宏、条件编译和HTML模板的代码生成工具。
@@ -864,7 +864,7 @@
 
 *交互 (翻译出错了? 试试 [英文版](README_EN.md#gui) 吧~)*
 
-* [robotgo](https://github.com/go-vgo/robotgo) **star:4697** 实现跨平台的GUI系统自动化。包含了控制鼠标、键盘等功能。   [![star > 2000][Awesome]](https://github.com/go-vgo/robotgo)   [![最近一周有更新][Green]](https://github.com/go-vgo/robotgo)
+* [robotgo](https://github.com/go-vgo/robotgo) **star:4700** 实现跨平台的GUI系统自动化。包含了控制鼠标、键盘等功能。   [![star > 2000][Awesome]](https://github.com/go-vgo/robotgo)   [![最近一周有更新][Green]](https://github.com/go-vgo/robotgo)
 * [systray](https://github.com/getlantern/systray) **star:887** 跨平台 Go 库，可在通知区放置图标和菜单。   [![最近一周有更新][Green]](https://github.com/getlantern/systray)   [![godoc][GoDoc]](https://godoc.org/github.com/getlantern/systray)
 * [gosx-notifier](https://github.com/deckarep/gosx-notifier) **star:497** OSX 桌面通知库。   [![godoc][GoDoc]](https://godoc.org/github.com/deckarep/gosx-notifier)
 * [trayhost](https://github.com/shurcooL/trayhost) **star:164** 跨平台 Go 库，可用于在主机操作系统的任务栏中放置图标。   [![godoc][GoDoc]](https://godoc.org/github.com/shurcooL/trayhost)
@@ -905,7 +905,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [image2ascii](https://github.com/qeesung/image2ascii) **star:333** 将图像转换为ASCII码。   [![最近一年没有更新][Yellow]](https://github.com/qeesung/image2ascii)   [![godoc][GoDoc]](https://godoc.org/github.com/qeesung/image2ascii)
 * [govatar](https://github.com/o1egl/govatar) **star:327** 生成有趣头像的库和CMD工具。   [![godoc][GoDoc]](https://godoc.org/github.com/o1egl/govatar)
 * [go-nude](https://github.com/koyachi/go-nude) **star:292** Go语言实现的裸照检测工具。   [![最近一年没有更新][Yellow]](https://github.com/koyachi/go-nude)   [![godoc][GoDoc]](https://godoc.org/github.com/koyachi/go-nude)
-* [goimagehash](https://github.com/corona10/goimagehash) **star:247**  图像哈希处理的Go语言包。   [![最近一周有更新][Green]](https://github.com/corona10/goimagehash)   [![godoc][GoDoc]](https://godoc.org/github.com/corona10/goimagehash)
+* [goimagehash](https://github.com/corona10/goimagehash) **star:247**  图像哈希处理的Go语言包。   [![godoc][GoDoc]](https://godoc.org/github.com/corona10/goimagehash)
 * [rez](https://github.com/bamiaux/rez) **star:193** 纯Go语言和SIMD实现的图像大小调整。   [![最近一年没有更新][Yellow]](https://github.com/bamiaux/rez)   [![godoc][GoDoc]](https://godoc.org/github.com/bamiaux/rez)
 * [img](https://github.com/hawx/img) **star:131** 图像处理工具的集合。   [![最近一年没有更新][Yellow]](https://github.com/hawx/img)   [![godoc][GoDoc]](https://godoc.org/github.com/hawx/img)
 * [darkroom](https://github.com/gojek/darkroom) **star:98** An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.   [![godoc][GoDoc]](https://godoc.org/github.com/gojek/darkroom)
@@ -1017,7 +1017,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [xlog](https://github.com/xfxdev/xlog) **star:6** 插件架构和灵活的日志系统，带有多级别、多日志目标和自定义日志格式。   [![godoc][GoDoc]](https://godoc.org/github.com/xfxdev/xlog)
 * [logmatic](https://github.com/borderstech/logmatic) **star:6** Go的彩色日志记录器，带有可配置的日志级别。   [![godoc][GoDoc]](https://godoc.org/github.com/borderstech/logmatic)
 * [logo](https://github.com/mbndr/logo) **star:5** Go的日志工具，可配置的日志写入器。   [![最近一年没有更新][Yellow]](https://github.com/mbndr/logo)   [![godoc][GoDoc]](https://godoc.org/github.com/mbndr/logo)
-* [go-log](https://github.com/pieterclaerhout/go-log) **star:1** 具有strack跟踪、对象转储和可选时间戳的日志记录库。   [![最近一周有更新][Green]](https://github.com/pieterclaerhout/go-log)   [![godoc][GoDoc]](https://godoc.org/github.com/pieterclaerhout/go-log)
+* [go-log](https://github.com/pieterclaerhout/go-log) **star:1** 具有strack跟踪、对象转储和可选时间戳的日志记录库。   [![godoc][GoDoc]](https://godoc.org/github.com/pieterclaerhout/go-log)
 
 ## 机器学习
 
@@ -1034,6 +1034,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [bayesian](https://github.com/jbrukh/bayesian) **star:642** Go的朴素贝叶斯分类。   [![godoc][GoDoc]](https://godoc.org/github.com/jbrukh/bayesian)
 * [gobrain](https://github.com/goml/gobrain) **star:411** 用 Go 编写的神经网络库。   [![godoc][GoDoc]](https://godoc.org/github.com/goml/gobrain)
 * [regommend](https://github.com/muesli/regommend) **star:259** 推荐和协同过滤引擎。   [![godoc][GoDoc]](https://godoc.org/github.com/muesli/regommend)
+* [ocrserver](https://github.com/otiai10/ocrserver) **star:252** 一个简单的OCR API服务器，非常容易地使用Docker和Heroku部署。   [![godoc][GoDoc]](https://godoc.org/github.com/otiai10/ocrserver)
 * [go-deep](https://github.com/patrikeh/go-deep) **star:240** 一个功能丰富的神经网络库 。   [![godoc][GoDoc]](https://godoc.org/github.com/patrikeh/go-deep)
 * [onnx-go](https://github.com/owulveryck/onnx-go) **star:224** Go Interface， 用于开放式神经网络交换(Open Neural Network Exchange)。   [![最近一周有更新][Green]](https://github.com/owulveryck/onnx-go)   [![godoc][GoDoc]](https://godoc.org/github.com/owulveryck/onnx-go)
 * [go-galib](https://github.com/thoj/go-galib) **star:173** 用Go编写的遗传算法库。   [![最近一年没有更新][Yellow]](https://github.com/thoj/go-galib)   [![godoc][GoDoc]](https://godoc.org/github.com/thoj/go-galib)
@@ -1043,7 +1044,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Goptuna](https://github.com/c-bata/goptuna) **star:97** Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.   [![godoc][GoDoc]](https://godoc.org/github.com/c-bata/goptuna)
 * [goga](https://github.com/tomcraven/goga) **star:79** Go的遗传算法库。   [![最近一年没有更新][Yellow]](https://github.com/tomcraven/goga)   [![godoc][GoDoc]](https://godoc.org/github.com/tomcraven/goga)
 * [libsvm](https://github.com/datastream/libsvm) **star:63** 基于LIBSVM 3.14实现。   [![最近一年没有更新][Yellow]](https://github.com/datastream/libsvm)   [![godoc][GoDoc]](https://godoc.org/github.com/datastream/libsvm)
-* [ocrserver](https://github.com/otiai10/ocrserver)  一个简单的OCR API服务器，非常容易地使用Docker和Heroku部署。
 * [neural-go](https://github.com/schuyler/neural-go) **star:61** 多层感知器网络在Go中的实现，使用反向传播算法进行训练。   [![最近一年没有更新][Yellow]](https://github.com/schuyler/neural-go)   [![godoc][GoDoc]](https://godoc.org/github.com/schuyler/neural-go)
 * [go-pr](https://github.com/daviddengcn/go-pr) **star:57** Go编写的模式识别包。   [![最近一年没有更新][Yellow]](https://github.com/daviddengcn/go-pr)   [![godoc][GoDoc]](https://godoc.org/github.com/daviddengcn/go-pr)
 * [neat](https://github.com/jinyeom/neat) **star:56** 即插即用的并行Go框架，用于增强拓扑的神经进化(NeuroEvolution of Augmenting Topologies)。   [![最近一年没有更新][Yellow]](https://github.com/jinyeom/neat)   [![godoc][GoDoc]](https://godoc.org/github.com/jinyeom/neat)   [![归档项目][Archived]](https://github.com/jinyeom/neat)
@@ -1317,7 +1317,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gl](https://github.com/go-gl/gl) **star:668** OpenGL 的 Go 接口实现(通过glow生成)。   [![godoc][GoDoc]](https://godoc.org/github.com/go-gl/gl)
 * [mathgl](https://github.com/go-gl/mathgl) **star:309** 完全基于 Go 实现的数学软件包，专门用于处理三维数学。借鉴于 GLM。   [![godoc][GoDoc]](https://godoc.org/github.com/go-gl/mathgl)
 * [goxjs/gl](https://github.com/goxjs/gl) **star:130** 跨平台的OpenGL 接口实现(OS X, Linux, Windows，浏览器，iOS, Android)。   [![最近一年没有更新][Yellow]](https://github.com/goxjs/gl)   [![godoc][GoDoc]](https://godoc.org/github.com/goxjs/gl)
-* [goxjs/glfw](https://github.com/goxjs/glfw) **star:59** 跨平台 glfw 库，可用于创建 OpenGL 上下文并接收事件。   [![最近一周有更新][Green]](https://github.com/goxjs/glfw)   [![godoc][GoDoc]](https://godoc.org/github.com/goxjs/glfw)
+* [goxjs/glfw](https://github.com/goxjs/glfw) **star:59** 跨平台 glfw 库，可用于创建 OpenGL 上下文并接收事件。   [![godoc][GoDoc]](https://godoc.org/github.com/goxjs/glfw)
 
 ## ORM
 
@@ -1327,7 +1327,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Xorm](https://github.com/go-xorm/xorm) **star:5588** 基于 Go 的简单而强大的ORM。   [![star > 2000][Awesome]](https://github.com/go-xorm/xorm)   [![godoc][GoDoc]](https://godoc.org/github.com/go-xorm/xorm)   [![包含中文文档][CN]](https://github.com/go-xorm/xorm)
 * [go-pg](https://github.com/go-pg/pg) **star:3322** 用于 PostgreSQL 的ORM。侧重于 PostgreSQL 的特性和性能。   [![star > 2000][Awesome]](https://github.com/go-pg/pg)   [![最近一周有更新][Green]](https://github.com/go-pg/pg)   [![godoc][GoDoc]](https://godoc.org/github.com/go-pg/pg)
 * [gorp](https://github.com/go-gorp/gorp) **star:3243** 基于 Go 的关系持久性 ORM-ish 库。   [![star > 2000][Awesome]](https://github.com/go-gorp/gorp)   [![最近一周有更新][Green]](https://github.com/go-gorp/gorp)   [![godoc][GoDoc]](https://godoc.org/github.com/go-gorp/gorp)
-* [SQLBoiler](https://github.com/volatiletech/sqlboiler) **star:2514** ORM 生成器。根据数据库 schema 生成一个功能强大且运行速度快的ORM。   [![star > 2000][Awesome]](https://github.com/volatiletech/sqlboiler)   [![最近一周有更新][Green]](https://github.com/volatiletech/sqlboiler)   [![godoc][GoDoc]](https://godoc.org/github.com/volatiletech/sqlboiler)
+* [SQLBoiler](https://github.com/volatiletech/sqlboiler) **star:2521** ORM 生成器。根据数据库 schema 生成一个功能强大且运行速度快的ORM。   [![star > 2000][Awesome]](https://github.com/volatiletech/sqlboiler)   [![最近一周有更新][Green]](https://github.com/volatiletech/sqlboiler)   [![godoc][GoDoc]](https://godoc.org/github.com/volatiletech/sqlboiler)
 * [upper.io/db](https://github.com/upper/db) **star:2002** 对外提供统一的接口用于访问不同的存储介质，例如PostgreSQL, MySQL, SQLite, MSSQL, QL、MongoDB.。   [![star > 2000][Awesome]](https://github.com/upper/db)   [![godoc][GoDoc]](https://godoc.org/github.com/upper/db)
 * [reform](https://github.com/go-reform/reform) **star:828** 基于非空接口和代码生成的 ORM。   [![godoc][GoDoc]](https://godoc.org/github.com/go-reform/reform)
 * [pop/soda](https://github.com/gobuffalo/pop) **star:756** 数据库迁移、创建、ORM等。用于MySQL、PostgreSQL和SQLite。   [![最近一周有更新][Green]](https://github.com/gobuffalo/pop)   [![godoc][GoDoc]](https://godoc.org/github.com/gobuffalo/pop)
@@ -1440,7 +1440,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Cameradar](https://github.com/Ullaakut/cameradar) **star:1957** 工具和库，以远程入侵RTSP流从监控摄像头。   [![最近一周有更新][Green]](https://github.com/Ullaakut/cameradar)   [![godoc][GoDoc]](https://godoc.org/github.com/Ullaakut/cameradar)
 * [acmetool](https://github.com/hlandau/acme) **star:1720** ACME(让我们用自动更新加密)客户端工具。   [![godoc][GoDoc]](https://godoc.org/github.com/hlandau/acme)
 * [memguard](https://github.com/awnumar/memguard) **star:1627** 一个用于处理内存中敏感值的纯Go库。   [![最近一周有更新][Green]](https://github.com/awnumar/memguard)   [![godoc][GoDoc]](https://godoc.org/github.com/awnumar/memguard)
-* [secure](https://github.com/unrolled/secure) **star:1348** Go 语言 HTTP 中间件，为 Go 提供了一些安全功能   [![最近一周有更新][Green]](https://github.com/unrolled/secure)   [![godoc][GoDoc]](https://godoc.org/github.com/unrolled/secure)
+* [secure](https://github.com/unrolled/secure) **star:1348** Go 语言 HTTP 中间件，为 Go 提供了一些安全功能   [![godoc][GoDoc]](https://godoc.org/github.com/unrolled/secure)
 * [acra](https://github.com/cossacklabs/acra) **star:492** 网络加密代理保护基于数据库的应用程序免受数据泄漏:强选择性加密，SQL注入预防，入侵检测系统。   [![godoc][GoDoc]](https://godoc.org/github.com/cossacklabs/acra)
 * [nacl](https://github.com/kevinburke/nacl) **star:459**  Go 实现NaCL API的集合。   [![godoc][GoDoc]](https://godoc.org/github.com/kevinburke/nacl)
 * [BadActor](https://github.com/jaredfolkins/badactor) **star:259** 一个驻留在内存中的，应用驱动的监控程序，受 fail2ban 的启发   [![godoc][GoDoc]](https://godoc.org/github.com/jaredfolkins/badactor)
@@ -1461,7 +1461,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 *用于二进制序列化的库和工具。 (翻译出错了? 试试 [英文版](README_EN.md#serialization) 吧~)*
 
 * [jsoniter](https://github.com/json-iterator/go) **star:6624** 高性能，100% 兼容的“encoding/json” 替代品   [![star > 2000][Awesome]](https://github.com/json-iterator/go)   [![最近一周有更新][Green]](https://github.com/json-iterator/go)   [![godoc][GoDoc]](https://godoc.org/github.com/json-iterator/go)
-* [goprotobuf](https://github.com/golang/protobuf) **star:5807** 通过库和协议编译器插件使 Go 语言支持 Google的 protocol buffers.   [![star > 2000][Awesome]](https://github.com/golang/protobuf)   [![最近一周有更新][Green]](https://github.com/golang/protobuf)   [![godoc][GoDoc]](https://godoc.org/github.com/golang/protobuf)
+* [goprotobuf](https://github.com/golang/protobuf) **star:5807** 通过库和协议编译器插件使 Go 语言支持 Google的 protocol buffers.   [![star > 2000][Awesome]](https://github.com/golang/protobuf)   [![godoc][GoDoc]](https://godoc.org/github.com/golang/protobuf)
 * [gogoprotobuf](https://github.com/gogo/protobuf) **star:3308** Go 语言的 Protocol Buffer 库。   [![star > 2000][Awesome]](https://github.com/gogo/protobuf)   [![godoc][GoDoc]](https://godoc.org/github.com/gogo/protobuf)
 * [mapstructure](https://github.com/mitchellh/mapstructure) **star:2796** 用于对原生键值对进行解码生成 Go 语言结构体   [![star > 2000][Awesome]](https://github.com/mitchellh/mapstructure)   [![godoc][GoDoc]](https://godoc.org/github.com/mitchellh/mapstructure)
 * [go-codec](https://github.com/ugorji/go) **star:1313** 高性能、多功能、规范化编码解码以及 rpc 库， 用于 msgpack, cbor 和 json，支持基于运行时的 OR 码生成   [![godoc][GoDoc]](https://godoc.org/github.com/ugorji/go)
@@ -1554,7 +1554,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [go-carpet](https://github.com/msoap/go-carpet) **star:200** 在终端中查看测试覆盖率的工具。   [![最近一周有更新][Green]](https://github.com/msoap/go-carpet)   [![godoc][GoDoc]](https://godoc.org/github.com/msoap/go-carpet)
     * [charlatan](https://github.com/percolate/charlatan) **star:192** 为测试生成假接口实现的工具。   [![godoc][GoDoc]](https://godoc.org/github.com/percolate/charlatan)
     * [gotest.tools](https://github.com/gotestyourself/gotest.tools) **star:137** 一组包，用于增强go测试包并支持公共模式。   [![godoc][GoDoc]](https://godoc.org/github.com/gotestyourself/gotest.tools)
-    * [flute](https://github.com/suzuki-shunsuke/flute)  HTTP客户端测试框架。
     * [endly](https://github.com/viant/endly) **star:113** 声明性端到端功能测试。   [![最近一周有更新][Green]](https://github.com/viant/endly)   [![godoc][GoDoc]](https://godoc.org/github.com/viant/endly)
     * [GoSpec](https://github.com/orfjackal/gospec) **star:112** 用于 Go 编程语言的bdd风格的测试框架。   [![最近一年没有更新][Yellow]](https://github.com/orfjackal/gospec)   [![godoc][GoDoc]](https://godoc.org/github.com/orfjackal/gospec)
     * [cupaloy](https://github.com/bradleyjkemp/cupaloy) **star:94** 测试框架的简单快照测试插件。   [![godoc][GoDoc]](https://godoc.org/github.com/bradleyjkemp/cupaloy)
@@ -1572,9 +1571,10 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [dsunit](https://github.com/viant/dsunit) **star:26** 用于SQL、NoSQL、结构化文件的数据存储测试。   [![godoc][GoDoc]](https://godoc.org/github.com/viant/dsunit)
     * [assert](https://github.com/go-playground/assert) **star:16** 基础断言库，用于对 Go 语言程序进行测试，提供了一些用于自定义断言的代码块   [![godoc][GoDoc]](https://godoc.org/github.com/go-playground/assert)
     * [testcase](https://github.com/adamluzsi/testcase) **star:12** 行为驱动开发的惯用测试框架。   [![godoc][GoDoc]](https://godoc.org/github.com/adamluzsi/testcase)
-    * [gosuite](https://github.com/pavlo/gosuite) **star:9** 轻量级测试套，为 Go1.7's Subtests 带来了setup/teardown 功能   [![最近一年没有更新][Yellow]](https://github.com/pavlo/gosuite)   [![godoc][GoDoc]](https://godoc.org/github.com/pavlo/gosuite)
+    * [flute](https://github.com/suzuki-shunsuke/flute) **star:10** HTTP客户端测试框架。   [![最近一周有更新][Green]](https://github.com/suzuki-shunsuke/flute)   [![godoc][GoDoc]](https://godoc.org/github.com/suzuki-shunsuke/flute)
     * [badio](https://github.com/cavaliercoder/badio) **star:9** Go 语言 testing/iotest 包的扩展。   [![最近一年没有更新][Yellow]](https://github.com/cavaliercoder/badio)   [![godoc][GoDoc]](https://godoc.org/github.com/cavaliercoder/badio)
     * [gocrest](https://github.com/corbym/gocrest) **star:9** 用于 Go 断言的可组合的类似 hamcrest 的 matchers。   [![最近一年没有更新][Yellow]](https://github.com/corbym/gocrest)   [![godoc][GoDoc]](https://godoc.org/github.com/corbym/gocrest)
+    * [gosuite](https://github.com/pavlo/gosuite) **star:9** 轻量级测试套，为 Go1.7's Subtests 带来了setup/teardown 功能   [![最近一年没有更新][Yellow]](https://github.com/pavlo/gosuite)   [![godoc][GoDoc]](https://godoc.org/github.com/pavlo/gosuite)
     * [gogiven](https://github.com/corbym/gogiven) **star:8** 类似于 YATSPEC 的Go BDD测试框架。   [![最近一年没有更新][Yellow]](https://github.com/corbym/gogiven)   [![godoc][GoDoc]](https://godoc.org/github.com/corbym/gogiven)
     * [schema](https://github.com/jgroeneveld/schema) **star:7** 快速、简单地匹配请求和响应中使用的JSON模式的表达式。   [![godoc][GoDoc]](https://godoc.org/github.com/jgroeneveld/schema)
     * [testsql](https://github.com/zhulongcheng/testsql) **star:7** 在测试前从SQL文件生成测试数据，并在测试完成后清除数据。   [![godoc][GoDoc]](https://godoc.org/github.com/zhulongcheng/testsql)
@@ -1658,7 +1658,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
     * [encdec](https://github.com/mickep76/encdec) **star:3** 软件包为编码器和解码器提供了通用接口。   [![godoc][GoDoc]](https://godoc.org/github.com/mickep76/encdec)
     * [ltsv](https://github.com/Wing924/ltsv) **star:3** 用于Go的高性能[LTSV(标签为Tab Separeted Value)](http://ltsv.org/)阅读器。   [![godoc][GoDoc]](https://godoc.org/github.com/Wing924/ltsv)
 * Utility
-    * [xurls](https://github.com/mvdan/xurls) **star:549** 从文本中提取url。   [![最近一周有更新][Green]](https://github.com/mvdan/xurls)   [![godoc][GoDoc]](https://godoc.org/github.com/mvdan/xurls)
+    * [xurls](https://github.com/mvdan/xurls) **star:549** 从文本中提取url。   [![godoc][GoDoc]](https://godoc.org/github.com/mvdan/xurls)
     * [gotabulate](https://github.com/bndr/gotabulate) **star:215** 使用 Go 语言简单、美观的打印表格数据   [![最近一年没有更新][Yellow]](https://github.com/bndr/gotabulate)   [![godoc][GoDoc]](https://godoc.org/github.com/bndr/gotabulate)
     * [radix](https://github.com/yourbasic/radix) **star:147** 快速字符串排序算法。   [![最近一年没有更新][Yellow]](https://github.com/yourbasic/radix)   [![godoc][GoDoc]](https://godoc.org/github.com/yourbasic/radix)
     * [parth](https://github.com/codemodus/parth) **star:34** URL路径分割解析。   [![godoc][GoDoc]](https://godoc.org/github.com/codemodus/parth)
@@ -1757,13 +1757,13 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [hub](https://github.com/github/hub) **star:18034** 封装了 git 命令，提供了额外的功能用于在终端中和 Github 进行交互。   [![star > 2000][Awesome]](https://github.com/github/hub)   [![最近一周有更新][Green]](https://github.com/github/hub)   [![godoc][GoDoc]](https://godoc.org/github.com/github/hub)
 * [delve](https://github.com/derekparker/delve) **star:12847** Go 语言调试器   [![star > 2000][Awesome]](https://github.com/derekparker/delve)   [![最近一周有更新][Green]](https://github.com/derekparker/delve)   [![godoc][GoDoc]](https://godoc.org/github.com/derekparker/delve)
 * [ctop](https://github.com/bcicen/ctop) **star:9188** [Top-like](http://ctop.sh)接口(例如htop)， 用于容器数据收集。   [![star > 2000][Awesome]](https://github.com/bcicen/ctop)   [![godoc][GoDoc]](https://godoc.org/github.com/bcicen/ctop)
-* [wuzz](https://github.com/asciimoo/wuzz) **star:8450** 用于HTTP检查的交互式cli工具。   [![star > 2000][Awesome]](https://github.com/asciimoo/wuzz)   [![最近一周有更新][Green]](https://github.com/asciimoo/wuzz)   [![godoc][GoDoc]](https://godoc.org/github.com/asciimoo/wuzz)
+* [wuzz](https://github.com/asciimoo/wuzz) **star:8450** 用于HTTP检查的交互式cli工具。   [![star > 2000][Awesome]](https://github.com/asciimoo/wuzz)   [![godoc][GoDoc]](https://godoc.org/github.com/asciimoo/wuzz)
 * [sqlx](https://github.com/jmoiron/sqlx) **star:7386** 为内建的数据库/sql 软件包提供一组扩展。   [![star > 2000][Awesome]](https://github.com/jmoiron/sqlx)   [![godoc][GoDoc]](https://godoc.org/github.com/jmoiron/sqlx)
 * [peco](https://github.com/peco/peco) **star:5637** 简单的交互过滤工具。   [![star > 2000][Awesome]](https://github.com/peco/peco)   [![godoc][GoDoc]](https://godoc.org/github.com/peco/peco)
 * [usql](https://github.com/knq/usql) **star:5465** usql 是一个通用的命令行接口，用于操作 sql 数据库。   [![star > 2000][Awesome]](https://github.com/knq/usql)   [![godoc][GoDoc]](https://godoc.org/github.com/knq/usql)
 * [goreleaser](https://github.com/goreleaser/goreleaser) **star:4883** 尽可能快速的发布 Go 语言二进制文件。   [![star > 2000][Awesome]](https://github.com/goreleaser/goreleaser)   [![最近一周有更新][Green]](https://github.com/goreleaser/goreleaser)   [![godoc][GoDoc]](https://godoc.org/github.com/goreleaser/goreleaser)
 * [godropbox](https://github.com/dropbox/godropbox) **star:3791** 用于编写 Go 语言服务／应用的库，来自 Dropbox.。   [![star > 2000][Awesome]](https://github.com/dropbox/godropbox)   [![godoc][GoDoc]](https://godoc.org/github.com/dropbox/godropbox)
-* [realize](https://github.com/tockins/realize) **star:3397** Go 语言构建系统，可以监控文件变化并重新加载。运行，构建，监控文件并支持自定义路径。   [![star > 2000][Awesome]](https://github.com/tockins/realize)   [![最近一周有更新][Green]](https://github.com/tockins/realize)   [![godoc][GoDoc]](https://godoc.org/github.com/tockins/realize)
+* [realize](https://github.com/tockins/realize) **star:3397** Go 语言构建系统，可以监控文件变化并重新加载。运行，构建，监控文件并支持自定义路径。   [![star > 2000][Awesome]](https://github.com/tockins/realize)   [![godoc][GoDoc]](https://godoc.org/github.com/tockins/realize)
 * [goreporter](https://github.com/wgliang/goreporter) **star:2559** 进行代码静态分析，单元测试，代码检视并生成代码质量报告的工具   [![star > 2000][Awesome]](https://github.com/wgliang/goreporter)   [![最近一年没有更新][Yellow]](https://github.com/wgliang/goreporter)   [![godoc][GoDoc]](https://godoc.org/github.com/wgliang/goreporter)
 * [hystrix-go](https://github.com/afex/hystrix-go) **star:2228** 实现 Hystrix 风格的、程序员预定义的 fallback 机制（熔断。   [![star > 2000][Awesome]](https://github.com/afex/hystrix-go)   [![godoc][GoDoc]](https://godoc.org/github.com/afex/hystrix-go)
 * [panicparse](https://github.com/maruel/panicparse) **star:2170** 将类似的协程分组并对调用栈进行着色   [![star > 2000][Awesome]](https://github.com/maruel/panicparse)   [![godoc][GoDoc]](https://godoc.org/github.com/maruel/panicparse)
@@ -1830,7 +1830,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [gaper](https://github.com/maxcnunes/gaper) **star:41** 当Go项目崩溃或一些人看到文件更改时，构建并重新启动该项目。   [![godoc][GoDoc]](https://godoc.org/github.com/maxcnunes/gaper)
 * [intrinsic](https://github.com/mengzhuo/intrinsic) **star:40** 不需要编写任何汇编代码就能使用 x86 SIMD。   [![最近一年没有更新][Yellow]](https://github.com/mengzhuo/intrinsic)   [![godoc][GoDoc]](https://godoc.org/github.com/mengzhuo/intrinsic)   [![归档项目][Archived]](https://github.com/mengzhuo/intrinsic)
 * [copy-pasta](https://github.com/jutkko/copy-pasta) **star:38** 通用多工作站剪切板，使用类似 S3 的后端作为存储。   [![godoc][GoDoc]](https://godoc.org/github.com/jutkko/copy-pasta)
-* [goseaweedfs](https://github.com/linxGnu/goseaweedfs) **star:38** conseilSeaweedFS 客户端，几乎具有全部的特性。   [![最近一周有更新][Green]](https://github.com/linxGnu/goseaweedfs)   [![godoc][GoDoc]](https://godoc.org/github.com/linxGnu/goseaweedfs)
+* [goseaweedfs](https://github.com/linxGnu/goseaweedfs) **star:38** conseilSeaweedFS 客户端，几乎具有全部的特性。   [![godoc][GoDoc]](https://godoc.org/github.com/linxGnu/goseaweedfs)
 * [golarm](https://github.com/msempere/golarm) **star:36** 告警（支持系统事件）。   [![最近一年没有更新][Yellow]](https://github.com/msempere/golarm)   [![godoc][GoDoc]](https://godoc.org/github.com/msempere/golarm)
 * [retry](https://github.com/thedevsaddam/retry) **star:34** 简单易用的重试机制包，为 Go 。   [![最近一年没有更新][Yellow]](https://github.com/thedevsaddam/retry)   [![godoc][GoDoc]](https://godoc.org/github.com/thedevsaddam/retry)
 * [myhttp](https://github.com/inancgumus/myhttp) **star:33** 简单的API，使HTTP GET请求与超时支持。   [![最近一年没有更新][Yellow]](https://github.com/inancgumus/myhttp)   [![godoc][GoDoc]](https://godoc.org/github.com/inancgumus/myhttp)   [![归档项目][Archived]](https://github.com/inancgumus/myhttp)
@@ -1917,7 +1917,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [m3u8](https://github.com/grafov/m3u8) **star:623** 苹果HLS的M3U8播放列表解析器和生成器库。   [![godoc][GoDoc]](https://godoc.org/github.com/grafov/m3u8)
 * [gmf](https://github.com/3d0c/gmf) **star:570**  FFmpeg av\* 库的 Go 语言接口。   [![godoc][GoDoc]](https://godoc.org/github.com/3d0c/gmf)
 * [go-astits](https://github.com/asticode/go-astits) **star:276** 在GO中解析和演示MPEG传输流(.ts)。   [![godoc][GoDoc]](https://godoc.org/github.com/asticode/go-astits)
-* [go-astisub](https://github.com/asticode/go-astisub) **star:210** 使用 Go 语言操作字幕(.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.)。   [![最近一周有更新][Green]](https://github.com/asticode/go-astisub)   [![godoc][GoDoc]](https://godoc.org/github.com/asticode/go-astisub)
+* [go-astisub](https://github.com/asticode/go-astisub) **star:210** 使用 Go 语言操作字幕(.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.)。   [![godoc][GoDoc]](https://godoc.org/github.com/asticode/go-astisub)
 * [gst](https://github.com/ziutek/gst) **star:154**  GStreamer的Go工具。   [![最近一年没有更新][Yellow]](https://github.com/ziutek/gst)   [![godoc][GoDoc]](https://godoc.org/github.com/ziutek/gst)
 * [libvlc-go](https://github.com/adrg/libvlc-go) **star:77** Go绑定libvlc 2.X/3.X/4。X(由VLC媒体播放器使用)。   [![godoc][GoDoc]](https://godoc.org/github.com/adrg/libvlc-go)
 * [go-m3u8](https://github.com/quangngotan95/go-m3u8) **star:43** 苹果m3u8播放列表的解析器和生成器库。   [![godoc][GoDoc]](https://godoc.org/github.com/quangngotan95/go-m3u8)
@@ -2065,7 +2065,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-checkstyle](https://github.com/qiniu/checkstyle) **star:96** checkstyle是一个类似于java checkstyle的检查工具。   [![godoc][GoDoc]](https://godoc.org/github.com/qiniu/checkstyle)
 * [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple)  gosimple 是 Go 源代码的linter，专门用于简化代码。
 * [goreturns](https://sourcegraph.com/github.com/sqs/goreturns)  添加 zero 返回声明，以匹配 func 返回类型。
-* [GoPlantUML](https://github.com/jfeliu007/goplantuml) **star:66** 生成文本plantump类图的库和CLI，其中包含关于结构和接口的信息，以及它们之间的关系。   [![最近一周有更新][Green]](https://github.com/jfeliu007/goplantuml)   [![godoc][GoDoc]](https://godoc.org/github.com/jfeliu007/goplantuml)
+* [GoPlantUML](https://github.com/jfeliu007/goplantuml) **star:66** 生成文本plantump类图的库和CLI，其中包含关于结构和接口的信息，以及它们之间的关系。   [![godoc][GoDoc]](https://godoc.org/github.com/jfeliu007/goplantuml)
 * [lint](https://github.com/surullabs/lint) **star:64** 将 linters 作为测试的一部分。   [![最近一年没有更新][Yellow]](https://github.com/surullabs/lint)   [![godoc][GoDoc]](https://godoc.org/github.com/surullabs/lint)
 * [validate](https://github.com/mccoyst/validate) **star:62** 使用 tags 自动验证结构体字段。   [![最近一年没有更新][Yellow]](https://github.com/mccoyst/validate)   [![godoc][GoDoc]](https://godoc.org/github.com/mccoyst/validate)
 * [go-outdated](https://github.com/firstrow/go-outdated) **star:45** 显示过期包的终端应用。   [![godoc][GoDoc]](https://godoc.org/github.com/firstrow/go-outdated)   [![归档项目][Archived]](https://github.com/firstrow/go-outdated)
@@ -2074,7 +2074,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ## 编辑器插件
 
 * [vim-go](https://github.com/fatih/vim-go) **star:11316** Go 开发会用到的 Vim 插件。   [![star > 2000][Awesome]](https://github.com/fatih/vim-go)   [![最近一周有更新][Green]](https://github.com/fatih/vim-go)
-* [vscode-go](https://github.com/Microsoft/vscode-go) **star:5463** Visual Studio代码的扩展(VS代码)，它提供了对Go语言的支持。   [![star > 2000][Awesome]](https://github.com/Microsoft/vscode-go)   [![最近一周有更新][Green]](https://github.com/Microsoft/vscode-go)
+* [vscode-go](https://github.com/Microsoft/vscode-go) **star:5463** Visual Studio代码的扩展(VS代码)，它提供了对Go语言的支持。   [![star > 2000][Awesome]](https://github.com/Microsoft/vscode-go)
 * [gocode](https://github.com/nsf/gocode) **star:4795** Autocompletion daemon for the Go programming language.   [![star > 2000][Awesome]](https://github.com/nsf/gocode)   [![godoc][GoDoc]](https://godoc.org/github.com/nsf/gocode)
 * [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof)  在 VS Code 中支持 Go 的基准分析。
 * [GoSublime](https://github.com/DisposaBoy/GoSublime) **star:3283** 包含了可为文本编辑器 SublimeText 3 提供代码自动填充和其他类似IDE的功能的 Golang IDE 插件集合。   [![star > 2000][Awesome]](https://github.com/DisposaBoy/GoSublime)   [![godoc][GoDoc]](https://godoc.org/github.com/DisposaBoy/GoSublime)
@@ -2101,12 +2101,12 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## Go 工具
 
-* [go-swagger](https://github.com/go-swagger/go-swagger) **star:4518** 基于 Go 的Swagger 2.0实现。   [![star > 2000][Awesome]](https://github.com/go-swagger/go-swagger)   [![最近一周有更新][Green]](https://github.com/go-swagger/go-swagger)   [![godoc][GoDoc]](https://godoc.org/github.com/go-swagger/go-swagger)
-* [OctoLinker](https://github.com/OctoLinker/browser-extension) **star:4002** 借助的 OctoLinker 浏览器扩展，可以高效的地浏览  GitHub go文件。   [![star > 2000][Awesome]](https://github.com/OctoLinker/browser-extension)
-* [go-callvis](https://github.com/TrueFurby/go-callvis) **star:2208** 使用 dot format 可视化 Go 程序的调用图。   [![star > 2000][Awesome]](https://github.com/TrueFurby/go-callvis)   [![godoc][GoDoc]](https://godoc.org/github.com/TrueFurby/go-callvis)
-* [depth](https://github.com/KyleBanks/depth) **star:416** 通过分析导入，将包依赖关系树可视化输出。   [![godoc][GoDoc]](https://godoc.org/github.com/KyleBanks/depth)
+* [go-swagger](https://github.com/go-swagger/go-swagger) **star:4520** 基于 Go 的Swagger 2.0实现。   [![star > 2000][Awesome]](https://github.com/go-swagger/go-swagger)   [![godoc][GoDoc]](https://godoc.org/github.com/go-swagger/go-swagger)
+* [OctoLinker](https://github.com/OctoLinker/browser-extension) **star:4011** 借助的 OctoLinker 浏览器扩展，可以高效的地浏览  GitHub go文件。   [![star > 2000][Awesome]](https://github.com/OctoLinker/browser-extension)   [![最近一周有更新][Green]](https://github.com/OctoLinker/browser-extension)
+* [go-callvis](https://github.com/TrueFurby/go-callvis) **star:2211** 使用 dot format 可视化 Go 程序的调用图。   [![star > 2000][Awesome]](https://github.com/TrueFurby/go-callvis)   [![godoc][GoDoc]](https://godoc.org/github.com/TrueFurby/go-callvis)
+* [depth](https://github.com/KyleBanks/depth) **star:417** 通过分析导入，将包依赖关系树可视化输出。   [![godoc][GoDoc]](https://godoc.org/github.com/KyleBanks/depth)
 * [gb](https://getgb.io/)  一个基于项目的易用的构建工具。
-* [richgo](https://github.com/kyoh86/richgo) **star:416** 用文本装饰丰富 go test 的输出。   [![godoc][GoDoc]](https://godoc.org/github.com/kyoh86/richgo)
+* [richgo](https://github.com/kyoh86/richgo) **star:416** 用文本装饰丰富 go test 的输出。   [![最近一周有更新][Green]](https://github.com/kyoh86/richgo)   [![godoc][GoDoc]](https://godoc.org/github.com/kyoh86/richgo)
 * [rts](https://github.com/galeone/rts) **star:190** 从服务器响应生成Go结构。   [![最近一年没有更新][Yellow]](https://github.com/galeone/rts)   [![godoc][GoDoc]](https://godoc.org/github.com/galeone/rts)
 * [godbg](https://github.com/tylerwince/godbg) **star:163** 实现了 Rusts 的 dbg! 宏，可以方便的在开发过程中快速、容易地调试。   [![godoc][GoDoc]](https://godoc.org/github.com/tylerwince/godbg)
 * [colorgo](https://github.com/songgao/colorgo) **star:100** 将 go 命令包装成彩色的 go build 输出。   [![最近一年没有更新][Yellow]](https://github.com/songgao/colorgo)   [![godoc][GoDoc]](https://godoc.org/github.com/songgao/colorgo)
@@ -2114,7 +2114,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [go-pkg-complete](https://github.com/skelterjohn/go-pkg-complete) **star:36** Bash completion for go and wgo。   [![最近一年没有更新][Yellow]](https://github.com/skelterjohn/go-pkg-complete)
 * [generator-go-lang](https://github.com/axelspringer/generator-go-lang) **star:16** 一个[Yeoman](http://yeoman.io)生成器，用于启动新的 Go 项目。
 * [gilbert](https://go-gilbert.github.io)  一个为 Go 项目而生的构建系统和任务运行器。
-* [go-james](https://github.com/pieterclaerhout/go-james) **star:2** 去项目骨架创造者，建立和测试您的项目没有手动设置。   [![最近一周有更新][Green]](https://github.com/pieterclaerhout/go-james)   [![godoc][GoDoc]](https://godoc.org/github.com/pieterclaerhout/go-james)
+* [go-james](https://github.com/pieterclaerhout/go-james) **star:2** 去项目骨架创造者，建立和测试您的项目没有手动设置。   [![godoc][GoDoc]](https://godoc.org/github.com/pieterclaerhout/go-james)
 
 ## 软件包
 
@@ -2122,113 +2122,113 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ### DevOps 工具
 
-* [kubernetes](https://github.com/kubernetes/kubernetes) **star:60637** 来自谷歌的容器集群管理器。   [![star > 2000][Awesome]](https://github.com/kubernetes/kubernetes)   [![最近一周有更新][Green]](https://github.com/kubernetes/kubernetes)   [![godoc][GoDoc]](https://godoc.org/github.com/kubernetes/kubernetes)
-* [Moby](https://github.com/moby/moby) **star:55690** Collaborative project for the container ecosystem to assemble container-based systems.   [![star > 2000][Awesome]](https://github.com/moby/moby)   [![最近一周有更新][Green]](https://github.com/moby/moby)   [![godoc][GoDoc]](https://godoc.org/github.com/moby/moby)
-* [traefik](https://github.com/containous/traefik) **star:26122** 反向代理和负载均衡器，支持多个后端。   [![star > 2000][Awesome]](https://github.com/containous/traefik)   [![最近一周有更新][Green]](https://github.com/containous/traefik)   [![godoc][GoDoc]](https://godoc.org/github.com/containous/traefik)
+* [kubernetes](https://github.com/kubernetes/kubernetes) **star:60699** 来自谷歌的容器集群管理器。   [![star > 2000][Awesome]](https://github.com/kubernetes/kubernetes)   [![最近一周有更新][Green]](https://github.com/kubernetes/kubernetes)   [![godoc][GoDoc]](https://godoc.org/github.com/kubernetes/kubernetes)
+* [Moby](https://github.com/moby/moby) **star:55704** Collaborative project for the container ecosystem to assemble container-based systems.   [![star > 2000][Awesome]](https://github.com/moby/moby)   [![最近一周有更新][Green]](https://github.com/moby/moby)   [![godoc][GoDoc]](https://godoc.org/github.com/moby/moby)
+* [traefik](https://github.com/containous/traefik) **star:26139** 反向代理和负载均衡器，支持多个后端。   [![star > 2000][Awesome]](https://github.com/containous/traefik)   [![最近一周有更新][Green]](https://github.com/containous/traefik)   [![godoc][GoDoc]](https://godoc.org/github.com/containous/traefik)
+* [Gitea](https://github.com/go-gitea/gitea) **star:17273** 从 Gogs fork，完全由社区驱动。   [![star > 2000][Awesome]](https://github.com/go-gitea/gitea)   [![最近一周有更新][Green]](https://github.com/go-gitea/gitea)   [![godoc][GoDoc]](https://godoc.org/github.com/go-gitea/gitea)   [![包含中文文档][CN]](https://github.com/go-gitea/gitea)
 * [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator)  将所有GitHub repositories、issues、milestones 和 labels 都迁移到 Gitea。
-* [Gitea](https://github.com/go-gitea/gitea) **star:17258** 从 Gogs fork，完全由社区驱动。   [![star > 2000][Awesome]](https://github.com/go-gitea/gitea)   [![最近一周有更新][Green]](https://github.com/go-gitea/gitea)   [![godoc][GoDoc]](https://godoc.org/github.com/go-gitea/gitea)   [![包含中文文档][CN]](https://github.com/go-gitea/gitea)
-* [Vegeta](https://github.com/tsenart/vegeta) **star:13252** HTTP负载测试工具和库。超过9000 !   [![star > 2000][Awesome]](https://github.com/tsenart/vegeta)   [![godoc][GoDoc]](https://godoc.org/github.com/tsenart/vegeta)
-* [Hey](https://github.com/rakyll/hey) **star:7148** 压力测试工具，可用来代替 ApacheBench (ab)。   [![star > 2000][Awesome]](https://github.com/rakyll/hey)   [![最近一周有更新][Green]](https://github.com/rakyll/hey)   [![godoc][GoDoc]](https://godoc.org/github.com/rakyll/hey)
-* [GVM](https://github.com/moovweb/gvm) **star:4790** GVM 提供了一个接口来管理 Go 版本。   [![star > 2000][Awesome]](https://github.com/moovweb/gvm)
+* [Vegeta](https://github.com/tsenart/vegeta) **star:13295** HTTP负载测试工具和库。超过9000 !   [![star > 2000][Awesome]](https://github.com/tsenart/vegeta)   [![godoc][GoDoc]](https://godoc.org/github.com/tsenart/vegeta)
+* [Packer](https://github.com/mitchellh/packer) **star:9574** 用于从一个源配置为多个平台创建相同的机器图像。   [![star > 2000][Awesome]](https://github.com/mitchellh/packer)   [![最近一周有更新][Green]](https://github.com/mitchellh/packer)   [![godoc][GoDoc]](https://godoc.org/github.com/mitchellh/packer)
+* [Hey](https://github.com/rakyll/hey) **star:7155** 压力测试工具，可用来代替 ApacheBench (ab)。   [![star > 2000][Awesome]](https://github.com/rakyll/hey)   [![最近一周有更新][Green]](https://github.com/rakyll/hey)   [![godoc][GoDoc]](https://godoc.org/github.com/rakyll/hey)
+* [GVM](https://github.com/moovweb/gvm) **star:4793** GVM 提供了一个接口来管理 Go 版本。   [![star > 2000][Awesome]](https://github.com/moovweb/gvm)
 * [Wide](https://wide.b3log.org/login)  为使用 Golang 的团队提供基于 web 的 IDE。
-* [webhook](https://github.com/adnanh/webhook) **star:4478** 允许用户创建在服务器上执行命令的 HTTP hooks。   [![star > 2000][Awesome]](https://github.com/adnanh/webhook)   [![godoc][GoDoc]](https://godoc.org/github.com/adnanh/webhook)
-* [gaia](https://github.com/gaia-pipeline/gaia) **star:3878** 可用于任何编程语言来构建强大的管道。   [![star > 2000][Awesome]](https://github.com/gaia-pipeline/gaia)   [![godoc][GoDoc]](https://godoc.org/github.com/gaia-pipeline/gaia)
+* [webhook](https://github.com/adnanh/webhook) **star:4541** 允许用户创建在服务器上执行命令的 HTTP hooks。   [![star > 2000][Awesome]](https://github.com/adnanh/webhook)   [![最近一周有更新][Green]](https://github.com/adnanh/webhook)   [![godoc][GoDoc]](https://godoc.org/github.com/adnanh/webhook)
+* [gaia](https://github.com/gaia-pipeline/gaia) **star:3883** 可用于任何编程语言来构建强大的管道。   [![star > 2000][Awesome]](https://github.com/gaia-pipeline/gaia)   [![最近一周有更新][Green]](https://github.com/gaia-pipeline/gaia)   [![godoc][GoDoc]](https://godoc.org/github.com/gaia-pipeline/gaia)
 * [gox](https://github.com/mitchellh/gox) **star:3538** 非常简单，没有多余的跨平台编译工具。   [![star > 2000][Awesome]](https://github.com/mitchellh/gox)   [![godoc][GoDoc]](https://godoc.org/github.com/mitchellh/gox)
-* [bosun](https://github.com/bosun-monitor/bosun) **star:2897** 按照时间轴发出告警的框架。   [![star > 2000][Awesome]](https://github.com/bosun-monitor/bosun)   [![最近一周有更新][Green]](https://github.com/bosun-monitor/bosun)   [![godoc][GoDoc]](https://godoc.org/github.com/bosun-monitor/bosun)
-* [bombardier](https://github.com/codesenberg/bombardier) **star:1888** 快速跨平台 HTTP 基准测试工具。   [![godoc][GoDoc]](https://godoc.org/github.com/codesenberg/bombardier)
+* [bosun](https://github.com/bosun-monitor/bosun) **star:2898** 按照时间轴发出告警的框架。   [![star > 2000][Awesome]](https://github.com/bosun-monitor/bosun)   [![最近一周有更新][Green]](https://github.com/bosun-monitor/bosun)   [![godoc][GoDoc]](https://godoc.org/github.com/bosun-monitor/bosun)
+* [bombardier](https://github.com/codesenberg/bombardier) **star:1889** 快速跨平台 HTTP 基准测试工具。   [![godoc][GoDoc]](https://godoc.org/github.com/codesenberg/bombardier)
 * [goxc](https://github.com/laher/goxc) **star:1634** 专注于跨平台编译和打包的 Go 构建工具。   [![godoc][GoDoc]](https://godoc.org/github.com/laher/goxc)
-* [fac](https://github.com/mkchoi212/fac) **star:1630** 修复 git 合并冲突。   [![godoc][GoDoc]](https://godoc.org/github.com/mkchoi212/fac)
-* [kala](https://github.com/ajvb/kala) **star:1379** 简单、现代和高性能的作业调度程序。   [![godoc][GoDoc]](https://godoc.org/github.com/ajvb/kala)
+* [fac](https://github.com/mkchoi212/fac) **star:1629** 修复 git 合并冲突。   [![godoc][GoDoc]](https://godoc.org/github.com/mkchoi212/fac)
+* [kala](https://github.com/ajvb/kala) **star:1379** 简单、现代和高性能的作业调度程序。   [![最近一周有更新][Green]](https://github.com/ajvb/kala)   [![godoc][GoDoc]](https://godoc.org/github.com/ajvb/kala)
 * [StatusOK](https://github.com/sanathp/statusok) **star:1229** 监视您的网站和REST api。当服务器宕机或响应时间超过预期时，通过Slack、电子邮件获得通知。   [![godoc][GoDoc]](https://godoc.org/github.com/sanathp/statusok)
 * [script](https://github.com/bitfield/script) **star:1227** 让DevOps编写类shell和系统管理任务变得更加容易。   [![godoc][GoDoc]](https://godoc.org/github.com/bitfield/script)
 * [s3gof3r](https://github.com/rlmcpherson/s3gof3r) **star:1022** 小型实用程序/库，针对大型对象在Amazon S3中的高速传输进行了优化。   [![godoc][GoDoc]](https://godoc.org/github.com/rlmcpherson/s3gof3r)
 * [Pomerium](https://github.com/pomerium/pomerium) **star:698** Pomerium是一个可识别身份的访问代理。   [![最近一周有更新][Green]](https://github.com/pomerium/pomerium)   [![godoc][GoDoc]](https://godoc.org/github.com/pomerium/pomerium)
-* [go-selfupdate](https://github.com/sanbornm/go-selfupdate) **star:693** 允许你的 Go应用程序 进行自我更新。   [![godoc][GoDoc]](https://godoc.org/github.com/sanbornm/go-selfupdate)
+* [go-selfupdate](https://github.com/sanbornm/go-selfupdate) **star:694** 允许你的 Go应用程序 进行自我更新。   [![godoc][GoDoc]](https://godoc.org/github.com/sanbornm/go-selfupdate)
 * [skm](https://github.com/TimothyYe/skm) **star:572** SKM是一个简单而强大的SSH密钥管理器，它可以帮助您轻松地管理多个SSH密钥!   [![godoc][GoDoc]](https://godoc.org/github.com/TimothyYe/skm)
 * [Scaleway-cli](https://github.com/scaleway/scaleway-cli) **star:551** 从命令行管理 BareMetal 服务器(与使用Docker一样容易)。   [![godoc][GoDoc]](https://godoc.org/github.com/scaleway/scaleway-cli)
 * [aurora](https://github.com/xuri/aurora) **star:432** 基于web的跨平台 Beanstalkd 队列服务器控制台。
+* [govvv](https://github.com/ahmetalpbalkan/govvv) **star:414** 可轻松地添加版本信息到 Go 二进制文件。   [![最近一年没有更新][Yellow]](https://github.com/ahmetalpbalkan/govvv)   [![godoc][GoDoc]](https://godoc.org/github.com/ahmetalpbalkan/govvv)
 * [gonative](https://github.com/inconshreveable/gonative) **star:313** 用原生 Go 创建一个跨平台的 Go 工具链。   [![最近一年没有更新][Yellow]](https://github.com/inconshreveable/gonative)   [![godoc][GoDoc]](https://godoc.org/github.com/inconshreveable/gonative)
-* [govvv](https://github.com/ahmetalpbalkan/govvv)  可轻松地添加版本信息到 Go 二进制文件。
 * [Mora](https://github.com/emicklei/mora) **star:268** 用于访问 MongoDB 文档和元数据的 REST 服务器。   [![最近一年没有更新][Yellow]](https://github.com/emicklei/mora)   [![godoc][GoDoc]](https://godoc.org/github.com/emicklei/mora)
 * [lstags](https://github.com/ivanilves/lstags) **star:238** 提供了工具和API，可用来同步不同注册中心的Docker图像。   [![godoc][GoDoc]](https://godoc.org/github.com/ivanilves/lstags)
 * [dogo](https://github.com/liudng/dogo) **star:221** 监视源文件中的更改并自动编译和运行(restart)。   [![godoc][GoDoc]](https://godoc.org/github.com/liudng/dogo)   [![包含中文文档][CN]](https://github.com/liudng/dogo)
-* [godbg](https://github.com/sirnewton01/godbg) **star:219** 基于 web 的 gdb 前端应用程序。   [![最近一年没有更新][Yellow]](https://github.com/sirnewton01/godbg)
 * [Gogs](https://gogs.io/)  自托管的Git服务。
+* [godbg](https://github.com/sirnewton01/godbg) **star:219** 基于 web 的 gdb 前端应用程序。   [![最近一年没有更新][Yellow]](https://github.com/sirnewton01/godbg)
 * [Pewpew](https://github.com/bengadbois/pewpew) **star:215** 灵活的 HTTP 命令行压测工具。   [![godoc][GoDoc]](https://godoc.org/github.com/bengadbois/pewpew)
 * [manssh](https://github.com/xwjdsh/manssh) **star:208** manssh是一个命令行工具，可以方便地管理ssh别名配置。   [![最近一年没有更新][Yellow]](https://github.com/xwjdsh/manssh)   [![godoc][GoDoc]](https://godoc.org/github.com/xwjdsh/manssh)
-* [aptly](https://github.com/smira/aptly)  Debian存储库管理工具。
 * [gobrew](https://github.com/cryptojuice/gobrew) **star:176** gobrew 允许您轻松地在 go 的多个版本之间切换。   [![最近一年没有更新][Yellow]](https://github.com/cryptojuice/gobrew)
 * [Blast](https://github.com/dave/blast) **star:171** 一个用于API负载测试和批处理作业的简单工具。   [![最近一年没有更新][Yellow]](https://github.com/dave/blast)   [![godoc][GoDoc]](https://godoc.org/github.com/dave/blast)
 * [ostent](https://github.com/ostrost/ostent) **star:164** 收集和显示系统指标，并可选 Graphite and/or fluxdb作为依赖。   [![最近一年没有更新][Yellow]](https://github.com/ostrost/ostent)   [![godoc][GoDoc]](https://godoc.org/github.com/ostrost/ostent)
-* [Packer](https://github.com/mitchellh/packer)  用于从一个源配置为多个平台创建相同的机器图像。
 * [grapes](https://github.com/yaronsumel/grapes) **star:141** 旨在轻松地通过ssh分发命令的轻量级工具。   [![godoc][GoDoc]](https://godoc.org/github.com/yaronsumel/grapes)
 * [easyssh-proxy](https://github.com/appleboy/easyssh-proxy) **star:113** Golang package for easy remote execution through SSH and SCP downloading via `ProxyCommand`.   [![godoc][GoDoc]](https://godoc.org/github.com/appleboy/easyssh-proxy)
-* [jcli](https://github.com/jenkins-zh/jenkins-cli) **star:96** 詹金斯CLI允许你管理你的詹金斯作为一个简单的方法。   [![最近一周有更新][Green]](https://github.com/jenkins-zh/jenkins-cli)   [![godoc][GoDoc]](https://godoc.org/github.com/jenkins-zh/jenkins-cli)   [![包含中文文档][CN]](https://github.com/jenkins-zh/jenkins-cli)
-* [kcli](https://github.com/cswank/kcli) **star:95** 用于检查kafka主题/分区/消息的命令行工具。   [![最近一周有更新][Green]](https://github.com/cswank/kcli)   [![godoc][GoDoc]](https://godoc.org/github.com/cswank/kcli)
+* [jcli](https://github.com/jenkins-zh/jenkins-cli) **star:97** 詹金斯CLI允许你管理你的詹金斯作为一个简单的方法。   [![最近一周有更新][Green]](https://github.com/jenkins-zh/jenkins-cli)   [![godoc][GoDoc]](https://godoc.org/github.com/jenkins-zh/jenkins-cli)   [![包含中文文档][CN]](https://github.com/jenkins-zh/jenkins-cli)
+* [kcli](https://github.com/cswank/kcli) **star:96** 用于检查kafka主题/分区/消息的命令行工具。   [![最近一周有更新][Green]](https://github.com/cswank/kcli)   [![godoc][GoDoc]](https://godoc.org/github.com/cswank/kcli)
 * [terraform-provider-openapi](https://github.com/dikhan/terraform-provider-openapi) **star:86** Terraform provider plugin，它根据OpenAPI文档(以前称为swagger文件)在运行时动态配置自身，该文档包含了公开的api的定义。   [![最近一周有更新][Green]](https://github.com/dikhan/terraform-provider-openapi)   [![godoc][GoDoc]](https://godoc.org/github.com/dikhan/terraform-provider-openapi)
 * [winrm-cli](https://github.com/masterzen/winrm-cli) **star:80** 在Windows机器上远程执行命令的Cli工具。   [![godoc][GoDoc]](https://godoc.org/github.com/masterzen/winrm-cli)
 * [go-furnace](https://github.com/go-furnace/go-furnace) **star:73** 用Go编写的托管解决方案，可轻松地在AWS、GCP或DigitalOcean上部署应用程序。   [![godoc][GoDoc]](https://godoc.org/github.com/go-furnace/go-furnace)
 * [drone-scp](https://github.com/appleboy/drone-scp) **star:65** 通过 SSH 进行文件拷贝。其中 SSH 通过二进制文件、docker 或 Drone CI触发。   [![最近一周有更新][Green]](https://github.com/appleboy/drone-scp)   [![godoc][GoDoc]](https://godoc.org/github.com/appleboy/drone-scp)
-* [Dockerfile-Generator](https://github.com/ozankasikci/dockerfile-generator) **star:55** 一个go库和一个可执行文件，它使用各种输入通道生成有效的Dockerfiles。   [![godoc][GoDoc]](https://godoc.org/github.com/ozankasikci/dockerfile-generator)
+* [Dockerfile-Generator](https://github.com/ozankasikci/dockerfile-generator) **star:56** 一个go库和一个可执行文件，它使用各种输入通道生成有效的Dockerfiles。   [![godoc][GoDoc]](https://godoc.org/github.com/ozankasikci/dockerfile-generator)
 * [Dropship](https://github.com/chrismckenzie/dropship) **star:46** 通过 cdn 部署代码的工具。   [![最近一年没有更新][Yellow]](https://github.com/chrismckenzie/dropship)   [![godoc][GoDoc]](https://godoc.org/github.com/chrismckenzie/dropship)
 * [Rodent](https://github.com/alouche/rodent) **star:30** 管理Go版本、项目和跟踪依赖项。   [![最近一年没有更新][Yellow]](https://github.com/alouche/rodent)
 * [drone-jenkins](https://github.com/appleboy/drone-jenkins) **star:26** 使用二进制文件、docker或 Drone CI 来触发下游Jenkins作业。   [![godoc][GoDoc]](https://godoc.org/github.com/appleboy/drone-jenkins)
 * [awsenv](https://github.com/soniah/awsenv) **star:22** 可以为 profile 加载Amazon (AWS)环境变量的轻量二进制文件。   [![最近一年没有更新][Yellow]](https://github.com/soniah/awsenv)   [![godoc][GoDoc]](https://godoc.org/github.com/soniah/awsenv)
-* [DepCharge](https://github.com/centerorbit/depcharge) **star:9** Helps orchestrating the execution of commands across the many dependencies in larger projects.   [![godoc][GoDoc]](https://godoc.org/github.com/centerorbit/depcharge)
 * [lwc](https://github.com/timdp/lwc) **star:9** UNIX wc命令的实时更新版本。   [![最近一年没有更新][Yellow]](https://github.com/timdp/lwc)   [![godoc][GoDoc]](https://godoc.org/github.com/timdp/lwc)
+* [DepCharge](https://github.com/centerorbit/depcharge) **star:9** Helps orchestrating the execution of commands across the many dependencies in larger projects.   [![godoc][GoDoc]](https://godoc.org/github.com/centerorbit/depcharge)
 * [sg](https://github.com/ChristopherRabotin/sg) **star:5** 可测试一组HTTP极限(如ab)，可以在每个调用之间使用响应代码和数据，根据之前的响应来确定特定的服务器压力。   [![最近一年没有更新][Yellow]](https://github.com/ChristopherRabotin/sg)   [![godoc][GoDoc]](https://godoc.org/github.com/ChristopherRabotin/sg)
+* [aptly](https://github.com/smira/aptly) **star:1** Debian存储库管理工具。   [![godoc][GoDoc]](https://godoc.org/github.com/smira/aptly)
 
 ### 其他软件
 
-* [restic](https://github.com/restic/restic) **star:8835** 消除重复项备份程序。   [![star > 2000][Awesome]](https://github.com/restic/restic)   [![最近一周有更新][Green]](https://github.com/restic/restic)   [![godoc][GoDoc]](https://godoc.org/github.com/restic/restic)
-* [Seaweed File System](https://github.com/chrislusf/seaweedfs) **star:8793** 快速、简单、可伸缩的分布式文件系统，采用了O(1)磁盘查找。   [![star > 2000][Awesome]](https://github.com/chrislusf/seaweedfs)   [![最近一周有更新][Green]](https://github.com/chrislusf/seaweedfs)   [![godoc][GoDoc]](https://godoc.org/github.com/chrislusf/seaweedfs)
-* [confd](https://github.com/kelseyhightower/confd) **star:6689** 使用 etcd 或 consul 的模板和数据管理本地应用程序配置文件。   [![star > 2000][Awesome]](https://github.com/kelseyhightower/confd)   [![最近一周有更新][Green]](https://github.com/kelseyhightower/confd)   [![godoc][GoDoc]](https://godoc.org/github.com/kelseyhightower/confd)
-* [Comcast](https://github.com/tylertreat/Comcast) **star:6298** 模拟坏的网络连接。   [![star > 2000][Awesome]](https://github.com/tylertreat/Comcast)   [![godoc][GoDoc]](https://godoc.org/github.com/tylertreat/Comcast)
-* [LiteIDE](https://github.com/visualfc/liteide) **star:5732** 简单的、开源的、跨平台的Go IDE。   [![star > 2000][Awesome]](https://github.com/visualfc/liteide)   [![包含中文文档][CN]](https://github.com/visualfc/liteide)
-* [drive](https://github.com/odeke-em/drive) **star:5138** 基于命令行的谷歌驱动器客户端。   [![star > 2000][Awesome]](https://github.com/odeke-em/drive)   [![godoc][GoDoc]](https://godoc.org/github.com/odeke-em/drive)
-* [nes](https://github.com/fogleman/nes) **star:4262** 任天堂娱乐系统(NES)模拟器。   [![star > 2000][Awesome]](https://github.com/fogleman/nes)   [![godoc][GoDoc]](https://godoc.org/github.com/fogleman/nes)
-* [orange-cat](https://github.com/noraesae/orange-cat)  用Go编写的Markdown预览器。
+* [hugo](http://gohugo.io/)  快速、现代的静态网站引擎。
+* [Gor](https://github.com/buger/gor) **star:11935** Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。   [![star > 2000][Awesome]](https://github.com/buger/gor)   [![godoc][GoDoc]](https://godoc.org/github.com/buger/gor)
+* [restic](https://github.com/restic/restic) **star:8843** 消除重复项备份程序。   [![star > 2000][Awesome]](https://github.com/restic/restic)   [![最近一周有更新][Green]](https://github.com/restic/restic)   [![godoc][GoDoc]](https://godoc.org/github.com/restic/restic)
+* [Seaweed File System](https://github.com/chrislusf/seaweedfs) **star:8802** 快速、简单、可伸缩的分布式文件系统，采用了O(1)磁盘查找。   [![star > 2000][Awesome]](https://github.com/chrislusf/seaweedfs)   [![最近一周有更新][Green]](https://github.com/chrislusf/seaweedfs)   [![godoc][GoDoc]](https://godoc.org/github.com/chrislusf/seaweedfs)
+* [confd](https://github.com/kelseyhightower/confd) **star:6692** 使用 etcd 或 consul 的模板和数据管理本地应用程序配置文件。   [![star > 2000][Awesome]](https://github.com/kelseyhightower/confd)   [![最近一周有更新][Green]](https://github.com/kelseyhightower/confd)   [![godoc][GoDoc]](https://godoc.org/github.com/kelseyhightower/confd)
+* [Comcast](https://github.com/tylertreat/Comcast) **star:6300** 模拟坏的网络连接。   [![star > 2000][Awesome]](https://github.com/tylertreat/Comcast)   [![godoc][GoDoc]](https://godoc.org/github.com/tylertreat/Comcast)
+* [LiteIDE](https://github.com/visualfc/liteide) **star:5734** 简单的、开源的、跨平台的Go IDE。   [![star > 2000][Awesome]](https://github.com/visualfc/liteide)   [![包含中文文档][CN]](https://github.com/visualfc/liteide)
+* [drive](https://github.com/odeke-em/drive) **star:5140** 基于命令行的谷歌驱动器客户端。   [![star > 2000][Awesome]](https://github.com/odeke-em/drive)   [![godoc][GoDoc]](https://godoc.org/github.com/odeke-em/drive)
+* [nes](https://github.com/fogleman/nes) **star:4266** 任天堂娱乐系统(NES)模拟器。   [![star > 2000][Awesome]](https://github.com/fogleman/nes)   [![godoc][GoDoc]](https://godoc.org/github.com/fogleman/nes)
 * [tsuru](https://tsuru.io/)  Extensible and open source Platform as a Service software.
-* [toxiproxy](https://github.com/shopify/toxiproxy) **star:4201** 为自动化测试模拟网络和系统条件的代理。   [![star > 2000][Awesome]](https://github.com/shopify/toxiproxy)   [![godoc][GoDoc]](https://godoc.org/github.com/shopify/toxiproxy)
-* [Duplicacy](https://github.com/gilbertchen/duplicacy) **star:2814** 跨平台网络和云备份工具。   [![star > 2000][Awesome]](https://github.com/gilbertchen/duplicacy)   [![最近一周有更新][Green]](https://github.com/gilbertchen/duplicacy)   [![godoc][GoDoc]](https://godoc.org/github.com/gilbertchen/duplicacy)
-* [croc](https://github.com/schollz/croc) **star:2633** 轻松、安全地将文件或文件夹从一台计算机发送到另一台计算机。   [![star > 2000][Awesome]](https://github.com/schollz/croc)   [![最近一周有更新][Green]](https://github.com/schollz/croc)   [![godoc][GoDoc]](https://godoc.org/github.com/schollz/croc)
+* [toxiproxy](https://github.com/shopify/toxiproxy) **star:4203** 为自动化测试模拟网络和系统条件的代理。   [![star > 2000][Awesome]](https://github.com/shopify/toxiproxy)   [![godoc][GoDoc]](https://godoc.org/github.com/shopify/toxiproxy)
+* [Duplicacy](https://github.com/gilbertchen/duplicacy) **star:2815** 跨平台网络和云备份工具。   [![star > 2000][Awesome]](https://github.com/gilbertchen/duplicacy)   [![godoc][GoDoc]](https://godoc.org/github.com/gilbertchen/duplicacy)
+* [croc](https://github.com/schollz/croc) **star:2633** 轻松、安全地将文件或文件夹从一台计算机发送到另一台计算机。   [![star > 2000][Awesome]](https://github.com/schollz/croc)   [![godoc][GoDoc]](https://godoc.org/github.com/schollz/croc)
 * [myLG](https://github.com/mehrdadrad/mylg) **star:2244** 命令行网络诊断工具。   [![star > 2000][Awesome]](https://github.com/mehrdadrad/mylg)   [![最近一年没有更新][Yellow]](https://github.com/mehrdadrad/mylg)   [![godoc][GoDoc]](https://godoc.org/github.com/mehrdadrad/mylg)
 * [GoBoy](https://github.com/Humpheh/goboy) **star:2160** 用 Go 编写的任天堂Game Boy彩色模拟器。   [![star > 2000][Awesome]](https://github.com/Humpheh/goboy)   [![godoc][GoDoc]](https://godoc.org/github.com/Humpheh/goboy)
-* [Stack Up](https://github.com/pressly/sup) **star:2035** Stack Up 是一个超级简单的部署工具 — 只面向Unix。   [![star > 2000][Awesome]](https://github.com/pressly/sup)   [![godoc][GoDoc]](https://godoc.org/github.com/pressly/sup)
 * [syncthing](https://syncthing.net/)  开放，分散的文件同步工具和协议。
+* [Stack Up](https://github.com/pressly/sup) **star:2035** Stack Up 是一个超级简单的部署工具 — 只面向Unix。   [![star > 2000][Awesome]](https://github.com/pressly/sup)   [![最近一周有更新][Green]](https://github.com/pressly/sup)   [![godoc][GoDoc]](https://godoc.org/github.com/pressly/sup)
 * [limetext](http://limetext.org/)  一个强大而优雅的文本编辑器。
-* [lgo](https://github.com/yunabe/lgo) **star:1903** 与 Jupyter 可进行交互 Go 程序。它支持代码完成、代码检查以及与Go 100% 兼容性。   [![godoc][GoDoc]](https://godoc.org/github.com/yunabe/lgo)
-* [Circuit](https://github.com/gocircuit/circuit) **star:1800** Circuit 是一个可编程平台即服务(PaaS)和/或基础设施即服务(IaaS)，用于管理、发现、同步和编排包含云应用程序的服务和主机。   [![godoc][GoDoc]](https://godoc.org/github.com/gocircuit/circuit)
-* [snap](https://github.com/intelsdi-x/snap) **star:1799** 强大的遥测框架。   [![godoc][GoDoc]](https://godoc.org/github.com/intelsdi-x/snap)
-* [scc](https://github.com/boyter/scc) **star:1144** 一个非常快速准确的代码计数器，采用了复杂的计算和 COCOMO 预估。   [![godoc][GoDoc]](https://godoc.org/github.com/boyter/scc)
-* [Documize](https://github.com/documize/community) **star:943** 集成了SaaS工具数据的现代wiki软件。   [![最近一周有更新][Green]](https://github.com/documize/community)
+* [lgo](https://github.com/yunabe/lgo) **star:1904** 与 Jupyter 可进行交互 Go 程序。它支持代码完成、代码检查以及与Go 100% 兼容性。   [![godoc][GoDoc]](https://godoc.org/github.com/yunabe/lgo)
+* [Circuit](https://github.com/gocircuit/circuit) **star:1802** Circuit 是一个可编程平台即服务(PaaS)和/或基础设施即服务(IaaS)，用于管理、发现、同步和编排包含云应用程序的服务和主机。   [![godoc][GoDoc]](https://godoc.org/github.com/gocircuit/circuit)
+* [snap](https://github.com/intelsdi-x/snap) **star:1800** 强大的遥测框架。   [![godoc][GoDoc]](https://godoc.org/github.com/intelsdi-x/snap)
+* [borg](https://github.com/crufter/borg) **star:1443** 基于终端的bash代码段搜索引擎。   [![最近一年没有更新][Yellow]](https://github.com/crufter/borg)   [![godoc][GoDoc]](https://godoc.org/github.com/crufter/borg)
+* [scc](https://github.com/boyter/scc) **star:1147** 一个非常快速准确的代码计数器，采用了复杂的计算和 COCOMO 预估。   [![godoc][GoDoc]](https://godoc.org/github.com/boyter/scc)
+* [Documize](https://github.com/documize/community) **star:944** 集成了SaaS工具数据的现代wiki软件。   [![最近一周有更新][Green]](https://github.com/documize/community)
 * [Go Package Store](https://github.com/shurcooL/Go-Package-Store) **star:880** App that displays updates for the Go packages in your GOPATH.   [![godoc][GoDoc]](https://godoc.org/github.com/shurcooL/Go-Package-Store)
-* [peg](https://github.com/pointlander/peg) **star:649** 解析表达式语法，是Packrat解析器生成器的实现。   [![godoc][GoDoc]](https://godoc.org/github.com/pointlander/peg)
-* [Leaps](https://github.com/jeffail/leaps) **star:649** 使用操作转换的成对编程服务。   [![godoc][GoDoc]](https://godoc.org/github.com/jeffail/leaps)
 * [Pipe](https://github.com/b3log/pipe)  一个小巧漂亮的博客平台。
+* [Leaps](https://github.com/jeffail/leaps) **star:649** 使用操作转换的成对编程服务。   [![godoc][GoDoc]](https://godoc.org/github.com/jeffail/leaps)
+* [peg](https://github.com/pointlander/peg) **star:649** 解析表达式语法，是Packrat解析器生成器的实现。   [![godoc][GoDoc]](https://godoc.org/github.com/pointlander/peg)
 * [vFlow](https://github.com/VerizonDigital/vflow) **star:626** 高性能、可伸缩和可靠的 IPFIX、sFlow和 Netflow 收集器。   [![godoc][GoDoc]](https://godoc.org/github.com/VerizonDigital/vflow)
 * [gfile](https://github.com/Antonito/gfile) **star:516** 通过WebRTC在两台计算机之间安全地传输文件，不需要任何第三方依赖。   [![godoc][GoDoc]](https://godoc.org/github.com/Antonito/gfile)
 * [GoDNS](https://github.com/timothyye/godns) **star:502** 一个动态DNS客户端工具，支持DNSPod & HE.net。   [![godoc][GoDoc]](https://godoc.org/github.com/timothyye/godns)
-* [shell2http](https://github.com/msoap/shell2http) **star:469** 通过http服务器执行shell命令(用于原型或远程控制)。   [![godoc][GoDoc]](https://godoc.org/github.com/msoap/shell2http)
+* [shell2http](https://github.com/msoap/shell2http) **star:470** 通过http服务器执行shell命令(用于原型或远程控制)。   [![godoc][GoDoc]](https://godoc.org/github.com/msoap/shell2http)
 * [mockingjay](https://github.com/quii/mockingjay-server) **star:430** 一份配置文件中便可伪造HTTP服务器与用户之间的行为。您还可以使服务器随机宕机，以帮助进行更实际的性能测试。   [![godoc][GoDoc]](https://godoc.org/github.com/quii/mockingjay-server)
-* [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) **star:384** 视频流 torrent 客户端。   [![godoc][GoDoc]](https://godoc.org/github.com/Sioro-Neoku/go-peerflix)
+* [go-peerflix](https://github.com/Sioro-Neoku/go-peerflix) **star:385** 视频流 torrent 客户端。   [![godoc][GoDoc]](https://godoc.org/github.com/Sioro-Neoku/go-peerflix)
 * [gocc](https://github.com/goccmack/gocc) **star:368** Gocc是一个用Go编写的编译器工具包。   [![godoc][GoDoc]](https://godoc.org/github.com/goccmack/gocc)
 * [wellington](https://github.com/wellington/wellington) **star:292** Sass 项目管理工具，使用sprite函数(如Compass)扩展语言。   [![最近一年没有更新][Yellow]](https://github.com/wellington/wellington)   [![godoc][GoDoc]](https://godoc.org/github.com/wellington/wellington)
-* [ipe](https://github.com/dimiro1/ipe) **star:288** Open source Pusher server implementation compatible with Pusher client libraries written in GO.   [![godoc][GoDoc]](https://godoc.org/github.com/dimiro1/ipe)
+* [ipe](https://github.com/dimiro1/ipe) **star:289** Open source Pusher server implementation compatible with Pusher client libraries written in GO.   [![godoc][GoDoc]](https://godoc.org/github.com/dimiro1/ipe)
 * [ide](https://github.com/thestrukture/ide) **star:252** 基于浏览器的IDE   [![godoc][GoDoc]](https://godoc.org/github.com/thestrukture/ide)
 * [Cherry](https://github.com/rafael-santiago/cherry) **star:204** 微型网络聊天服务器。   [![最近一年没有更新][Yellow]](https://github.com/rafael-santiago/cherry)   [![godoc][GoDoc]](https://godoc.org/github.com/rafael-santiago/cherry)
+* [orange-cat](https://github.com/noraesae/orange-cat) **star:181** 用Go编写的Markdown预览器。   [![godoc][GoDoc]](https://godoc.org/github.com/noraesae/orange-cat)
 * [Orbit](https://github.com/gulien/orbit) **star:132** 一个根据模板来运行命令和生成文件的简单小工具。   [![最近一周有更新][Green]](https://github.com/gulien/orbit)   [![godoc][GoDoc]](https://godoc.org/github.com/gulien/orbit)
-* [Juju](https://jujucharms.com/)  Cloud-agnostic的服务部署和编制 —— 支持EC2、Azure、Openstack、MAAS等。
 * [joincap](https://github.com/assafmo/joincap) **star:125** 用于合并多个pcap文件的命令行实用程序。   [![godoc][GoDoc]](https://godoc.org/github.com/assafmo/joincap)
+* [Juju](https://jujucharms.com/)  Cloud-agnostic的服务部署和编制 —— 支持EC2、Azure、Openstack、MAAS等。
 * [Docker](http://www.docker.com/)  面向开发人员和系统管理员的分布式应用程序的开放平台。
 * [DDNS](https://github.com/skibish/ddns) **star:117** 个人 DDNS 客户端。   [![godoc][GoDoc]](https://godoc.org/github.com/skibish/ddns)
-* [borg](https://github.com/crufter/borg)  基于终端的bash代码段搜索引擎。
 * [boxed](https://github.com/tejo/boxed) **star:72** 基于Dropbox的博客引擎。   [![最近一年没有更新][Yellow]](https://github.com/tejo/boxed)   [![godoc][GoDoc]](https://godoc.org/github.com/tejo/boxed)
 * [naclpipe](https://github.com/unix4fun/naclpipe) **star:20** 基于加密管的简单的NaCL EC25519工具。   [![最近一年没有更新][Yellow]](https://github.com/unix4fun/naclpipe)   [![godoc][GoDoc]](https://godoc.org/github.com/unix4fun/naclpipe)
 * [term-quiz](https://github.com/crazcalm/term-quiz) **star:17** 测试你的终端。   [![最近一年没有更新][Yellow]](https://github.com/crazcalm/term-quiz)   [![godoc][GoDoc]](https://godoc.org/github.com/crazcalm/term-quiz)
 * [Snitch](https://github.com/lucasgomide/snitch) **star:15** 当有人通过 Tsuru 部署任何应用程序时，会通知您的团队以及其他工具。   [![最近一年没有更新][Yellow]](https://github.com/lucasgomide/snitch)   [![godoc][GoDoc]](https://godoc.org/github.com/lucasgomide/snitch)
-* [hugo](http://gohugo.io/)  快速、现代的静态网站引擎。
-* [Gor](https://github.com/buger/gor)  Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量。
 * [GoLand](https://jetbrains.com/go)  功能齐全的跨平台 Go IDE。
 * [GoDocTooltip](https://github.com/diankong/GoDocTooltip) **star:12** 包含了 Go 使用手册文档的 Chrome 扩展。   [![最近一年没有更新][Yellow]](https://github.com/diankong/GoDocTooltip)
 
@@ -2239,14 +2239,14 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ## 基准
 
 * [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) **star:1307** HTTP请求路由器基准测试和比较。   [![最近一周有更新][Green]](https://github.com/julienschmidt/go-http-routing-benchmark)   [![godoc][GoDoc]](https://godoc.org/github.com/julienschmidt/go-http-routing-benchmark)
-* [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) **star:1070** web框架基准测试。   [![godoc][GoDoc]](https://godoc.org/github.com/smallnest/go-web-framework-benchmark)
-* [skynet](https://github.com/atemerev/skynet) **star:939** 天网 1M 线程微基准测试。
-* [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) **star:918** Go序列化方法的基准测试。   [![godoc][GoDoc]](https://godoc.org/github.com/alecthomas/go_serialization_benchmarks)
-* [gocostmodel](https://github.com/PuerkitoBio/gocostmodel)  Go语言常用基本操作的基准测试。
+* [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) **star:1071** web框架基准测试。   [![godoc][GoDoc]](https://godoc.org/github.com/smallnest/go-web-framework-benchmark)
+* [skynet](https://github.com/atemerev/skynet) **star:941** 天网 1M 线程微基准测试。
+* [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) **star:919** Go序列化方法的基准测试。   [![最近一周有更新][Green]](https://github.com/alecthomas/go_serialization_benchmarks)   [![godoc][GoDoc]](https://godoc.org/github.com/alecthomas/go_serialization_benchmarks)
 * [speedtest-resize](https://github.com/fawick/speedtest-resize) **star:182** 对比各种图像大小调整算法性能。   [![godoc][GoDoc]](https://godoc.org/github.com/fawick/speedtest-resize)
 * [go-benchmarks](https://github.com/tylertreat/go-benchmarks) **star:128** Few miscellaneous Go microbenchmarks. Compare some language features to alternative approaches   [![最近一年没有更新][Yellow]](https://github.com/tylertreat/go-benchmarks)   [![godoc][GoDoc]](https://godoc.org/github.com/tylertreat/go-benchmarks)
 * [gospeed](https://github.com/feyeleanor/GoSpeed) **star:97** 计算语言结构的速度的微观基准测试。   [![最近一年没有更新][Yellow]](https://github.com/feyeleanor/GoSpeed)   [![godoc][GoDoc]](https://godoc.org/github.com/feyeleanor/GoSpeed)
 * [autobench](https://github.com/davecheney/autobench) **star:89** 用来来比较不同Go版本之间的性能的框架。   [![最近一年没有更新][Yellow]](https://github.com/davecheney/autobench)   [![godoc][GoDoc]](https://godoc.org/github.com/davecheney/autobench)
+* [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) **star:55** Go语言常用基本操作的基准测试。   [![最近一年没有更新][Yellow]](https://github.com/PuerkitoBio/gocostmodel)   [![godoc][GoDoc]](https://godoc.org/github.com/PuerkitoBio/gocostmodel)
 * [golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) **star:49** 为流行的 Go 数据库/SQL实用程序收集基准测试。   [![最近一年没有更新][Yellow]](https://github.com/tyler-smith/golang-sql-benchmark)   [![godoc][GoDoc]](https://godoc.org/github.com/tyler-smith/golang-sql-benchmark)
 * [go-benchmark-app](https://github.com/mrLSD/go-benchmark-app) **star:20** 强大的HTTP基准测试工具，包含了Аb，Wrk，Siege工具。收集统计和各种参数指标，并比较相关结果。   [![最近一年没有更新][Yellow]](https://github.com/mrLSD/go-benchmark-app)   [![godoc][GoDoc]](https://godoc.org/github.com/mrLSD/go-benchmark-app)
 * [kvbench](https://github.com/jimrobinson/kvbench) **star:16** K / V 类型数据库基准测试。   [![godoc][GoDoc]](https://godoc.org/github.com/jimrobinson/kvbench)
@@ -2280,7 +2280,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 * [Go 101](https://go101.org)  一本关注 Go 语法/语义和各种细节的书。
 * [Go Bootcamp](http://golangbootcamp.com)
-* [GoBooks](https://github.com/dariubs/GoBooks) **star:7209** 一份精选的 Go 书籍清单。   [![star > 2000][Awesome]](https://github.com/dariubs/GoBooks)
+* [GoBooks](https://github.com/dariubs/GoBooks) **star:7214** 一份精选的 Go 书籍清单。   [![star > 2000][Awesome]](https://github.com/dariubs/GoBooks)
 * [Go Succinctly](https://github.com/thedevsir/gosuccinctly) **star:13** in Persian.   [![最近一年没有更新][Yellow]](https://github.com/thedevsir/gosuccinctly)   [![godoc][GoDoc]](https://godoc.org/github.com/thedevsir/gosuccinctly)
 * [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf)
 * [Network Programming With Go](https://jan.newmarch.name/go/)
@@ -2292,7 +2292,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ## Gophers
 
-* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) **star:1707** 由 Maria Letta 提供的与 Gopher 有关的图片包，其中包含了插图,表情文字。   [![godoc][GoDoc]](https://godoc.org/github.com/MariaLetta/free-gophers-pack)
+* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) **star:1711** 由 Maria Letta 提供的与 Gopher 有关的图片包，其中包含了插图,表情文字。   [![godoc][GoDoc]](https://godoc.org/github.com/MariaLetta/free-gophers-pack)
 * [gopher-logos](https://github.com/GolangUA/gopher-logos) **star:68** 可爱的 gopher 标识。   [![最近一年没有更新][Yellow]](https://github.com/GolangUA/gopher-logos)
 * [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) **star:30** 与 Go gopher 相关的媒介数据[。ai . svg)。   [![最近一年没有更新][Yellow]](https://github.com/keygx/Go-gopher-Vector)
 * [gopher-stickers](https://github.com/tenntenn/gopher-stickers)
@@ -2369,7 +2369,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ## 网站
 
 * [Go Projects](https://github.com/golang/go/wiki/Projects)  wiki上的 Go 社区项目列表。
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) **star:25267** 其他 awesome 系列的列表。   [![star > 2000][Awesome]](https://github.com/bayandin/awesome-awesomeness)
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) **star:25273** 其他 awesome 系列的列表。   [![star > 2000][Awesome]](https://github.com/bayandin/awesome-awesomeness)
 * [CodinGame](https://www.codingame.com/)  以小游戏互动完成任务的形式来学习 Go。
 * [Go Blog](http://blog.golang.org)  官方 Go 博客。
 * [Go Challenge](http://golang-challenge.org/)  通过解决问题并从 Go 专家那里得到反馈来学习 Go。
@@ -2378,7 +2378,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Go In 5 Minutes](https://www.goin5minutes.com/)  5 minute screencasts focused on getting one thing done.
 * [Go Report Card](https://goreportcard.com)  为你的 Go 包生成一份报告单。
 * [go.dev](https://go.dev/)  一个围棋开发者的中心。
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) **star:15333** Curated list of awesome remote jobs. A lot of them are looking for Go hackers.   [![star > 2000][Awesome]](https://github.com/lukasz-madon/awesome-remote-job)
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) **star:15336** Curated list of awesome remote jobs. A lot of them are looking for Go hackers.   [![star > 2000][Awesome]](https://github.com/lukasz-madon/awesome-remote-job)
 * [Gophercises](https://gophercises.com/)  为 Go 初学者提供免费的代码训练。
 * [golang-graphics](https://github.com/mholt/golang-graphics) **star:144** 收藏的 Go 图像，图形和艺术作品。   [![最近一年没有更新][Yellow]](https://github.com/mholt/golang-graphics)   [![归档项目][Archived]](https://github.com/mholt/golang-graphics)
 * [Gopher Community Chat](https://invite.slack.golangbridge.org)  加入我们为Gophers设立的全新Slack社区([了解它是如何产生的](https://blog.gopheracademy.com/gophers-slack-community/))。
@@ -2401,26 +2401,26 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 ### 教程
 
-* [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) **star:33047** Golang电子书，主要讲述如何用 Golang 建立一个web应用程序。   [![star > 2000][Awesome]](https://github.com/astaxie/build-web-application-with-golang)   [![godoc][GoDoc]](https://godoc.org/github.com/astaxie/build-web-application-with-golang)   [![包含中文文档][CN]](https://github.com/astaxie/build-web-application-with-golang)
+* [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) **star:33060** Golang电子书，主要讲述如何用 Golang 建立一个web应用程序。   [![star > 2000][Awesome]](https://github.com/astaxie/build-web-application-with-golang)   [![最近一周有更新][Green]](https://github.com/astaxie/build-web-application-with-golang)   [![godoc][GoDoc]](https://godoc.org/github.com/astaxie/build-web-application-with-golang)   [![包含中文文档][CN]](https://github.com/astaxie/build-web-application-with-golang)
 * [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)  Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline.
 * [Caching Slow Database Queries](https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9)  如何缓存数据库的慢查询。
 * [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30)  如何取消MySQL查询。
-* [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) **star:516** 一本讲述如何用 Go 进行以太开发的小册。   [![最近一周有更新][Green]](https://github.com/miguelmota/ethereum-development-with-go-book)   [![godoc][GoDoc]](https://godoc.org/github.com/miguelmota/ethereum-development-with-go-book)   [![包含中文文档][CN]](https://github.com/miguelmota/ethereum-development-with-go-book)
-* [Games With Go](http://gameswithgo.org/)  关于编程和游戏开发系列教学视频。
-* [Go By Example](https://gobyexample.com/)  手把手教你 如何在 Go 应用程序中使用注释。
-* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet)   Go's reference card。
+* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) **star:4270**  Go's reference card。   [![star > 2000][Awesome]](https://github.com/a8m/go-lang-cheat-sheet)
 * [Go database/sql tutorial](http://go-database-sql.org/)  数据库概论/ sql。
 * [Go Playground for iOS](https://itunes.apple.com/us/app/go-playground/id1437518275?ls=1&mt=8)  在你的移动设备上编辑你编辑和运行你的 Go 代码。
+* [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) **star:518** 一本讲述如何用 Go 进行以太开发的小册。   [![最近一周有更新][Green]](https://github.com/miguelmota/ethereum-development-with-go-book)   [![godoc][GoDoc]](https://godoc.org/github.com/miguelmota/ethereum-development-with-go-book)   [![包含中文文档][CN]](https://github.com/miguelmota/ethereum-development-with-go-book)
+* [Games With Go](http://gameswithgo.org/)  关于编程和游戏开发系列教学视频。
+* [Go By Example](https://gobyexample.com/)  手把手教你 如何在 Go 应用程序中使用注释。
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)  Go 初学者经常遇到的陷阱、误区、错误
 * [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo)  教你如何用 Go 搭建一个电商平台 (包括demo)。
 * [A Tour of Go](http://tour.golang.org/)  互动的 Go 之旅。
 * [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
-* [go-patterns](https://github.com/tmrts/go-patterns) **star:11526** 策划的清单去设计模式，食谱和习惯用法。   [![star > 2000][Awesome]](https://github.com/tmrts/go-patterns)   [![godoc][GoDoc]](https://godoc.org/github.com/tmrts/go-patterns)
-* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) **star:8769** 学习使用测试驱动开发。   [![star > 2000][Awesome]](https://github.com/quii/learn-go-with-tests)   [![最近一周有更新][Green]](https://github.com/quii/learn-go-with-tests)   [![godoc][GoDoc]](https://godoc.org/github.com/quii/learn-go-with-tests)   [![包含中文文档][CN]](https://github.com/quii/learn-go-with-tests)
+* [go-patterns](https://github.com/tmrts/go-patterns) **star:11532** 策划的清单去设计模式，食谱和习惯用法。   [![star > 2000][Awesome]](https://github.com/tmrts/go-patterns)   [![godoc][GoDoc]](https://godoc.org/github.com/tmrts/go-patterns)
+* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) **star:8777** 学习使用测试驱动开发。   [![star > 2000][Awesome]](https://github.com/quii/learn-go-with-tests)   [![最近一周有更新][Green]](https://github.com/quii/learn-go-with-tests)   [![godoc][GoDoc]](https://godoc.org/github.com/quii/learn-go-with-tests)   [![包含中文文档][CN]](https://github.com/quii/learn-go-with-tests)
 * [Learning Golang - From zero to hero](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)  面向 Golang 初学者教程。
 * [package main](https://www.youtube.com/packagemain)  关于 Go 编程的YouTube频道。
 * [Programming with Google Go](https://www.coursera.org/specializations/google-golang)  Coursera的专业学习可以从零开始。
-* [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) **star:867** 引入示例讲述 Golang 与Node.js在学习上的差异。   [![godoc][GoDoc]](https://godoc.org/github.com/miguelmota/golang-for-nodejs-developers)
+* [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) **star:868** 引入示例讲述 Golang 与Node.js在学习上的差异。   [![godoc][GoDoc]](https://godoc.org/github.com/miguelmota/golang-for-nodejs-developers)
 * [Golangbot](https://golangbot.com/learn-golang-series/)  Go 编程教程。
 * [GolangCode](https://golangcode.com/)  收集代码片段和教程，以帮助处理日常问题。
 * [Hackr.io](https://hackr.io/tutorials/learn-golang)  Go社区投票选举出来的最好的在线 Go 教程。
