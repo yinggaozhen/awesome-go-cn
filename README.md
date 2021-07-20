@@ -2242,6 +2242,7 @@ _**Unofficial** set of patterns for structuring projects._
 *全栈 web 框架。 (翻译出错了? 试试 [英文版](README_EN.md#web-frameworks) 吧~)*
 
 * [Gin](https://github.com/gin-gonic/gin) **star:49653** Gin是一个用Go编写的web框架!它具有一个类似于martini的API，性能更好，速度快40倍。   [![star > 2000][Awesome]](https://github.com/gin-gonic/gin)   [![最近一周有更新][Green]](https://github.com/gin-gonic/gin)   [![godoc][GoDoc]](https://godoc.org/github.com/gin-gonic/gin)
+* [Beego](https://github.com/beego/beego) **star:26673** beego是一种用于 Go 编程语言的开源高性能web框架。   [![star > 2000][Awesome]](https://github.com/beego/beego)   [![包含中文文档][CN]](http://beego.me/docs)
 * [Echo](https://github.com/labstack/echo) **star:20283** 高性能、极简的Go web框架。   [![star > 2000][Awesome]](https://github.com/labstack/echo)   [![最近一周有更新][Green]](https://github.com/labstack/echo)   [![godoc][GoDoc]](https://godoc.org/github.com/labstack/echo)
 * [Fiber](https://github.com/gofiber/fiber) **star:14274** 一个灵感来自Express.js的web框架构建在Fasthttp上。   [![star > 2000][Awesome]](https://github.com/gofiber/fiber)   [![最近一周有更新][Green]](https://github.com/gofiber/fiber)   [![godoc][GoDoc]](https://godoc.org/github.com/gofiber/fiber)
 * [Revel](https://github.com/revel/revel) **star:12303** 用于Go语言的高效web框架。   [![star > 2000][Awesome]](https://github.com/revel/revel)   [![godoc][GoDoc]](https://godoc.org/github.com/revel/revel)
@@ -2262,7 +2263,6 @@ _**Unofficial** set of patterns for structuring projects._
 * [Gondola](https://github.com/rainycape/gondola) **star:308** web框架写的网站越快越好。   [![最近一年没有更新][Yellow]](https://github.com/rainycape/gondola)   [![godoc][GoDoc]](https://godoc.org/github.com/rainycape/gondola)
 * [Golf](https://github.com/dinever/golf) **star:249** Golf 是一个快速、简单、轻量级的 Go 语言微型 web 框架。具有强大的功能且没有标准库以外的依赖。   [![最近一年没有更新][Yellow]](https://github.com/dinever/golf)   [![godoc][GoDoc]](https://godoc.org/github.com/dinever/golf)
 * [Flamingo](https://github.com/i-love-flamingo/flamingo) **star:217** 可插拔web项目的框架。包括模块的概念和提供DI、Configareas、i18n、模板引擎、graphql、可观察性、安全性、事件、路由和反向路由等功能。   [![最近一周有更新][Green]](https://github.com/i-love-flamingo/flamingo)   [![godoc][GoDoc]](https://godoc.org/github.com/i-love-flamingo/flamingo)
-* [Beego](https://github.com/astaxie/beego) **star:199** beego是一种用于 Go 编程语言的开源高性能web框架。   [![包含中文文档][CN]](https://github.com/astaxie/beego)
 * [Buffalo](http://gobuffalo.io)  为 Go 语言带来堪比 Rails 的高生产效率!
 * [Confetti Framework](https://www.confetti-framework.com)  Confetti是一个具有表现力和优雅语法的Go web应用程序框架。五彩纸屑结合了Laravel的优雅和围棋的简单。
 * [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) **star:192** 提供使用干净的体系结构(如DDD和端口和适配器)的电子商务功能，您可以使用这些功能来构建灵活的电子商务应用程序。   [![最近一周有更新][Green]](https://github.com/i-love-flamingo/flamingo-commerce)   [![godoc][GoDoc]](https://godoc.org/github.com/i-love-flamingo/flamingo-commerce)
