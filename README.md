@@ -277,7 +277,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [kingpin](https://github.com/alecthomas/kingpin) **star:3162** 支持子命令的命令行和标志解析器。   [![star > 2000][Awesome]](https://github.com/alecthomas/kingpin)   [![godoc][GoDoc]](https://godoc.org/github.com/alecthomas/kingpin)
 * [Dnote](https://github.com/dnote/dnote) **star:2184** 一个简单的命令行笔记本与多设备同步。   [![star > 2000][Awesome]](https://github.com/dnote/dnote)   [![godoc][GoDoc]](https://godoc.org/github.com/dnote/dnote)
 * [go-flags](https://github.com/jessevdk/go-flags) **star:2079**  Go 命令行选项解析器。   [![star > 2000][Awesome]](https://github.com/jessevdk/go-flags)   [![godoc][GoDoc]](https://godoc.org/github.com/jessevdk/go-flags)
-* [pflag](https://github.com/spf13/pflag) **star:1622** 基于POSIX/GNU-style --flags实现的包，主要用于替换Go的falg包。   [![godoc][GoDoc]](https://godoc.org/github.com/spf13/pflag)
+* [pflag](https://github.com/spf13/pflag) **star:1622** 基于POSIX/GNU-style --flags实现的包，主要用于替换Go的flag包。   [![godoc][GoDoc]](https://godoc.org/github.com/spf13/pflag)
 * [mitchellh/cli](https://github.com/mitchellh/cli) **star:1421** 用于实现命令行接口的Go库。   [![godoc][GoDoc]](https://godoc.org/github.com/mitchellh/cli)
 * [go-arg](https://github.com/alexflint/go-arg) **star:1308** 基于结构的参数解析。   [![godoc][GoDoc]](https://godoc.org/github.com/alexflint/go-arg)
 * [liner](https://github.com/peterh/liner) **star:832** 类似readline-like的命令行接口库。   [![最近一周有更新][Green]](https://github.com/peterh/liner)   [![godoc][GoDoc]](https://godoc.org/github.com/peterh/liner)
