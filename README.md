@@ -610,6 +610,7 @@ additional ordered map implementations.
 - [gofal](https://github.com/xxjwxc/gofal) **star:15** 基于 Go 实现的分数计算。包含分子、分母运算    [![godoc][D]](https://godoc.org/github.com/xxjwxc/gofal)   [![包含中文文档][CN]](https://github.com/xxjwxc/gofal)
 - [slices](https://github.com/srfrog/slices) **star:7** 对片进行操作的函数;类似于“包字符串”，但适用于使用片。   [![godoc][D]](https://godoc.org/github.com/srfrog/slices)
 - [slices](https://github.com/twharmon/slices) **star:6** Pure, generic functions for slices.   [![godoc][D]](https://godoc.org/github.com/twharmon/slices)
+- [mos-algorithm](https://www.scaler.com/topics/data-structures/mos-algorithm/)
 
 ### 可空类型
 
