@@ -1772,7 +1772,7 @@ _实现消息传递系统的库。 (翻译出错了? 试试 [英文版](README_E
 
 _用于操作Microsoft Excel的库。 (翻译出错了? 试试 [英文版](README_EN.md#microsoft-excel) 吧~)_
 
-- [excelize](https://github.com/xuri/excelize) **star:18011** Golang图书馆阅读和写作微软Excel&trade;(XLSX)文件。   [![近一周有更新][G]](https://github.com/xuri/excelize)   [![godoc][D]](https://godoc.org/github.com/xuri/excelize)
+- [excelize](https://github.com/xuri/excelize) **star:18011** 用于读写微软Excel&trade;(XLSX)文件的golang库。   [![近一周有更新][G]](https://github.com/xuri/excelize)   [![godoc][D]](https://godoc.org/github.com/xuri/excelize)
 - [xlsx](https://github.com/tealeg/xlsx) **star:5843** 用以简化在Go程序中读取使用最新版本Microsoft Excel的XML格式文件的库。   [![近一周有更新][G]](https://github.com/tealeg/xlsx)   [![godoc][D]](https://godoc.org/github.com/tealeg/xlsx)
 - [go-excel](https://github.com/szyhf/go-excel) **star:191** 一个简单轻便的阅读器，可以将类关系型数据库(relate-db-like)的excel作为表来读取。   [![godoc][D]](https://godoc.org/github.com/szyhf/go-excel)
 - [xlsx](https://github.com/plandem/xlsx) **star:174** 在Go程序以快速和安全的方式读取/更新现有的Microsoft Excel文件。   [![近三年未更新][Y]](https://github.com/plandem/xlsx)   [![godoc][D]](https://godoc.org/github.com/plandem/xlsx)
