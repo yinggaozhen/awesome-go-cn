@@ -482,6 +482,7 @@ _用于构建标准或基本命令行应用程序的库。 (翻译出错了? 试
 - [getopt](https://github.com/jon-codes/getopt) **star:7** An accurate Go `getopt`, validated against the GNU libc implementation.   [![godoc][D]](https://godoc.org/github.com/jon-codes/getopt)
 - [structcli](https://github.com/leodido/structcli) **star:7** Eliminate Cobra boilerplate: build powerful, feature-rich CLIs declaratively from Go structs.   [![godoc][D]](https://godoc.org/github.com/leodido/structcli)
 - [goopt](https://github.com/napalu/goopt) **star:5** A declarative, struct-tag based CLI framework for Go, with a broad feature set such as hierarchical commands/flags, i18n, shell completion, and validation.   [![近一周有更新][G]](https://github.com/napalu/goopt)   [![godoc][D]](https://godoc.org/github.com/napalu/goopt)
+- [ReleaseRun](https://releaserun.com/) - Browser-based dependency health checkers for package.json, go.mod, Cargo.toml, requirements.txt, Gemfile, pom.xml, and more. Flags EOL packages and known CVEs.
 
 **[⬆ back to top](#contents)**
 
