@@ -362,6 +362,7 @@ _用于构建和使用机器人的库。 (翻译出错了? 试试 [英文版](RE
 - [go-tg](https://github.com/mr-linch/go-tg) **star:124** Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.   [![近一周有更新][G]](https://github.com/mr-linch/go-tg)   [![godoc][D]](https://godoc.org/github.com/mr-linch/go-tg)
 - [slacker](https://github.com/slack-io/slacker) **star:60** 可简单创建Slack机器人的框架。   [![godoc][D]](https://godoc.org/github.com/slack-io/slacker)
 - [micha](https://github.com/onrik/micha) **star:31** 基于 GO 实现的Telegram 机器人API库。   [![godoc][D]](https://godoc.org/github.com/onrik/micha)
+- [ymsdk](https://github.com/rekurt/ymsdk) **star:3** 轻量级的 Yandex Messenger Bot API Go SDK，支持类型安全模型、自动重试和限流处理。   [![godoc][D]](https://godoc.org/github.com/rekurt/ymsdk)
 
 **[⬆ back to top](#contents)**
 
