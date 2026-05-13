@@ -259,6 +259,7 @@ _Libraries for building programs that leverage AI. (翻译出错了? 试试 [英
 - [chromem-go](https://github.com/philippgille/chromem-go) **star:832** Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.   [![godoc][D]](https://godoc.org/github.com/philippgille/chromem-go)
 - [fun](https://gitlab.com/tozd/go/fun)  The simplest but powerful way to use large language models (LLMs) in Go.
 - [OllamaFarm](https://github.com/presbrey/ollamafarm) **star:94** Manage, load-balance, and failover packs of Ollamas.   [![godoc][D]](https://godoc.org/github.com/presbrey/ollamafarm)
+- **[dakera-go](https://github.com/dakera-ai/dakera-go)** - Dakera Go SDK — self-hosted MCP agent memory server.   [![godoc][D]](https://godoc.org/github.com/dakera-ai/dakera-go)
 
 **[⬆ back to top](#contents)**
 
